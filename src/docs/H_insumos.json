@@ -1,0 +1,5658 @@
+[
+  {
+    "period": "2022",
+    "code": "1-00-0366-14",
+    "quantity": 551,
+    "name": "GALON GEL ALCOHOLADO AL 70% ALC",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "1-00-0366-14",
+    "quantity": 332,
+    "name": "GALON GEL ALCOHOLADO AL 70% ALC",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "1-00-0366-14",
+    "quantity": 252,
+    "name": "GALON GEL ALCOHOLADO AL 70% ALC",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "1-00-0366-14",
+    "quantity": 670,
+    "name": "GALON GEL ALCOHOLADO AL 70% ALC",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "1-00-0366-14",
+    "quantity": 355,
+    "name": "GALON GEL ALCOHOLADO AL 70% ALC",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "1-00-0366-14",
+    "quantity": 589,
+    "name": "GALON GEL ALCOHOLADO AL 70% ALC",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "1-00-0366-14",
+    "quantity": 294,
+    "name": "GALON GEL ALCOHOLADO AL 70% ALC",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0035-02",
+    "quantity": 602,
+    "name": "CONECTOR PARA BOMBA DE INFUSION CON FILTRO DE AIRE.",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0035-02",
+    "quantity": 785,
+    "name": "CONECTOR PARA BOMBA DE INFUSION CON FILTRO DE AIRE.",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0035-02",
+    "quantity": 251,
+    "name": "CONECTOR PARA BOMBA DE INFUSION CON FILTRO DE AIRE.",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0035-02",
+    "quantity": 533,
+    "name": "CONECTOR PARA BOMBA DE INFUSION CON FILTRO DE AIRE.",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0035-02",
+    "quantity": 433,
+    "name": "CONECTOR PARA BOMBA DE INFUSION CON FILTRO DE AIRE.",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0035-02",
+    "quantity": 124,
+    "name": "CONECTOR PARA BOMBA DE INFUSION CON FILTRO DE AIRE.",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0035-02",
+    "quantity": 506,
+    "name": "CONECTOR PARA BOMBA DE INFUSION CON FILTRO DE AIRE.",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0037-00",
+    "quantity": 260,
+    "name": "AGUJA PARA NEUMOPERITONEO  (TIPO VERESS) PARA LAPARASCOPIA (Se solicita 120mm)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0037-00",
+    "quantity": 126,
+    "name": "AGUJA PARA NEUMOPERITONEO  (TIPO VERESS) PARA LAPARASCOPIA (Se solicita 120mm)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0037-00",
+    "quantity": 564,
+    "name": "AGUJA PARA NEUMOPERITONEO  (TIPO VERESS) PARA LAPARASCOPIA (Se solicita 120mm)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0037-00",
+    "quantity": 847,
+    "name": "AGUJA PARA NEUMOPERITONEO  (TIPO VERESS) PARA LAPARASCOPIA (Se solicita 120mm)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0037-00",
+    "quantity": 250,
+    "name": "AGUJA PARA NEUMOPERITONEO  (TIPO VERESS) PARA LAPARASCOPIA (Se solicita 120mm)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0037-00",
+    "quantity": 664,
+    "name": "AGUJA PARA NEUMOPERITONEO  (TIPO VERESS) PARA LAPARASCOPIA (Se solicita 120mm)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0037-00",
+    "quantity": 558,
+    "name": "AGUJA PARA NEUMOPERITONEO  (TIPO VERESS) PARA LAPARASCOPIA (Se solicita 120mm)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0075-02",
+    "quantity": 517,
+    "name": "DETERGENTE ANIONICO EN POLVO PRESENTACION: PAQ.DE 4 LIBRAS",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0075-02",
+    "quantity": 450,
+    "name": "DETERGENTE ANIONICO EN POLVO PRESENTACION: PAQ.DE 4 LIBRAS",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0075-02",
+    "quantity": 233,
+    "name": "DETERGENTE ANIONICO EN POLVO PRESENTACION: PAQ.DE 4 LIBRAS",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0075-02",
+    "quantity": 618,
+    "name": "DETERGENTE ANIONICO EN POLVO PRESENTACION: PAQ.DE 4 LIBRAS",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0075-02",
+    "quantity": 272,
+    "name": "DETERGENTE ANIONICO EN POLVO PRESENTACION: PAQ.DE 4 LIBRAS",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0075-02",
+    "quantity": 564,
+    "name": "DETERGENTE ANIONICO EN POLVO PRESENTACION: PAQ.DE 4 LIBRAS",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0075-02",
+    "quantity": 814,
+    "name": "DETERGENTE ANIONICO EN POLVO PRESENTACION: PAQ.DE 4 LIBRAS",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0081-00",
+    "quantity": 574,
+    "name": "AGUJA HIPODÉRMICA,  (SE SOLICITA CALIBRE 18G X 1  1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0081-00",
+    "quantity": 102,
+    "name": "AGUJA HIPODÉRMICA,  (SE SOLICITA CALIBRE 18G X 1  1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0081-00",
+    "quantity": 298,
+    "name": "AGUJA HIPODÉRMICA,  (SE SOLICITA CALIBRE 18G X 1  1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0081-00",
+    "quantity": 673,
+    "name": "AGUJA HIPODÉRMICA,  (SE SOLICITA CALIBRE 18G X 1  1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0081-00",
+    "quantity": 670,
+    "name": "AGUJA HIPODÉRMICA,  (SE SOLICITA CALIBRE 18G X 1  1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0081-00",
+    "quantity": 355,
+    "name": "AGUJA HIPODÉRMICA,  (SE SOLICITA CALIBRE 18G X 1  1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0081-00",
+    "quantity": 464,
+    "name": "AGUJA HIPODÉRMICA,  (SE SOLICITA CALIBRE 18G X 1  1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0084-00",
+    "quantity": 796,
+    "name": "AGUJA HIPODÉRMICA,   (SE SOLICITA CALIBRE 21G, 1 PULGADAS, 25MM DE LONGITUD.)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0084-00",
+    "quantity": 519,
+    "name": "AGUJA HIPODÉRMICA,   (SE SOLICITA CALIBRE 21G, 1 PULGADAS, 25MM DE LONGITUD.)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0084-00",
+    "quantity": 672,
+    "name": "AGUJA HIPODÉRMICA,   (SE SOLICITA CALIBRE 21G, 1 PULGADAS, 25MM DE LONGITUD.)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0084-00",
+    "quantity": 279,
+    "name": "AGUJA HIPODÉRMICA,   (SE SOLICITA CALIBRE 21G, 1 PULGADAS, 25MM DE LONGITUD.)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0084-00",
+    "quantity": 253,
+    "name": "AGUJA HIPODÉRMICA,   (SE SOLICITA CALIBRE 21G, 1 PULGADAS, 25MM DE LONGITUD.)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0084-00",
+    "quantity": 111,
+    "name": "AGUJA HIPODÉRMICA,   (SE SOLICITA CALIBRE 21G, 1 PULGADAS, 25MM DE LONGITUD.)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0084-00",
+    "quantity": 239,
+    "name": "AGUJA HIPODÉRMICA,   (SE SOLICITA CALIBRE 21G, 1 PULGADAS, 25MM DE LONGITUD.)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0085-00",
+    "quantity": 135,
+    "name": "AGUJA HIPODÉRMICA,  SE SOLICITA CALIBRE 21G X 1 1/2 PULGADAS, 38MM DE LONGITUD",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0085-00",
+    "quantity": 359,
+    "name": "AGUJA HIPODÉRMICA,  SE SOLICITA CALIBRE 21G X 1 1/2 PULGADAS, 38MM DE LONGITUD",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0085-00",
+    "quantity": 452,
+    "name": "AGUJA HIPODÉRMICA,  SE SOLICITA CALIBRE 21G X 1 1/2 PULGADAS, 38MM DE LONGITUD",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0085-00",
+    "quantity": 230,
+    "name": "AGUJA HIPODÉRMICA,  SE SOLICITA CALIBRE 21G X 1 1/2 PULGADAS, 38MM DE LONGITUD",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0085-00",
+    "quantity": 814,
+    "name": "AGUJA HIPODÉRMICA,  SE SOLICITA CALIBRE 21G X 1 1/2 PULGADAS, 38MM DE LONGITUD",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0085-00",
+    "quantity": 103,
+    "name": "AGUJA HIPODÉRMICA,  SE SOLICITA CALIBRE 21G X 1 1/2 PULGADAS, 38MM DE LONGITUD",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0085-00",
+    "quantity": 634,
+    "name": "AGUJA HIPODÉRMICA,  SE SOLICITA CALIBRE 21G X 1 1/2 PULGADAS, 38MM DE LONGITUD",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0086-00",
+    "quantity": 738,
+    "name": "AGUJA HIPODÉRMICA, SE SOLICITA CALIBRE 22G X 1 PULGADAS, 25MM DE LONGITUD",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0086-00",
+    "quantity": 582,
+    "name": "AGUJA HIPODÉRMICA, SE SOLICITA CALIBRE 22G X 1 PULGADAS, 25MM DE LONGITUD",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0086-00",
+    "quantity": 432,
+    "name": "AGUJA HIPODÉRMICA, SE SOLICITA CALIBRE 22G X 1 PULGADAS, 25MM DE LONGITUD",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0086-00",
+    "quantity": 284,
+    "name": "AGUJA HIPODÉRMICA, SE SOLICITA CALIBRE 22G X 1 PULGADAS, 25MM DE LONGITUD",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0086-00",
+    "quantity": 769,
+    "name": "AGUJA HIPODÉRMICA, SE SOLICITA CALIBRE 22G X 1 PULGADAS, 25MM DE LONGITUD",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0086-00",
+    "quantity": 806,
+    "name": "AGUJA HIPODÉRMICA, SE SOLICITA CALIBRE 22G X 1 PULGADAS, 25MM DE LONGITUD",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0086-00",
+    "quantity": 528,
+    "name": "AGUJA HIPODÉRMICA, SE SOLICITA CALIBRE 22G X 1 PULGADAS, 25MM DE LONGITUD",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0087-00",
+    "quantity": 315,
+    "name": "AGUJA HIPODÉRMICA    (SE SOLICITA CALIBRE 22G X 1 1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0087-00",
+    "quantity": 760,
+    "name": "AGUJA HIPODÉRMICA    (SE SOLICITA CALIBRE 22G X 1 1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0087-00",
+    "quantity": 427,
+    "name": "AGUJA HIPODÉRMICA    (SE SOLICITA CALIBRE 22G X 1 1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0087-00",
+    "quantity": 141,
+    "name": "AGUJA HIPODÉRMICA    (SE SOLICITA CALIBRE 22G X 1 1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0087-00",
+    "quantity": 199,
+    "name": "AGUJA HIPODÉRMICA    (SE SOLICITA CALIBRE 22G X 1 1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0087-00",
+    "quantity": 570,
+    "name": "AGUJA HIPODÉRMICA    (SE SOLICITA CALIBRE 22G X 1 1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0087-00",
+    "quantity": 146,
+    "name": "AGUJA HIPODÉRMICA    (SE SOLICITA CALIBRE 22G X 1 1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0088-00",
+    "quantity": 472,
+    "name": "AGUJA HIPODÉRMICA, (SE SOLICITA CALIBRE 23G X 1 PULGADAS 25MM DE LONGITUD)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0088-00",
+    "quantity": 389,
+    "name": "AGUJA HIPODÉRMICA, (SE SOLICITA CALIBRE 23G X 1 PULGADAS 25MM DE LONGITUD)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0088-00",
+    "quantity": 412,
+    "name": "AGUJA HIPODÉRMICA, (SE SOLICITA CALIBRE 23G X 1 PULGADAS 25MM DE LONGITUD)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0088-00",
+    "quantity": 734,
+    "name": "AGUJA HIPODÉRMICA, (SE SOLICITA CALIBRE 23G X 1 PULGADAS 25MM DE LONGITUD)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0088-00",
+    "quantity": 724,
+    "name": "AGUJA HIPODÉRMICA, (SE SOLICITA CALIBRE 23G X 1 PULGADAS 25MM DE LONGITUD)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0088-00",
+    "quantity": 666,
+    "name": "AGUJA HIPODÉRMICA, (SE SOLICITA CALIBRE 23G X 1 PULGADAS 25MM DE LONGITUD)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0088-00",
+    "quantity": 559,
+    "name": "AGUJA HIPODÉRMICA, (SE SOLICITA CALIBRE 23G X 1 PULGADAS 25MM DE LONGITUD)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0089-00",
+    "quantity": 285,
+    "name": "AGUJA HIPODÉRMICA,   SE SOLICITA CALIBRE 24G X 1 PULGADAS 25MM DE LONGITUD",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0089-00",
+    "quantity": 676,
+    "name": "AGUJA HIPODÉRMICA,   SE SOLICITA CALIBRE 24G X 1 PULGADAS 25MM DE LONGITUD",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0089-00",
+    "quantity": 138,
+    "name": "AGUJA HIPODÉRMICA,   SE SOLICITA CALIBRE 24G X 1 PULGADAS 25MM DE LONGITUD",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0089-00",
+    "quantity": 719,
+    "name": "AGUJA HIPODÉRMICA,   SE SOLICITA CALIBRE 24G X 1 PULGADAS 25MM DE LONGITUD",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0089-00",
+    "quantity": 173,
+    "name": "AGUJA HIPODÉRMICA,   SE SOLICITA CALIBRE 24G X 1 PULGADAS 25MM DE LONGITUD",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0089-00",
+    "quantity": 705,
+    "name": "AGUJA HIPODÉRMICA,   SE SOLICITA CALIBRE 24G X 1 PULGADAS 25MM DE LONGITUD",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0089-00",
+    "quantity": 477,
+    "name": "AGUJA HIPODÉRMICA,   SE SOLICITA CALIBRE 24G X 1 PULGADAS 25MM DE LONGITUD",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0090-00",
+    "quantity": 451,
+    "name": "AGUJA HIPODÉRMICA DESECHABLE (Se solicita calibre 25G de 1\" de longitud)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0090-00",
+    "quantity": 321,
+    "name": "AGUJA HIPODÉRMICA DESECHABLE (Se solicita calibre 25G de 1\" de longitud)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0090-00",
+    "quantity": 725,
+    "name": "AGUJA HIPODÉRMICA DESECHABLE (Se solicita calibre 25G de 1\" de longitud)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0090-00",
+    "quantity": 475,
+    "name": "AGUJA HIPODÉRMICA DESECHABLE (Se solicita calibre 25G de 1\" de longitud)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0090-00",
+    "quantity": 139,
+    "name": "AGUJA HIPODÉRMICA DESECHABLE (Se solicita calibre 25G de 1\" de longitud)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0090-00",
+    "quantity": 614,
+    "name": "AGUJA HIPODÉRMICA DESECHABLE (Se solicita calibre 25G de 1\" de longitud)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0090-00",
+    "quantity": 106,
+    "name": "AGUJA HIPODÉRMICA DESECHABLE (Se solicita calibre 25G de 1\" de longitud)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0090-02",
+    "quantity": 629,
+    "name": "AGUJA HIPODÉRMICA    (SE SOLICITA CALIBRE 25G X 1 1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0090-02",
+    "quantity": 290,
+    "name": "AGUJA HIPODÉRMICA    (SE SOLICITA CALIBRE 25G X 1 1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0090-02",
+    "quantity": 770,
+    "name": "AGUJA HIPODÉRMICA    (SE SOLICITA CALIBRE 25G X 1 1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0090-02",
+    "quantity": 548,
+    "name": "AGUJA HIPODÉRMICA    (SE SOLICITA CALIBRE 25G X 1 1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0090-02",
+    "quantity": 288,
+    "name": "AGUJA HIPODÉRMICA    (SE SOLICITA CALIBRE 25G X 1 1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0090-02",
+    "quantity": 736,
+    "name": "AGUJA HIPODÉRMICA    (SE SOLICITA CALIBRE 25G X 1 1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0090-02",
+    "quantity": 664,
+    "name": "AGUJA HIPODÉRMICA    (SE SOLICITA CALIBRE 25G X 1 1/2 PULGADAS, 38MM DE LONGITUD)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0093-01",
+    "quantity": 108,
+    "name": "PAPEL SATINADO PARA CAMILLA Y MESA DE EXAMEN.    (SE SOLICITA TAMAÑO 18\" ANCHO X 300 PIES LARGO)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0093-01",
+    "quantity": 443,
+    "name": "PAPEL SATINADO PARA CAMILLA Y MESA DE EXAMEN.    (SE SOLICITA TAMAÑO 18\" ANCHO X 300 PIES LARGO)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0093-01",
+    "quantity": 700,
+    "name": "PAPEL SATINADO PARA CAMILLA Y MESA DE EXAMEN.    (SE SOLICITA TAMAÑO 18\" ANCHO X 300 PIES LARGO)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0093-01",
+    "quantity": 637,
+    "name": "PAPEL SATINADO PARA CAMILLA Y MESA DE EXAMEN.    (SE SOLICITA TAMAÑO 18\" ANCHO X 300 PIES LARGO)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0093-01",
+    "quantity": 307,
+    "name": "PAPEL SATINADO PARA CAMILLA Y MESA DE EXAMEN.    (SE SOLICITA TAMAÑO 18\" ANCHO X 300 PIES LARGO)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0093-01",
+    "quantity": 582,
+    "name": "PAPEL SATINADO PARA CAMILLA Y MESA DE EXAMEN.    (SE SOLICITA TAMAÑO 18\" ANCHO X 300 PIES LARGO)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0093-01",
+    "quantity": 800,
+    "name": "PAPEL SATINADO PARA CAMILLA Y MESA DE EXAMEN.    (SE SOLICITA TAMAÑO 18\" ANCHO X 300 PIES LARGO)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0112-22",
+    "quantity": 240,
+    "name": "BANDEJA PARA CATETERIZACION VENOSA CENTRAL TRIPLE LUMEN.  SE SOLICITA CATETER DE POLIURETANO",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0112-22",
+    "quantity": 283,
+    "name": "BANDEJA PARA CATETERIZACION VENOSA CENTRAL TRIPLE LUMEN.  SE SOLICITA CATETER DE POLIURETANO",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0112-22",
+    "quantity": 291,
+    "name": "BANDEJA PARA CATETERIZACION VENOSA CENTRAL TRIPLE LUMEN.  SE SOLICITA CATETER DE POLIURETANO",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0112-22",
+    "quantity": 168,
+    "name": "BANDEJA PARA CATETERIZACION VENOSA CENTRAL TRIPLE LUMEN.  SE SOLICITA CATETER DE POLIURETANO",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0112-22",
+    "quantity": 174,
+    "name": "BANDEJA PARA CATETERIZACION VENOSA CENTRAL TRIPLE LUMEN.  SE SOLICITA CATETER DE POLIURETANO",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0112-22",
+    "quantity": 806,
+    "name": "BANDEJA PARA CATETERIZACION VENOSA CENTRAL TRIPLE LUMEN.  SE SOLICITA CATETER DE POLIURETANO",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0112-22",
+    "quantity": 291,
+    "name": "BANDEJA PARA CATETERIZACION VENOSA CENTRAL TRIPLE LUMEN.  SE SOLICITA CATETER DE POLIURETANO",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0112-26",
+    "quantity": 806,
+    "name": "BANDEJA PARA CATETERIZACION VENOSO CENTRAL TRIPLE LUMEN CON 2 ANTIBIOTICOS (MINOCICLINA Y RIFAMPICINA).                                                                      (SE SOLICITA CATETER DE POLIURETANO ADULTO)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0112-26",
+    "quantity": 446,
+    "name": "BANDEJA PARA CATETERIZACION VENOSO CENTRAL TRIPLE LUMEN CON 2 ANTIBIOTICOS (MINOCICLINA Y RIFAMPICINA).                                                                      (SE SOLICITA CATETER DE POLIURETANO ADULTO)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0112-26",
+    "quantity": 694,
+    "name": "BANDEJA PARA CATETERIZACION VENOSO CENTRAL TRIPLE LUMEN CON 2 ANTIBIOTICOS (MINOCICLINA Y RIFAMPICINA).                                                                      (SE SOLICITA CATETER DE POLIURETANO ADULTO)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0112-26",
+    "quantity": 534,
+    "name": "BANDEJA PARA CATETERIZACION VENOSO CENTRAL TRIPLE LUMEN CON 2 ANTIBIOTICOS (MINOCICLINA Y RIFAMPICINA).                                                                      (SE SOLICITA CATETER DE POLIURETANO ADULTO)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0112-26",
+    "quantity": 205,
+    "name": "BANDEJA PARA CATETERIZACION VENOSO CENTRAL TRIPLE LUMEN CON 2 ANTIBIOTICOS (MINOCICLINA Y RIFAMPICINA).                                                                      (SE SOLICITA CATETER DE POLIURETANO ADULTO)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0112-26",
+    "quantity": 285,
+    "name": "BANDEJA PARA CATETERIZACION VENOSO CENTRAL TRIPLE LUMEN CON 2 ANTIBIOTICOS (MINOCICLINA Y RIFAMPICINA).                                                                      (SE SOLICITA CATETER DE POLIURETANO ADULTO)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0112-26",
+    "quantity": 170,
+    "name": "BANDEJA PARA CATETERIZACION VENOSO CENTRAL TRIPLE LUMEN CON 2 ANTIBIOTICOS (MINOCICLINA Y RIFAMPICINA).                                                                      (SE SOLICITA CATETER DE POLIURETANO ADULTO)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0133-00",
+    "quantity": 539,
+    "name": "RECIPIENTE DESECHABLE PARA SISTEMA DE DRENAJE TORÁCICO DIGITAL (Se solicita de 800cc de capacidad)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0133-00",
+    "quantity": 770,
+    "name": "RECIPIENTE DESECHABLE PARA SISTEMA DE DRENAJE TORÁCICO DIGITAL (Se solicita de 800cc de capacidad)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0133-00",
+    "quantity": 748,
+    "name": "RECIPIENTE DESECHABLE PARA SISTEMA DE DRENAJE TORÁCICO DIGITAL (Se solicita de 800cc de capacidad)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0133-00",
+    "quantity": 298,
+    "name": "RECIPIENTE DESECHABLE PARA SISTEMA DE DRENAJE TORÁCICO DIGITAL (Se solicita de 800cc de capacidad)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0133-00",
+    "quantity": 139,
+    "name": "RECIPIENTE DESECHABLE PARA SISTEMA DE DRENAJE TORÁCICO DIGITAL (Se solicita de 800cc de capacidad)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0133-00",
+    "quantity": 225,
+    "name": "RECIPIENTE DESECHABLE PARA SISTEMA DE DRENAJE TORÁCICO DIGITAL (Se solicita de 800cc de capacidad)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0133-00",
+    "quantity": 552,
+    "name": "RECIPIENTE DESECHABLE PARA SISTEMA DE DRENAJE TORÁCICO DIGITAL (Se solicita de 800cc de capacidad)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0134-00",
+    "quantity": 828,
+    "name": "TUBO PARA SISTEMA DE DRENAJE TORÁCICO DIGITAL CONEXIÓN DOBLE (Se solicita longitud de 1.5 mts). DEBE SER COMPATIBLE CON EL EQUIPO EXISTENTE EN LA INSTITUCIÓN.",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0134-00",
+    "quantity": 132,
+    "name": "TUBO PARA SISTEMA DE DRENAJE TORÁCICO DIGITAL CONEXIÓN DOBLE (Se solicita longitud de 1.5 mts). DEBE SER COMPATIBLE CON EL EQUIPO EXISTENTE EN LA INSTITUCIÓN.",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0134-00",
+    "quantity": 256,
+    "name": "TUBO PARA SISTEMA DE DRENAJE TORÁCICO DIGITAL CONEXIÓN DOBLE (Se solicita longitud de 1.5 mts). DEBE SER COMPATIBLE CON EL EQUIPO EXISTENTE EN LA INSTITUCIÓN.",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0134-00",
+    "quantity": 618,
+    "name": "TUBO PARA SISTEMA DE DRENAJE TORÁCICO DIGITAL CONEXIÓN DOBLE (Se solicita longitud de 1.5 mts). DEBE SER COMPATIBLE CON EL EQUIPO EXISTENTE EN LA INSTITUCIÓN.",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0134-00",
+    "quantity": 638,
+    "name": "TUBO PARA SISTEMA DE DRENAJE TORÁCICO DIGITAL CONEXIÓN DOBLE (Se solicita longitud de 1.5 mts). DEBE SER COMPATIBLE CON EL EQUIPO EXISTENTE EN LA INSTITUCIÓN.",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0134-00",
+    "quantity": 313,
+    "name": "TUBO PARA SISTEMA DE DRENAJE TORÁCICO DIGITAL CONEXIÓN DOBLE (Se solicita longitud de 1.5 mts). DEBE SER COMPATIBLE CON EL EQUIPO EXISTENTE EN LA INSTITUCIÓN.",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0134-00",
+    "quantity": 812,
+    "name": "TUBO PARA SISTEMA DE DRENAJE TORÁCICO DIGITAL CONEXIÓN DOBLE (Se solicita longitud de 1.5 mts). DEBE SER COMPATIBLE CON EL EQUIPO EXISTENTE EN LA INSTITUCIÓN.",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0168-01",
+    "quantity": 839,
+    "name": "ESPONJA HEMOSTATICA DE GELATINA ABSORBIBLE.   SE SOLICITA TAMAÑO 7x5x1CM ( 70MMX50MMX10MM )",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0168-01",
+    "quantity": 496,
+    "name": "ESPONJA HEMOSTATICA DE GELATINA ABSORBIBLE.   SE SOLICITA TAMAÑO 7x5x1CM ( 70MMX50MMX10MM )",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0168-01",
+    "quantity": 113,
+    "name": "ESPONJA HEMOSTATICA DE GELATINA ABSORBIBLE.   SE SOLICITA TAMAÑO 7x5x1CM ( 70MMX50MMX10MM )",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0168-01",
+    "quantity": 150,
+    "name": "ESPONJA HEMOSTATICA DE GELATINA ABSORBIBLE.   SE SOLICITA TAMAÑO 7x5x1CM ( 70MMX50MMX10MM )",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0168-01",
+    "quantity": 353,
+    "name": "ESPONJA HEMOSTATICA DE GELATINA ABSORBIBLE.   SE SOLICITA TAMAÑO 7x5x1CM ( 70MMX50MMX10MM )",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0168-01",
+    "quantity": 525,
+    "name": "ESPONJA HEMOSTATICA DE GELATINA ABSORBIBLE.   SE SOLICITA TAMAÑO 7x5x1CM ( 70MMX50MMX10MM )",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0168-01",
+    "quantity": 419,
+    "name": "ESPONJA HEMOSTATICA DE GELATINA ABSORBIBLE.   SE SOLICITA TAMAÑO 7x5x1CM ( 70MMX50MMX10MM )",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0174-02",
+    "quantity": 419,
+    "name": "JALEA LUBRICANTE ESTÉRIL  (SE SOLICITA TUBO DE 113 GM)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0174-02",
+    "quantity": 128,
+    "name": "JALEA LUBRICANTE ESTÉRIL  (SE SOLICITA TUBO DE 113 GM)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0174-02",
+    "quantity": 300,
+    "name": "JALEA LUBRICANTE ESTÉRIL  (SE SOLICITA TUBO DE 113 GM)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0174-02",
+    "quantity": 513,
+    "name": "JALEA LUBRICANTE ESTÉRIL  (SE SOLICITA TUBO DE 113 GM)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0174-02",
+    "quantity": 526,
+    "name": "JALEA LUBRICANTE ESTÉRIL  (SE SOLICITA TUBO DE 113 GM)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0174-02",
+    "quantity": 465,
+    "name": "JALEA LUBRICANTE ESTÉRIL  (SE SOLICITA TUBO DE 113 GM)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0174-02",
+    "quantity": 795,
+    "name": "JALEA LUBRICANTE ESTÉRIL  (SE SOLICITA TUBO DE 113 GM)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0184-01",
+    "quantity": 828,
+    "name": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL) TAMAÑO L",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0184-01",
+    "quantity": 474,
+    "name": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL) TAMAÑO L",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0184-01",
+    "quantity": 230,
+    "name": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL) TAMAÑO L",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0184-01",
+    "quantity": 715,
+    "name": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL) TAMAÑO L",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0184-01",
+    "quantity": 526,
+    "name": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL) TAMAÑO L",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0184-01",
+    "quantity": 229,
+    "name": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL) TAMAÑO L",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0184-01",
+    "quantity": 545,
+    "name": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL) TAMAÑO L",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0185-01",
+    "quantity": 221,
+    "name": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL)TAMAÑO XL",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0185-01",
+    "quantity": 411,
+    "name": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL)TAMAÑO XL",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0185-01",
+    "quantity": 523,
+    "name": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL)TAMAÑO XL",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0185-01",
+    "quantity": 338,
+    "name": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL)TAMAÑO XL",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0185-01",
+    "quantity": 403,
+    "name": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL)TAMAÑO XL",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0185-01",
+    "quantity": 625,
+    "name": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL)TAMAÑO XL",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0185-01",
+    "quantity": 566,
+    "name": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL)TAMAÑO XL",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0188-00",
+    "quantity": 112,
+    "name": "APLICADOR DE GRAPAS AUTOMÁTICO PARA LAPAROSCOPIA (Se solicita con grapa de 10mm, 20 grapas, mediano / grande)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0188-00",
+    "quantity": 713,
+    "name": "APLICADOR DE GRAPAS AUTOMÁTICO PARA LAPAROSCOPIA (Se solicita con grapa de 10mm, 20 grapas, mediano / grande)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0188-00",
+    "quantity": 343,
+    "name": "APLICADOR DE GRAPAS AUTOMÁTICO PARA LAPAROSCOPIA (Se solicita con grapa de 10mm, 20 grapas, mediano / grande)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0188-00",
+    "quantity": 665,
+    "name": "APLICADOR DE GRAPAS AUTOMÁTICO PARA LAPAROSCOPIA (Se solicita con grapa de 10mm, 20 grapas, mediano / grande)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0188-00",
+    "quantity": 113,
+    "name": "APLICADOR DE GRAPAS AUTOMÁTICO PARA LAPAROSCOPIA (Se solicita con grapa de 10mm, 20 grapas, mediano / grande)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0188-00",
+    "quantity": 294,
+    "name": "APLICADOR DE GRAPAS AUTOMÁTICO PARA LAPAROSCOPIA (Se solicita con grapa de 10mm, 20 grapas, mediano / grande)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0188-00",
+    "quantity": 181,
+    "name": "APLICADOR DE GRAPAS AUTOMÁTICO PARA LAPAROSCOPIA (Se solicita con grapa de 10mm, 20 grapas, mediano / grande)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0188-01",
+    "quantity": 754,
+    "name": "APLICADOR DE GRAPAS AUTOMÁTICO PARA LAPAROSCOPIA  (SE SOLICITA TAMAÑO DE 5MM, 20 GRAPAS, MEDIANO / GRANDE)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0188-01",
+    "quantity": 324,
+    "name": "APLICADOR DE GRAPAS AUTOMÁTICO PARA LAPAROSCOPIA  (SE SOLICITA TAMAÑO DE 5MM, 20 GRAPAS, MEDIANO / GRANDE)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0188-01",
+    "quantity": 377,
+    "name": "APLICADOR DE GRAPAS AUTOMÁTICO PARA LAPAROSCOPIA  (SE SOLICITA TAMAÑO DE 5MM, 20 GRAPAS, MEDIANO / GRANDE)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0188-01",
+    "quantity": 735,
+    "name": "APLICADOR DE GRAPAS AUTOMÁTICO PARA LAPAROSCOPIA  (SE SOLICITA TAMAÑO DE 5MM, 20 GRAPAS, MEDIANO / GRANDE)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0188-01",
+    "quantity": 259,
+    "name": "APLICADOR DE GRAPAS AUTOMÁTICO PARA LAPAROSCOPIA  (SE SOLICITA TAMAÑO DE 5MM, 20 GRAPAS, MEDIANO / GRANDE)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0188-01",
+    "quantity": 398,
+    "name": "APLICADOR DE GRAPAS AUTOMÁTICO PARA LAPAROSCOPIA  (SE SOLICITA TAMAÑO DE 5MM, 20 GRAPAS, MEDIANO / GRANDE)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0188-01",
+    "quantity": 634,
+    "name": "APLICADOR DE GRAPAS AUTOMÁTICO PARA LAPAROSCOPIA  (SE SOLICITA TAMAÑO DE 5MM, 20 GRAPAS, MEDIANO / GRANDE)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0190-06",
+    "quantity": 651,
+    "name": "VENDA DE GASA PRESATURADAS DE CLORURO DE SODIO AL 20%   (TAMAÑO 6\" (15 CM ) X 6 3/4\" (17 CM ).",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0190-06",
+    "quantity": 114,
+    "name": "VENDA DE GASA PRESATURADAS DE CLORURO DE SODIO AL 20%   (TAMAÑO 6\" (15 CM ) X 6 3/4\" (17 CM ).",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0190-06",
+    "quantity": 535,
+    "name": "VENDA DE GASA PRESATURADAS DE CLORURO DE SODIO AL 20%   (TAMAÑO 6\" (15 CM ) X 6 3/4\" (17 CM ).",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0190-06",
+    "quantity": 133,
+    "name": "VENDA DE GASA PRESATURADAS DE CLORURO DE SODIO AL 20%   (TAMAÑO 6\" (15 CM ) X 6 3/4\" (17 CM ).",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0190-06",
+    "quantity": 264,
+    "name": "VENDA DE GASA PRESATURADAS DE CLORURO DE SODIO AL 20%   (TAMAÑO 6\" (15 CM ) X 6 3/4\" (17 CM ).",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0190-06",
+    "quantity": 616,
+    "name": "VENDA DE GASA PRESATURADAS DE CLORURO DE SODIO AL 20%   (TAMAÑO 6\" (15 CM ) X 6 3/4\" (17 CM ).",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0190-06",
+    "quantity": 269,
+    "name": "VENDA DE GASA PRESATURADAS DE CLORURO DE SODIO AL 20%   (TAMAÑO 6\" (15 CM ) X 6 3/4\" (17 CM ).",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0192-00",
+    "quantity": 718,
+    "name": "APLICADOR DE MADERA CON ALGODÓN, ESTÉRIL  (SE SOLICITA DE 6\")",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0192-00",
+    "quantity": 787,
+    "name": "APLICADOR DE MADERA CON ALGODÓN, ESTÉRIL  (SE SOLICITA DE 6\")",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0192-00",
+    "quantity": 462,
+    "name": "APLICADOR DE MADERA CON ALGODÓN, ESTÉRIL  (SE SOLICITA DE 6\")",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0192-00",
+    "quantity": 687,
+    "name": "APLICADOR DE MADERA CON ALGODÓN, ESTÉRIL  (SE SOLICITA DE 6\")",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0192-00",
+    "quantity": 261,
+    "name": "APLICADOR DE MADERA CON ALGODÓN, ESTÉRIL  (SE SOLICITA DE 6\")",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0192-00",
+    "quantity": 285,
+    "name": "APLICADOR DE MADERA CON ALGODÓN, ESTÉRIL  (SE SOLICITA DE 6\")",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0192-00",
+    "quantity": 201,
+    "name": "APLICADOR DE MADERA CON ALGODÓN, ESTÉRIL  (SE SOLICITA DE 6\")",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-01",
+    "quantity": 154,
+    "name": "APÓSITO HIDROCOLOIDE (FINO O EXTRA DELGADO)          (SE SOLICITA CUADRADO 15CM X 15CM).",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-01",
+    "quantity": 161,
+    "name": "APÓSITO HIDROCOLOIDE (FINO O EXTRA DELGADO)          (SE SOLICITA CUADRADO 15CM X 15CM).",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-01",
+    "quantity": 382,
+    "name": "APÓSITO HIDROCOLOIDE (FINO O EXTRA DELGADO)          (SE SOLICITA CUADRADO 15CM X 15CM).",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-01",
+    "quantity": 710,
+    "name": "APÓSITO HIDROCOLOIDE (FINO O EXTRA DELGADO)          (SE SOLICITA CUADRADO 15CM X 15CM).",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-01",
+    "quantity": 768,
+    "name": "APÓSITO HIDROCOLOIDE (FINO O EXTRA DELGADO)          (SE SOLICITA CUADRADO 15CM X 15CM).",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-01",
+    "quantity": 625,
+    "name": "APÓSITO HIDROCOLOIDE (FINO O EXTRA DELGADO)          (SE SOLICITA CUADRADO 15CM X 15CM).",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-01",
+    "quantity": 441,
+    "name": "APÓSITO HIDROCOLOIDE (FINO O EXTRA DELGADO)          (SE SOLICITA CUADRADO 15CM X 15CM).",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-02",
+    "quantity": 459,
+    "name": "APÓSITO HIDROCOLOIDE (Estándar, Regular o Extra Absorbente)                (SE SOICITA CUADRADO/IMPERMEABLE 20CM X 20CM).",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-02",
+    "quantity": 352,
+    "name": "APÓSITO HIDROCOLOIDE (Estándar, Regular o Extra Absorbente)                (SE SOICITA CUADRADO/IMPERMEABLE 20CM X 20CM).",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-02",
+    "quantity": 639,
+    "name": "APÓSITO HIDROCOLOIDE (Estándar, Regular o Extra Absorbente)                (SE SOICITA CUADRADO/IMPERMEABLE 20CM X 20CM).",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-02",
+    "quantity": 444,
+    "name": "APÓSITO HIDROCOLOIDE (Estándar, Regular o Extra Absorbente)                (SE SOICITA CUADRADO/IMPERMEABLE 20CM X 20CM).",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-02",
+    "quantity": 422,
+    "name": "APÓSITO HIDROCOLOIDE (Estándar, Regular o Extra Absorbente)                (SE SOICITA CUADRADO/IMPERMEABLE 20CM X 20CM).",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-02",
+    "quantity": 210,
+    "name": "APÓSITO HIDROCOLOIDE (Estándar, Regular o Extra Absorbente)                (SE SOICITA CUADRADO/IMPERMEABLE 20CM X 20CM).",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-02",
+    "quantity": 693,
+    "name": "APÓSITO HIDROCOLOIDE (Estándar, Regular o Extra Absorbente)                (SE SOICITA CUADRADO/IMPERMEABLE 20CM X 20CM).",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-03",
+    "quantity": 338,
+    "name": "APÓSITO HIDROCOLOIDE (FINO O EXTRA DELGADO)             (SE SOLICITA CUADRADO 10CM X 10CM)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-03",
+    "quantity": 594,
+    "name": "APÓSITO HIDROCOLOIDE (FINO O EXTRA DELGADO)             (SE SOLICITA CUADRADO 10CM X 10CM)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-03",
+    "quantity": 502,
+    "name": "APÓSITO HIDROCOLOIDE (FINO O EXTRA DELGADO)             (SE SOLICITA CUADRADO 10CM X 10CM)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-03",
+    "quantity": 199,
+    "name": "APÓSITO HIDROCOLOIDE (FINO O EXTRA DELGADO)             (SE SOLICITA CUADRADO 10CM X 10CM)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-03",
+    "quantity": 511,
+    "name": "APÓSITO HIDROCOLOIDE (FINO O EXTRA DELGADO)             (SE SOLICITA CUADRADO 10CM X 10CM)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-03",
+    "quantity": 816,
+    "name": "APÓSITO HIDROCOLOIDE (FINO O EXTRA DELGADO)             (SE SOLICITA CUADRADO 10CM X 10CM)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-03",
+    "quantity": 467,
+    "name": "APÓSITO HIDROCOLOIDE (FINO O EXTRA DELGADO)             (SE SOLICITA CUADRADO 10CM X 10CM)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-04",
+    "quantity": 692,
+    "name": "APÓSITO HIDROCOLOIDE (Estándar, Regular o Extra Absorbente).  SE SOLICITA,  CUADRADO 15CM X 15CM",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-04",
+    "quantity": 267,
+    "name": "APÓSITO HIDROCOLOIDE (Estándar, Regular o Extra Absorbente).  SE SOLICITA,  CUADRADO 15CM X 15CM",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-04",
+    "quantity": 311,
+    "name": "APÓSITO HIDROCOLOIDE (Estándar, Regular o Extra Absorbente).  SE SOLICITA,  CUADRADO 15CM X 15CM",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-04",
+    "quantity": 547,
+    "name": "APÓSITO HIDROCOLOIDE (Estándar, Regular o Extra Absorbente).  SE SOLICITA,  CUADRADO 15CM X 15CM",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-04",
+    "quantity": 476,
+    "name": "APÓSITO HIDROCOLOIDE (Estándar, Regular o Extra Absorbente).  SE SOLICITA,  CUADRADO 15CM X 15CM",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-04",
+    "quantity": 359,
+    "name": "APÓSITO HIDROCOLOIDE (Estándar, Regular o Extra Absorbente).  SE SOLICITA,  CUADRADO 15CM X 15CM",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-04",
+    "quantity": 178,
+    "name": "APÓSITO HIDROCOLOIDE (Estándar, Regular o Extra Absorbente).  SE SOLICITA,  CUADRADO 15CM X 15CM",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-07",
+    "quantity": 729,
+    "name": "APOSITO TRANSPARENTE ESTERIL. SE SOLICITA  CON VENTANA DE 8-10CM X 10-12.5CM",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-07",
+    "quantity": 448,
+    "name": "APOSITO TRANSPARENTE ESTERIL. SE SOLICITA  CON VENTANA DE 8-10CM X 10-12.5CM",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-07",
+    "quantity": 506,
+    "name": "APOSITO TRANSPARENTE ESTERIL. SE SOLICITA  CON VENTANA DE 8-10CM X 10-12.5CM",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-07",
+    "quantity": 262,
+    "name": "APOSITO TRANSPARENTE ESTERIL. SE SOLICITA  CON VENTANA DE 8-10CM X 10-12.5CM",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-07",
+    "quantity": 735,
+    "name": "APOSITO TRANSPARENTE ESTERIL. SE SOLICITA  CON VENTANA DE 8-10CM X 10-12.5CM",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-07",
+    "quantity": 373,
+    "name": "APOSITO TRANSPARENTE ESTERIL. SE SOLICITA  CON VENTANA DE 8-10CM X 10-12.5CM",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-07",
+    "quantity": 354,
+    "name": "APOSITO TRANSPARENTE ESTERIL. SE SOLICITA  CON VENTANA DE 8-10CM X 10-12.5CM",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-08",
+    "quantity": 418,
+    "name": "APOSITO TRANSPARENTE ESTERIL. SE SOLICITA CON VENTANA TAMAÑO DE 5-6CM X 7-8CM",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-08",
+    "quantity": 224,
+    "name": "APOSITO TRANSPARENTE ESTERIL. SE SOLICITA CON VENTANA TAMAÑO DE 5-6CM X 7-8CM",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-08",
+    "quantity": 820,
+    "name": "APOSITO TRANSPARENTE ESTERIL. SE SOLICITA CON VENTANA TAMAÑO DE 5-6CM X 7-8CM",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-08",
+    "quantity": 267,
+    "name": "APOSITO TRANSPARENTE ESTERIL. SE SOLICITA CON VENTANA TAMAÑO DE 5-6CM X 7-8CM",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-08",
+    "quantity": 123,
+    "name": "APOSITO TRANSPARENTE ESTERIL. SE SOLICITA CON VENTANA TAMAÑO DE 5-6CM X 7-8CM",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-08",
+    "quantity": 168,
+    "name": "APOSITO TRANSPARENTE ESTERIL. SE SOLICITA CON VENTANA TAMAÑO DE 5-6CM X 7-8CM",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0195-08",
+    "quantity": 259,
+    "name": "APOSITO TRANSPARENTE ESTERIL. SE SOLICITA CON VENTANA TAMAÑO DE 5-6CM X 7-8CM",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0196-00",
+    "quantity": 641,
+    "name": "APOSITO OCULAR ADULTO ESTERIL",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0196-00",
+    "quantity": 638,
+    "name": "APOSITO OCULAR ADULTO ESTERIL",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0196-00",
+    "quantity": 847,
+    "name": "APOSITO OCULAR ADULTO ESTERIL",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0196-00",
+    "quantity": 306,
+    "name": "APOSITO OCULAR ADULTO ESTERIL",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0196-00",
+    "quantity": 508,
+    "name": "APOSITO OCULAR ADULTO ESTERIL",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0196-00",
+    "quantity": 590,
+    "name": "APOSITO OCULAR ADULTO ESTERIL",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0196-00",
+    "quantity": 248,
+    "name": "APOSITO OCULAR ADULTO ESTERIL",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-00",
+    "quantity": 704,
+    "name": "INSTRUMENTO DE ENGRAPADO PARA CIERRE DE PIEL DESECHABLE",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-00",
+    "quantity": 698,
+    "name": "INSTRUMENTO DE ENGRAPADO PARA CIERRE DE PIEL DESECHABLE",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-00",
+    "quantity": 819,
+    "name": "INSTRUMENTO DE ENGRAPADO PARA CIERRE DE PIEL DESECHABLE",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-00",
+    "quantity": 214,
+    "name": "INSTRUMENTO DE ENGRAPADO PARA CIERRE DE PIEL DESECHABLE",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-00",
+    "quantity": 328,
+    "name": "INSTRUMENTO DE ENGRAPADO PARA CIERRE DE PIEL DESECHABLE",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-00",
+    "quantity": 547,
+    "name": "INSTRUMENTO DE ENGRAPADO PARA CIERRE DE PIEL DESECHABLE",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-00",
+    "quantity": 711,
+    "name": "INSTRUMENTO DE ENGRAPADO PARA CIERRE DE PIEL DESECHABLE",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-02",
+    "quantity": 180,
+    "name": "INSTRUMENTAL DE ENGRAPADO TORACO ABDOMINAL Y REGARGA, DESECHABLE (Se solicita carga de 60mm, 3.5mm de altura de grapa abierta y 1.5mm de altura de grapa cerrada. Y por cada dos (2) instrumentos con carga, debe entregar una recarga adicional)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-02",
+    "quantity": 819,
+    "name": "INSTRUMENTAL DE ENGRAPADO TORACO ABDOMINAL Y REGARGA, DESECHABLE (Se solicita carga de 60mm, 3.5mm de altura de grapa abierta y 1.5mm de altura de grapa cerrada. Y por cada dos (2) instrumentos con carga, debe entregar una recarga adicional)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-02",
+    "quantity": 165,
+    "name": "INSTRUMENTAL DE ENGRAPADO TORACO ABDOMINAL Y REGARGA, DESECHABLE (Se solicita carga de 60mm, 3.5mm de altura de grapa abierta y 1.5mm de altura de grapa cerrada. Y por cada dos (2) instrumentos con carga, debe entregar una recarga adicional)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-02",
+    "quantity": 823,
+    "name": "INSTRUMENTAL DE ENGRAPADO TORACO ABDOMINAL Y REGARGA, DESECHABLE (Se solicita carga de 60mm, 3.5mm de altura de grapa abierta y 1.5mm de altura de grapa cerrada. Y por cada dos (2) instrumentos con carga, debe entregar una recarga adicional)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-02",
+    "quantity": 691,
+    "name": "INSTRUMENTAL DE ENGRAPADO TORACO ABDOMINAL Y REGARGA, DESECHABLE (Se solicita carga de 60mm, 3.5mm de altura de grapa abierta y 1.5mm de altura de grapa cerrada. Y por cada dos (2) instrumentos con carga, debe entregar una recarga adicional)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-02",
+    "quantity": 310,
+    "name": "INSTRUMENTAL DE ENGRAPADO TORACO ABDOMINAL Y REGARGA, DESECHABLE (Se solicita carga de 60mm, 3.5mm de altura de grapa abierta y 1.5mm de altura de grapa cerrada. Y por cada dos (2) instrumentos con carga, debe entregar una recarga adicional)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-02",
+    "quantity": 661,
+    "name": "INSTRUMENTAL DE ENGRAPADO TORACO ABDOMINAL Y REGARGA, DESECHABLE (Se solicita carga de 60mm, 3.5mm de altura de grapa abierta y 1.5mm de altura de grapa cerrada. Y por cada dos (2) instrumentos con carga, debe entregar una recarga adicional)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-03",
+    "quantity": 161,
+    "name": "INSTRUMENTO DE ENGRAPADO TORACO ABDOMINAL Y RECARGA DESECHABLE (Se solicita carga de 30mm, 3.5mm de altura de grapa abierta y 1.5mm de altura de grapa cerrada. Por cada dos (2) instrumentos con carga, debe entregar una recarga adicional)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-03",
+    "quantity": 347,
+    "name": "INSTRUMENTO DE ENGRAPADO TORACO ABDOMINAL Y RECARGA DESECHABLE (Se solicita carga de 30mm, 3.5mm de altura de grapa abierta y 1.5mm de altura de grapa cerrada. Por cada dos (2) instrumentos con carga, debe entregar una recarga adicional)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-03",
+    "quantity": 476,
+    "name": "INSTRUMENTO DE ENGRAPADO TORACO ABDOMINAL Y RECARGA DESECHABLE (Se solicita carga de 30mm, 3.5mm de altura de grapa abierta y 1.5mm de altura de grapa cerrada. Por cada dos (2) instrumentos con carga, debe entregar una recarga adicional)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-03",
+    "quantity": 372,
+    "name": "INSTRUMENTO DE ENGRAPADO TORACO ABDOMINAL Y RECARGA DESECHABLE (Se solicita carga de 30mm, 3.5mm de altura de grapa abierta y 1.5mm de altura de grapa cerrada. Por cada dos (2) instrumentos con carga, debe entregar una recarga adicional)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-03",
+    "quantity": 263,
+    "name": "INSTRUMENTO DE ENGRAPADO TORACO ABDOMINAL Y RECARGA DESECHABLE (Se solicita carga de 30mm, 3.5mm de altura de grapa abierta y 1.5mm de altura de grapa cerrada. Por cada dos (2) instrumentos con carga, debe entregar una recarga adicional)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-03",
+    "quantity": 160,
+    "name": "INSTRUMENTO DE ENGRAPADO TORACO ABDOMINAL Y RECARGA DESECHABLE (Se solicita carga de 30mm, 3.5mm de altura de grapa abierta y 1.5mm de altura de grapa cerrada. Por cada dos (2) instrumentos con carga, debe entregar una recarga adicional)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-03",
+    "quantity": 726,
+    "name": "INSTRUMENTO DE ENGRAPADO TORACO ABDOMINAL Y RECARGA DESECHABLE (Se solicita carga de 30mm, 3.5mm de altura de grapa abierta y 1.5mm de altura de grapa cerrada. Por cada dos (2) instrumentos con carga, debe entregar una recarga adicional)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-04",
+    "quantity": 225,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL PARA CIRUGÍA ABIERTA, DESECHABLE",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-04",
+    "quantity": 106,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL PARA CIRUGÍA ABIERTA, DESECHABLE",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-04",
+    "quantity": 605,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL PARA CIRUGÍA ABIERTA, DESECHABLE",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-04",
+    "quantity": 500,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL PARA CIRUGÍA ABIERTA, DESECHABLE",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-04",
+    "quantity": 679,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL PARA CIRUGÍA ABIERTA, DESECHABLE",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-04",
+    "quantity": 587,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL PARA CIRUGÍA ABIERTA, DESECHABLE",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-04",
+    "quantity": 681,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL PARA CIRUGÍA ABIERTA, DESECHABLE",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-05",
+    "quantity": 164,
+    "name": "INSTRUMENTAL DE ENGRAPADO TORACO ABDOMINAL Y RECARGA DESECHABLE (Se solicita instrumento recto, carga de longitud  de 90mm, altura de grapa abierta 3.5mm y altura de grapa cerrada 1.5mm. Por cada dos (2) instrumentos con carga, debe entregar una carga adicional)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-05",
+    "quantity": 614,
+    "name": "INSTRUMENTAL DE ENGRAPADO TORACO ABDOMINAL Y RECARGA DESECHABLE (Se solicita instrumento recto, carga de longitud  de 90mm, altura de grapa abierta 3.5mm y altura de grapa cerrada 1.5mm. Por cada dos (2) instrumentos con carga, debe entregar una carga adicional)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-05",
+    "quantity": 794,
+    "name": "INSTRUMENTAL DE ENGRAPADO TORACO ABDOMINAL Y RECARGA DESECHABLE (Se solicita instrumento recto, carga de longitud  de 90mm, altura de grapa abierta 3.5mm y altura de grapa cerrada 1.5mm. Por cada dos (2) instrumentos con carga, debe entregar una carga adicional)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-05",
+    "quantity": 541,
+    "name": "INSTRUMENTAL DE ENGRAPADO TORACO ABDOMINAL Y RECARGA DESECHABLE (Se solicita instrumento recto, carga de longitud  de 90mm, altura de grapa abierta 3.5mm y altura de grapa cerrada 1.5mm. Por cada dos (2) instrumentos con carga, debe entregar una carga adicional)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-05",
+    "quantity": 322,
+    "name": "INSTRUMENTAL DE ENGRAPADO TORACO ABDOMINAL Y RECARGA DESECHABLE (Se solicita instrumento recto, carga de longitud  de 90mm, altura de grapa abierta 3.5mm y altura de grapa cerrada 1.5mm. Por cada dos (2) instrumentos con carga, debe entregar una carga adicional)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-05",
+    "quantity": 339,
+    "name": "INSTRUMENTAL DE ENGRAPADO TORACO ABDOMINAL Y RECARGA DESECHABLE (Se solicita instrumento recto, carga de longitud  de 90mm, altura de grapa abierta 3.5mm y altura de grapa cerrada 1.5mm. Por cada dos (2) instrumentos con carga, debe entregar una carga adicional)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-05",
+    "quantity": 456,
+    "name": "INSTRUMENTAL DE ENGRAPADO TORACO ABDOMINAL Y RECARGA DESECHABLE (Se solicita instrumento recto, carga de longitud  de 90mm, altura de grapa abierta 3.5mm y altura de grapa cerrada 1.5mm. Por cada dos (2) instrumentos con carga, debe entregar una carga adicional)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-06",
+    "quantity": 422,
+    "name": "INSTRUMENTO DE ENGRAPADO MECANICO CIRCULAR,DESECHABLE.   SE SOLICITA INSTRUMENTO CURVO CON GRAPA DE 29MM CON GRAPAS DE ALTURA MINIMA DE 4.8 MM ABIERTA O INDICADOR DE ESCALA DE COMPRENSION DE 2 MM CERRADA",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-06",
+    "quantity": 595,
+    "name": "INSTRUMENTO DE ENGRAPADO MECANICO CIRCULAR,DESECHABLE.   SE SOLICITA INSTRUMENTO CURVO CON GRAPA DE 29MM CON GRAPAS DE ALTURA MINIMA DE 4.8 MM ABIERTA O INDICADOR DE ESCALA DE COMPRENSION DE 2 MM CERRADA",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-06",
+    "quantity": 284,
+    "name": "INSTRUMENTO DE ENGRAPADO MECANICO CIRCULAR,DESECHABLE.   SE SOLICITA INSTRUMENTO CURVO CON GRAPA DE 29MM CON GRAPAS DE ALTURA MINIMA DE 4.8 MM ABIERTA O INDICADOR DE ESCALA DE COMPRENSION DE 2 MM CERRADA",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-06",
+    "quantity": 271,
+    "name": "INSTRUMENTO DE ENGRAPADO MECANICO CIRCULAR,DESECHABLE.   SE SOLICITA INSTRUMENTO CURVO CON GRAPA DE 29MM CON GRAPAS DE ALTURA MINIMA DE 4.8 MM ABIERTA O INDICADOR DE ESCALA DE COMPRENSION DE 2 MM CERRADA",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-06",
+    "quantity": 573,
+    "name": "INSTRUMENTO DE ENGRAPADO MECANICO CIRCULAR,DESECHABLE.   SE SOLICITA INSTRUMENTO CURVO CON GRAPA DE 29MM CON GRAPAS DE ALTURA MINIMA DE 4.8 MM ABIERTA O INDICADOR DE ESCALA DE COMPRENSION DE 2 MM CERRADA",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-06",
+    "quantity": 484,
+    "name": "INSTRUMENTO DE ENGRAPADO MECANICO CIRCULAR,DESECHABLE.   SE SOLICITA INSTRUMENTO CURVO CON GRAPA DE 29MM CON GRAPAS DE ALTURA MINIMA DE 4.8 MM ABIERTA O INDICADOR DE ESCALA DE COMPRENSION DE 2 MM CERRADA",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-06",
+    "quantity": 751,
+    "name": "INSTRUMENTO DE ENGRAPADO MECANICO CIRCULAR,DESECHABLE.   SE SOLICITA INSTRUMENTO CURVO CON GRAPA DE 29MM CON GRAPAS DE ALTURA MINIMA DE 4.8 MM ABIERTA O INDICADOR DE ESCALA DE COMPRENSION DE 2 MM CERRADA",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-07",
+    "quantity": 205,
+    "name": "ENGRAPADORA  CIRCULAR CORTANTE CON YUNQUE ARTICULABLE PARA ANASTOMOSIS DIGESTIVA (Se solicita curvo, de 31mm, con grapas de altura mínima de 4.8mm abierta)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-07",
+    "quantity": 660,
+    "name": "ENGRAPADORA  CIRCULAR CORTANTE CON YUNQUE ARTICULABLE PARA ANASTOMOSIS DIGESTIVA (Se solicita curvo, de 31mm, con grapas de altura mínima de 4.8mm abierta)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-07",
+    "quantity": 432,
+    "name": "ENGRAPADORA  CIRCULAR CORTANTE CON YUNQUE ARTICULABLE PARA ANASTOMOSIS DIGESTIVA (Se solicita curvo, de 31mm, con grapas de altura mínima de 4.8mm abierta)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-07",
+    "quantity": 412,
+    "name": "ENGRAPADORA  CIRCULAR CORTANTE CON YUNQUE ARTICULABLE PARA ANASTOMOSIS DIGESTIVA (Se solicita curvo, de 31mm, con grapas de altura mínima de 4.8mm abierta)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-07",
+    "quantity": 210,
+    "name": "ENGRAPADORA  CIRCULAR CORTANTE CON YUNQUE ARTICULABLE PARA ANASTOMOSIS DIGESTIVA (Se solicita curvo, de 31mm, con grapas de altura mínima de 4.8mm abierta)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-07",
+    "quantity": 104,
+    "name": "ENGRAPADORA  CIRCULAR CORTANTE CON YUNQUE ARTICULABLE PARA ANASTOMOSIS DIGESTIVA (Se solicita curvo, de 31mm, con grapas de altura mínima de 4.8mm abierta)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-07",
+    "quantity": 530,
+    "name": "ENGRAPADORA  CIRCULAR CORTANTE CON YUNQUE ARTICULABLE PARA ANASTOMOSIS DIGESTIVA (Se solicita curvo, de 31mm, con grapas de altura mínima de 4.8mm abierta)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-10",
+    "quantity": 688,
+    "name": "INSTRUMENTO DE ENGRAPADO MECÁNICO PARA FIJAR  MALLAS EN  HERNIAS, DESECHABLE, CON 10 GRAPAS O MAS, DE TITANIUM  DE 4.8mm (Por cada instrumento con su carga, debe entregar una carga adicional)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-10",
+    "quantity": 680,
+    "name": "INSTRUMENTO DE ENGRAPADO MECÁNICO PARA FIJAR  MALLAS EN  HERNIAS, DESECHABLE, CON 10 GRAPAS O MAS, DE TITANIUM  DE 4.8mm (Por cada instrumento con su carga, debe entregar una carga adicional)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-10",
+    "quantity": 725,
+    "name": "INSTRUMENTO DE ENGRAPADO MECÁNICO PARA FIJAR  MALLAS EN  HERNIAS, DESECHABLE, CON 10 GRAPAS O MAS, DE TITANIUM  DE 4.8mm (Por cada instrumento con su carga, debe entregar una carga adicional)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-10",
+    "quantity": 728,
+    "name": "INSTRUMENTO DE ENGRAPADO MECÁNICO PARA FIJAR  MALLAS EN  HERNIAS, DESECHABLE, CON 10 GRAPAS O MAS, DE TITANIUM  DE 4.8mm (Por cada instrumento con su carga, debe entregar una carga adicional)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-10",
+    "quantity": 547,
+    "name": "INSTRUMENTO DE ENGRAPADO MECÁNICO PARA FIJAR  MALLAS EN  HERNIAS, DESECHABLE, CON 10 GRAPAS O MAS, DE TITANIUM  DE 4.8mm (Por cada instrumento con su carga, debe entregar una carga adicional)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-10",
+    "quantity": 391,
+    "name": "INSTRUMENTO DE ENGRAPADO MECÁNICO PARA FIJAR  MALLAS EN  HERNIAS, DESECHABLE, CON 10 GRAPAS O MAS, DE TITANIUM  DE 4.8mm (Por cada instrumento con su carga, debe entregar una carga adicional)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0199-10",
+    "quantity": 359,
+    "name": "INSTRUMENTO DE ENGRAPADO MECÁNICO PARA FIJAR  MALLAS EN  HERNIAS, DESECHABLE, CON 10 GRAPAS O MAS, DE TITANIUM  DE 4.8mm (Por cada instrumento con su carga, debe entregar una carga adicional)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0200-00",
+    "quantity": 718,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL RECTA ENDOSCOPICA CON O SIN\r\nREGARGA,DESECHABLE     (SE SOLICITA Estándar: vástago de 16cm o longitud total de 34cm, LONGITUD DE 60MM DE LARGO, ALTURA DE GRAPA ABIERTA 3.5 Y CERRADA 1.5MM)                                                                                                                                                                                                                                                                                                                                                                                         Instrumento de engrapado de corte lineal de 12mm de diámetro.",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0200-00",
+    "quantity": 427,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL RECTA ENDOSCOPICA CON O SIN\r\nREGARGA,DESECHABLE     (SE SOLICITA Estándar: vástago de 16cm o longitud total de 34cm, LONGITUD DE 60MM DE LARGO, ALTURA DE GRAPA ABIERTA 3.5 Y CERRADA 1.5MM)                                                                                                                                                                                                                                                                                                                                                                                         Instrumento de engrapado de corte lineal de 12mm de diámetro.",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0200-00",
+    "quantity": 471,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL RECTA ENDOSCOPICA CON O SIN\r\nREGARGA,DESECHABLE     (SE SOLICITA Estándar: vástago de 16cm o longitud total de 34cm, LONGITUD DE 60MM DE LARGO, ALTURA DE GRAPA ABIERTA 3.5 Y CERRADA 1.5MM)                                                                                                                                                                                                                                                                                                                                                                                         Instrumento de engrapado de corte lineal de 12mm de diámetro.",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0200-00",
+    "quantity": 321,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL RECTA ENDOSCOPICA CON O SIN\r\nREGARGA,DESECHABLE     (SE SOLICITA Estándar: vástago de 16cm o longitud total de 34cm, LONGITUD DE 60MM DE LARGO, ALTURA DE GRAPA ABIERTA 3.5 Y CERRADA 1.5MM)                                                                                                                                                                                                                                                                                                                                                                                         Instrumento de engrapado de corte lineal de 12mm de diámetro.",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0200-00",
+    "quantity": 492,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL RECTA ENDOSCOPICA CON O SIN\r\nREGARGA,DESECHABLE     (SE SOLICITA Estándar: vástago de 16cm o longitud total de 34cm, LONGITUD DE 60MM DE LARGO, ALTURA DE GRAPA ABIERTA 3.5 Y CERRADA 1.5MM)                                                                                                                                                                                                                                                                                                                                                                                         Instrumento de engrapado de corte lineal de 12mm de diámetro.",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0200-00",
+    "quantity": 573,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL RECTA ENDOSCOPICA CON O SIN\r\nREGARGA,DESECHABLE     (SE SOLICITA Estándar: vástago de 16cm o longitud total de 34cm, LONGITUD DE 60MM DE LARGO, ALTURA DE GRAPA ABIERTA 3.5 Y CERRADA 1.5MM)                                                                                                                                                                                                                                                                                                                                                                                         Instrumento de engrapado de corte lineal de 12mm de diámetro.",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0200-00",
+    "quantity": 490,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL RECTA ENDOSCOPICA CON O SIN\r\nREGARGA,DESECHABLE     (SE SOLICITA Estándar: vástago de 16cm o longitud total de 34cm, LONGITUD DE 60MM DE LARGO, ALTURA DE GRAPA ABIERTA 3.5 Y CERRADA 1.5MM)                                                                                                                                                                                                                                                                                                                                                                                         Instrumento de engrapado de corte lineal de 12mm de diámetro.",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0200-02",
+    "quantity": 489,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL RECTA ENDOSCOPICA CON O SIN\r\nREGARGA,DESECHABLE     (SE SOLICITA Estándar: vástago de 16cm o longitud total de 34cm, LONGITUD DE 60MM DE LARGO, ALTURA DE GRAPA ABIERTA 2.5 Y CERRADA 1.0MM)                                                                                                                                                                                                                                                                                                                                                                                         Instrumento de engrapado de corte lineal de 12mm de diámetro.\r\nLongitud del Instrumento:\r\n1- Corto: vástago de 6cm o longitud total de 28cm\r\n2- Estándar: vástago de 16cm o longitud total de 34cm\r\n3- Extra largo: vástago de 26cm o longitud total de 44cm\r\nCarga de:\r\n1- Longitud: 30, 35, 45 ó 60mm de largo\r\n2- De titanio\r\n3- Estéril.\r\nAltura de Grapa abierta: o Altura de Grapa cerrada\r\n2.0mm, 0.75mm\r\n2.5mm 1.0mm\r\n3.5mm 1.5mm\r\n--------- 1.8mm\r\n4.8mm 2.0mm\r\nNota: Al momento de la evaluación para la emisión del certificado de criterio técnico, se tomará en cuanta la altura de la grapa\r\nabierta o la altura de la grapa cerrada.\r\nNota:\r\n1. La institución solicitara el tamaño del instrumental, la longitud y la altura de la grapa requerida.\r\n2. Además de la carga que trae debe incluir una carga adicional compatible con el instrumental.\r\n3. La institución puede solicitar el instrumento y la recarga por separado y la cantidad requerida.",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0200-02",
+    "quantity": 620,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL RECTA ENDOSCOPICA CON O SIN\r\nREGARGA,DESECHABLE     (SE SOLICITA Estándar: vástago de 16cm o longitud total de 34cm, LONGITUD DE 60MM DE LARGO, ALTURA DE GRAPA ABIERTA 2.5 Y CERRADA 1.0MM)                                                                                                                                                                                                                                                                                                                                                                                         Instrumento de engrapado de corte lineal de 12mm de diámetro.\r\nLongitud del Instrumento:\r\n1- Corto: vástago de 6cm o longitud total de 28cm\r\n2- Estándar: vástago de 16cm o longitud total de 34cm\r\n3- Extra largo: vástago de 26cm o longitud total de 44cm\r\nCarga de:\r\n1- Longitud: 30, 35, 45 ó 60mm de largo\r\n2- De titanio\r\n3- Estéril.\r\nAltura de Grapa abierta: o Altura de Grapa cerrada\r\n2.0mm, 0.75mm\r\n2.5mm 1.0mm\r\n3.5mm 1.5mm\r\n--------- 1.8mm\r\n4.8mm 2.0mm\r\nNota: Al momento de la evaluación para la emisión del certificado de criterio técnico, se tomará en cuanta la altura de la grapa\r\nabierta o la altura de la grapa cerrada.\r\nNota:\r\n1. La institución solicitara el tamaño del instrumental, la longitud y la altura de la grapa requerida.\r\n2. Además de la carga que trae debe incluir una carga adicional compatible con el instrumental.\r\n3. La institución puede solicitar el instrumento y la recarga por separado y la cantidad requerida.",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0200-02",
+    "quantity": 795,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL RECTA ENDOSCOPICA CON O SIN\r\nREGARGA,DESECHABLE     (SE SOLICITA Estándar: vástago de 16cm o longitud total de 34cm, LONGITUD DE 60MM DE LARGO, ALTURA DE GRAPA ABIERTA 2.5 Y CERRADA 1.0MM)                                                                                                                                                                                                                                                                                                                                                                                         Instrumento de engrapado de corte lineal de 12mm de diámetro.\r\nLongitud del Instrumento:\r\n1- Corto: vástago de 6cm o longitud total de 28cm\r\n2- Estándar: vástago de 16cm o longitud total de 34cm\r\n3- Extra largo: vástago de 26cm o longitud total de 44cm\r\nCarga de:\r\n1- Longitud: 30, 35, 45 ó 60mm de largo\r\n2- De titanio\r\n3- Estéril.\r\nAltura de Grapa abierta: o Altura de Grapa cerrada\r\n2.0mm, 0.75mm\r\n2.5mm 1.0mm\r\n3.5mm 1.5mm\r\n--------- 1.8mm\r\n4.8mm 2.0mm\r\nNota: Al momento de la evaluación para la emisión del certificado de criterio técnico, se tomará en cuanta la altura de la grapa\r\nabierta o la altura de la grapa cerrada.\r\nNota:\r\n1. La institución solicitara el tamaño del instrumental, la longitud y la altura de la grapa requerida.\r\n2. Además de la carga que trae debe incluir una carga adicional compatible con el instrumental.\r\n3. La institución puede solicitar el instrumento y la recarga por separado y la cantidad requerida.",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0200-02",
+    "quantity": 352,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL RECTA ENDOSCOPICA CON O SIN\r\nREGARGA,DESECHABLE     (SE SOLICITA Estándar: vástago de 16cm o longitud total de 34cm, LONGITUD DE 60MM DE LARGO, ALTURA DE GRAPA ABIERTA 2.5 Y CERRADA 1.0MM)                                                                                                                                                                                                                                                                                                                                                                                         Instrumento de engrapado de corte lineal de 12mm de diámetro.\r\nLongitud del Instrumento:\r\n1- Corto: vástago de 6cm o longitud total de 28cm\r\n2- Estándar: vástago de 16cm o longitud total de 34cm\r\n3- Extra largo: vástago de 26cm o longitud total de 44cm\r\nCarga de:\r\n1- Longitud: 30, 35, 45 ó 60mm de largo\r\n2- De titanio\r\n3- Estéril.\r\nAltura de Grapa abierta: o Altura de Grapa cerrada\r\n2.0mm, 0.75mm\r\n2.5mm 1.0mm\r\n3.5mm 1.5mm\r\n--------- 1.8mm\r\n4.8mm 2.0mm\r\nNota: Al momento de la evaluación para la emisión del certificado de criterio técnico, se tomará en cuanta la altura de la grapa\r\nabierta o la altura de la grapa cerrada.\r\nNota:\r\n1. La institución solicitara el tamaño del instrumental, la longitud y la altura de la grapa requerida.\r\n2. Además de la carga que trae debe incluir una carga adicional compatible con el instrumental.\r\n3. La institución puede solicitar el instrumento y la recarga por separado y la cantidad requerida.",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0200-02",
+    "quantity": 401,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL RECTA ENDOSCOPICA CON O SIN\r\nREGARGA,DESECHABLE     (SE SOLICITA Estándar: vástago de 16cm o longitud total de 34cm, LONGITUD DE 60MM DE LARGO, ALTURA DE GRAPA ABIERTA 2.5 Y CERRADA 1.0MM)                                                                                                                                                                                                                                                                                                                                                                                         Instrumento de engrapado de corte lineal de 12mm de diámetro.\r\nLongitud del Instrumento:\r\n1- Corto: vástago de 6cm o longitud total de 28cm\r\n2- Estándar: vástago de 16cm o longitud total de 34cm\r\n3- Extra largo: vástago de 26cm o longitud total de 44cm\r\nCarga de:\r\n1- Longitud: 30, 35, 45 ó 60mm de largo\r\n2- De titanio\r\n3- Estéril.\r\nAltura de Grapa abierta: o Altura de Grapa cerrada\r\n2.0mm, 0.75mm\r\n2.5mm 1.0mm\r\n3.5mm 1.5mm\r\n--------- 1.8mm\r\n4.8mm 2.0mm\r\nNota: Al momento de la evaluación para la emisión del certificado de criterio técnico, se tomará en cuanta la altura de la grapa\r\nabierta o la altura de la grapa cerrada.\r\nNota:\r\n1. La institución solicitara el tamaño del instrumental, la longitud y la altura de la grapa requerida.\r\n2. Además de la carga que trae debe incluir una carga adicional compatible con el instrumental.\r\n3. La institución puede solicitar el instrumento y la recarga por separado y la cantidad requerida.",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0200-02",
+    "quantity": 545,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL RECTA ENDOSCOPICA CON O SIN\r\nREGARGA,DESECHABLE     (SE SOLICITA Estándar: vástago de 16cm o longitud total de 34cm, LONGITUD DE 60MM DE LARGO, ALTURA DE GRAPA ABIERTA 2.5 Y CERRADA 1.0MM)                                                                                                                                                                                                                                                                                                                                                                                         Instrumento de engrapado de corte lineal de 12mm de diámetro.\r\nLongitud del Instrumento:\r\n1- Corto: vástago de 6cm o longitud total de 28cm\r\n2- Estándar: vástago de 16cm o longitud total de 34cm\r\n3- Extra largo: vástago de 26cm o longitud total de 44cm\r\nCarga de:\r\n1- Longitud: 30, 35, 45 ó 60mm de largo\r\n2- De titanio\r\n3- Estéril.\r\nAltura de Grapa abierta: o Altura de Grapa cerrada\r\n2.0mm, 0.75mm\r\n2.5mm 1.0mm\r\n3.5mm 1.5mm\r\n--------- 1.8mm\r\n4.8mm 2.0mm\r\nNota: Al momento de la evaluación para la emisión del certificado de criterio técnico, se tomará en cuanta la altura de la grapa\r\nabierta o la altura de la grapa cerrada.\r\nNota:\r\n1. La institución solicitara el tamaño del instrumental, la longitud y la altura de la grapa requerida.\r\n2. Además de la carga que trae debe incluir una carga adicional compatible con el instrumental.\r\n3. La institución puede solicitar el instrumento y la recarga por separado y la cantidad requerida.",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0200-02",
+    "quantity": 643,
+    "name": "INSTRUMENTO DE ENGRAPADO Y CORTE LINEAL RECTA ENDOSCOPICA CON O SIN\r\nREGARGA,DESECHABLE     (SE SOLICITA Estándar: vástago de 16cm o longitud total de 34cm, LONGITUD DE 60MM DE LARGO, ALTURA DE GRAPA ABIERTA 2.5 Y CERRADA 1.0MM)                                                                                                                                                                                                                                                                                                                                                                                         Instrumento de engrapado de corte lineal de 12mm de diámetro.\r\nLongitud del Instrumento:\r\n1- Corto: vástago de 6cm o longitud total de 28cm\r\n2- Estándar: vástago de 16cm o longitud total de 34cm\r\n3- Extra largo: vástago de 26cm o longitud total de 44cm\r\nCarga de:\r\n1- Longitud: 30, 35, 45 ó 60mm de largo\r\n2- De titanio\r\n3- Estéril.\r\nAltura de Grapa abierta: o Altura de Grapa cerrada\r\n2.0mm, 0.75mm\r\n2.5mm 1.0mm\r\n3.5mm 1.5mm\r\n--------- 1.8mm\r\n4.8mm 2.0mm\r\nNota: Al momento de la evaluación para la emisión del certificado de criterio técnico, se tomará en cuanta la altura de la grapa\r\nabierta o la altura de la grapa cerrada.\r\nNota:\r\n1. La institución solicitara el tamaño del instrumental, la longitud y la altura de la grapa requerida.\r\n2. Además de la carga que trae debe incluir una carga adicional compatible con el instrumental.\r\n3. La institución puede solicitar el instrumento y la recarga por separado y la cantidad requerida.",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0206-00",
+    "quantity": 702,
+    "name": "INSTRUMENTO PARA LIGAR VASOS, DE TITANIUM, DESECHABLE (Se solicita tamaño chico)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0206-00",
+    "quantity": 821,
+    "name": "INSTRUMENTO PARA LIGAR VASOS, DE TITANIUM, DESECHABLE (Se solicita tamaño chico)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0206-00",
+    "quantity": 794,
+    "name": "INSTRUMENTO PARA LIGAR VASOS, DE TITANIUM, DESECHABLE (Se solicita tamaño chico)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0206-00",
+    "quantity": 738,
+    "name": "INSTRUMENTO PARA LIGAR VASOS, DE TITANIUM, DESECHABLE (Se solicita tamaño chico)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0206-00",
+    "quantity": 658,
+    "name": "INSTRUMENTO PARA LIGAR VASOS, DE TITANIUM, DESECHABLE (Se solicita tamaño chico)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0206-00",
+    "quantity": 804,
+    "name": "INSTRUMENTO PARA LIGAR VASOS, DE TITANIUM, DESECHABLE (Se solicita tamaño chico)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0206-00",
+    "quantity": 103,
+    "name": "INSTRUMENTO PARA LIGAR VASOS, DE TITANIUM, DESECHABLE (Se solicita tamaño chico)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0207-00",
+    "quantity": 764,
+    "name": "ENGRAPADORA CURVA CORTANTE PARA TEJIDO GRUESO (CIRUGIA COLON RECTAL). Instrumento de engrapado quirúrgico curvo cortante , que permita un mejor acceso y visualizacion en la pelvis baja, dos dobles linea de grapas  y corte entre la segunda y tercera linea de grapas para cirugía colon rectal.",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0207-00",
+    "quantity": 198,
+    "name": "ENGRAPADORA CURVA CORTANTE PARA TEJIDO GRUESO (CIRUGIA COLON RECTAL). Instrumento de engrapado quirúrgico curvo cortante , que permita un mejor acceso y visualizacion en la pelvis baja, dos dobles linea de grapas  y corte entre la segunda y tercera linea de grapas para cirugía colon rectal.",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0207-00",
+    "quantity": 531,
+    "name": "ENGRAPADORA CURVA CORTANTE PARA TEJIDO GRUESO (CIRUGIA COLON RECTAL). Instrumento de engrapado quirúrgico curvo cortante , que permita un mejor acceso y visualizacion en la pelvis baja, dos dobles linea de grapas  y corte entre la segunda y tercera linea de grapas para cirugía colon rectal.",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0207-00",
+    "quantity": 478,
+    "name": "ENGRAPADORA CURVA CORTANTE PARA TEJIDO GRUESO (CIRUGIA COLON RECTAL). Instrumento de engrapado quirúrgico curvo cortante , que permita un mejor acceso y visualizacion en la pelvis baja, dos dobles linea de grapas  y corte entre la segunda y tercera linea de grapas para cirugía colon rectal.",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0207-00",
+    "quantity": 240,
+    "name": "ENGRAPADORA CURVA CORTANTE PARA TEJIDO GRUESO (CIRUGIA COLON RECTAL). Instrumento de engrapado quirúrgico curvo cortante , que permita un mejor acceso y visualizacion en la pelvis baja, dos dobles linea de grapas  y corte entre la segunda y tercera linea de grapas para cirugía colon rectal.",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0207-00",
+    "quantity": 103,
+    "name": "ENGRAPADORA CURVA CORTANTE PARA TEJIDO GRUESO (CIRUGIA COLON RECTAL). Instrumento de engrapado quirúrgico curvo cortante , que permita un mejor acceso y visualizacion en la pelvis baja, dos dobles linea de grapas  y corte entre la segunda y tercera linea de grapas para cirugía colon rectal.",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0207-00",
+    "quantity": 724,
+    "name": "ENGRAPADORA CURVA CORTANTE PARA TEJIDO GRUESO (CIRUGIA COLON RECTAL). Instrumento de engrapado quirúrgico curvo cortante , que permita un mejor acceso y visualizacion en la pelvis baja, dos dobles linea de grapas  y corte entre la segunda y tercera linea de grapas para cirugía colon rectal.",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0209-00",
+    "quantity": 684,
+    "name": "RECARGA DE CLIP DE POLIMERO NO ABSORBIBLE SE SOLICITA DE (5 X 13MM)  LA EMPRESA ENTREGARA A LA UNIDAD LA PINZA PARA APLICAR EL MISMO.",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0209-00",
+    "quantity": 644,
+    "name": "RECARGA DE CLIP DE POLIMERO NO ABSORBIBLE SE SOLICITA DE (5 X 13MM)  LA EMPRESA ENTREGARA A LA UNIDAD LA PINZA PARA APLICAR EL MISMO.",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0209-00",
+    "quantity": 729,
+    "name": "RECARGA DE CLIP DE POLIMERO NO ABSORBIBLE SE SOLICITA DE (5 X 13MM)  LA EMPRESA ENTREGARA A LA UNIDAD LA PINZA PARA APLICAR EL MISMO.",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0209-00",
+    "quantity": 417,
+    "name": "RECARGA DE CLIP DE POLIMERO NO ABSORBIBLE SE SOLICITA DE (5 X 13MM)  LA EMPRESA ENTREGARA A LA UNIDAD LA PINZA PARA APLICAR EL MISMO.",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0209-00",
+    "quantity": 494,
+    "name": "RECARGA DE CLIP DE POLIMERO NO ABSORBIBLE SE SOLICITA DE (5 X 13MM)  LA EMPRESA ENTREGARA A LA UNIDAD LA PINZA PARA APLICAR EL MISMO.",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0209-00",
+    "quantity": 143,
+    "name": "RECARGA DE CLIP DE POLIMERO NO ABSORBIBLE SE SOLICITA DE (5 X 13MM)  LA EMPRESA ENTREGARA A LA UNIDAD LA PINZA PARA APLICAR EL MISMO.",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0209-00",
+    "quantity": 352,
+    "name": "RECARGA DE CLIP DE POLIMERO NO ABSORBIBLE SE SOLICITA DE (5 X 13MM)  LA EMPRESA ENTREGARA A LA UNIDAD LA PINZA PARA APLICAR EL MISMO.",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0209-02",
+    "quantity": 485,
+    "name": "RECARGA DE CLIP DE POLÍMERO NO ABSORBIBLE    (SE SOLICITA DE 7MM A 16MM. LA EMPRESA ENTREGARÁ A LA UNIDAD LA PINZA PARA APLICAR EL MISMO)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0209-02",
+    "quantity": 116,
+    "name": "RECARGA DE CLIP DE POLÍMERO NO ABSORBIBLE    (SE SOLICITA DE 7MM A 16MM. LA EMPRESA ENTREGARÁ A LA UNIDAD LA PINZA PARA APLICAR EL MISMO)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0209-02",
+    "quantity": 334,
+    "name": "RECARGA DE CLIP DE POLÍMERO NO ABSORBIBLE    (SE SOLICITA DE 7MM A 16MM. LA EMPRESA ENTREGARÁ A LA UNIDAD LA PINZA PARA APLICAR EL MISMO)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0209-02",
+    "quantity": 630,
+    "name": "RECARGA DE CLIP DE POLÍMERO NO ABSORBIBLE    (SE SOLICITA DE 7MM A 16MM. LA EMPRESA ENTREGARÁ A LA UNIDAD LA PINZA PARA APLICAR EL MISMO)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0209-02",
+    "quantity": 192,
+    "name": "RECARGA DE CLIP DE POLÍMERO NO ABSORBIBLE    (SE SOLICITA DE 7MM A 16MM. LA EMPRESA ENTREGARÁ A LA UNIDAD LA PINZA PARA APLICAR EL MISMO)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0209-02",
+    "quantity": 190,
+    "name": "RECARGA DE CLIP DE POLÍMERO NO ABSORBIBLE    (SE SOLICITA DE 7MM A 16MM. LA EMPRESA ENTREGARÁ A LA UNIDAD LA PINZA PARA APLICAR EL MISMO)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0209-02",
+    "quantity": 317,
+    "name": "RECARGA DE CLIP DE POLÍMERO NO ABSORBIBLE    (SE SOLICITA DE 7MM A 16MM. LA EMPRESA ENTREGARÁ A LA UNIDAD LA PINZA PARA APLICAR EL MISMO)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0212-04",
+    "quantity": 422,
+    "name": "BANDEJA PRE OPERATORIA PARA LAVADO DE PIEL. SE SOLICITA CON TENAZA Y DOS APLICADORES DE 3 PULGADAS CON PUNTA DE ALGODÓN",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0212-04",
+    "quantity": 219,
+    "name": "BANDEJA PRE OPERATORIA PARA LAVADO DE PIEL. SE SOLICITA CON TENAZA Y DOS APLICADORES DE 3 PULGADAS CON PUNTA DE ALGODÓN",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0212-04",
+    "quantity": 288,
+    "name": "BANDEJA PRE OPERATORIA PARA LAVADO DE PIEL. SE SOLICITA CON TENAZA Y DOS APLICADORES DE 3 PULGADAS CON PUNTA DE ALGODÓN",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0212-04",
+    "quantity": 636,
+    "name": "BANDEJA PRE OPERATORIA PARA LAVADO DE PIEL. SE SOLICITA CON TENAZA Y DOS APLICADORES DE 3 PULGADAS CON PUNTA DE ALGODÓN",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0212-04",
+    "quantity": 658,
+    "name": "BANDEJA PRE OPERATORIA PARA LAVADO DE PIEL. SE SOLICITA CON TENAZA Y DOS APLICADORES DE 3 PULGADAS CON PUNTA DE ALGODÓN",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0212-04",
+    "quantity": 594,
+    "name": "BANDEJA PRE OPERATORIA PARA LAVADO DE PIEL. SE SOLICITA CON TENAZA Y DOS APLICADORES DE 3 PULGADAS CON PUNTA DE ALGODÓN",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0212-04",
+    "quantity": 162,
+    "name": "BANDEJA PRE OPERATORIA PARA LAVADO DE PIEL. SE SOLICITA CON TENAZA Y DOS APLICADORES DE 3 PULGADAS CON PUNTA DE ALGODÓN",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0212-05",
+    "quantity": 842,
+    "name": "BANDEJA DE ANESTESIA RAQUIDEA DESEHABLE CON MEDICAMENTO SE SOLICITA (CON INTRODUCTOR, AGUJA PUNTA DE LAPIZ/SPROTE 25G LARGO 136MM CON AGUJA 22G x 1 1/2\", Epinefrina 1:1000, ampolla de 1ml y efedrina sulfato 50mg/ml, ampolla de 1ml, y CON BUPIVACAINA PESADA).",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0212-05",
+    "quantity": 191,
+    "name": "BANDEJA DE ANESTESIA RAQUIDEA DESEHABLE CON MEDICAMENTO SE SOLICITA (CON INTRODUCTOR, AGUJA PUNTA DE LAPIZ/SPROTE 25G LARGO 136MM CON AGUJA 22G x 1 1/2\", Epinefrina 1:1000, ampolla de 1ml y efedrina sulfato 50mg/ml, ampolla de 1ml, y CON BUPIVACAINA PESADA).",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0212-05",
+    "quantity": 700,
+    "name": "BANDEJA DE ANESTESIA RAQUIDEA DESEHABLE CON MEDICAMENTO SE SOLICITA (CON INTRODUCTOR, AGUJA PUNTA DE LAPIZ/SPROTE 25G LARGO 136MM CON AGUJA 22G x 1 1/2\", Epinefrina 1:1000, ampolla de 1ml y efedrina sulfato 50mg/ml, ampolla de 1ml, y CON BUPIVACAINA PESADA).",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0212-05",
+    "quantity": 606,
+    "name": "BANDEJA DE ANESTESIA RAQUIDEA DESEHABLE CON MEDICAMENTO SE SOLICITA (CON INTRODUCTOR, AGUJA PUNTA DE LAPIZ/SPROTE 25G LARGO 136MM CON AGUJA 22G x 1 1/2\", Epinefrina 1:1000, ampolla de 1ml y efedrina sulfato 50mg/ml, ampolla de 1ml, y CON BUPIVACAINA PESADA).",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0212-05",
+    "quantity": 666,
+    "name": "BANDEJA DE ANESTESIA RAQUIDEA DESEHABLE CON MEDICAMENTO SE SOLICITA (CON INTRODUCTOR, AGUJA PUNTA DE LAPIZ/SPROTE 25G LARGO 136MM CON AGUJA 22G x 1 1/2\", Epinefrina 1:1000, ampolla de 1ml y efedrina sulfato 50mg/ml, ampolla de 1ml, y CON BUPIVACAINA PESADA).",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0212-05",
+    "quantity": 407,
+    "name": "BANDEJA DE ANESTESIA RAQUIDEA DESEHABLE CON MEDICAMENTO SE SOLICITA (CON INTRODUCTOR, AGUJA PUNTA DE LAPIZ/SPROTE 25G LARGO 136MM CON AGUJA 22G x 1 1/2\", Epinefrina 1:1000, ampolla de 1ml y efedrina sulfato 50mg/ml, ampolla de 1ml, y CON BUPIVACAINA PESADA).",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0212-05",
+    "quantity": 219,
+    "name": "BANDEJA DE ANESTESIA RAQUIDEA DESEHABLE CON MEDICAMENTO SE SOLICITA (CON INTRODUCTOR, AGUJA PUNTA DE LAPIZ/SPROTE 25G LARGO 136MM CON AGUJA 22G x 1 1/2\", Epinefrina 1:1000, ampolla de 1ml y efedrina sulfato 50mg/ml, ampolla de 1ml, y CON BUPIVACAINA PESADA).",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-04",
+    "quantity": 848,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 12\" X 16\" A 18\"(304.8 MM X 406.4MM A 457.2 MM)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-04",
+    "quantity": 167,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 12\" X 16\" A 18\"(304.8 MM X 406.4MM A 457.2 MM)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-04",
+    "quantity": 196,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 12\" X 16\" A 18\"(304.8 MM X 406.4MM A 457.2 MM)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-04",
+    "quantity": 495,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 12\" X 16\" A 18\"(304.8 MM X 406.4MM A 457.2 MM)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-04",
+    "quantity": 761,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 12\" X 16\" A 18\"(304.8 MM X 406.4MM A 457.2 MM)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-04",
+    "quantity": 843,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 12\" X 16\" A 18\"(304.8 MM X 406.4MM A 457.2 MM)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-04",
+    "quantity": 635,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 12\" X 16\" A 18\"(304.8 MM X 406.4MM A 457.2 MM)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-06",
+    "quantity": 471,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZACION 18\" X 24\" (450 X 600MM)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-06",
+    "quantity": 235,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZACION 18\" X 24\" (450 X 600MM)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-06",
+    "quantity": 365,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZACION 18\" X 24\" (450 X 600MM)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-06",
+    "quantity": 612,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZACION 18\" X 24\" (450 X 600MM)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-06",
+    "quantity": 170,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZACION 18\" X 24\" (450 X 600MM)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-06",
+    "quantity": 242,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZACION 18\" X 24\" (450 X 600MM)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-06",
+    "quantity": 138,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZACION 18\" X 24\" (450 X 600MM)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-07",
+    "quantity": 734,
+    "name": "ROLLO SIN FUELLE TERMOSELLABLE PARA ESTERILIZACIÓN, DE 3\" DE ANCHO X 660 PIES (7.5CM Ó 75MM X 200 Mts)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-07",
+    "quantity": 776,
+    "name": "ROLLO SIN FUELLE TERMOSELLABLE PARA ESTERILIZACIÓN, DE 3\" DE ANCHO X 660 PIES (7.5CM Ó 75MM X 200 Mts)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-07",
+    "quantity": 770,
+    "name": "ROLLO SIN FUELLE TERMOSELLABLE PARA ESTERILIZACIÓN, DE 3\" DE ANCHO X 660 PIES (7.5CM Ó 75MM X 200 Mts)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-07",
+    "quantity": 456,
+    "name": "ROLLO SIN FUELLE TERMOSELLABLE PARA ESTERILIZACIÓN, DE 3\" DE ANCHO X 660 PIES (7.5CM Ó 75MM X 200 Mts)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-07",
+    "quantity": 224,
+    "name": "ROLLO SIN FUELLE TERMOSELLABLE PARA ESTERILIZACIÓN, DE 3\" DE ANCHO X 660 PIES (7.5CM Ó 75MM X 200 Mts)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-07",
+    "quantity": 548,
+    "name": "ROLLO SIN FUELLE TERMOSELLABLE PARA ESTERILIZACIÓN, DE 3\" DE ANCHO X 660 PIES (7.5CM Ó 75MM X 200 Mts)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-07",
+    "quantity": 466,
+    "name": "ROLLO SIN FUELLE TERMOSELLABLE PARA ESTERILIZACIÓN, DE 3\" DE ANCHO X 660 PIES (7.5CM Ó 75MM X 200 Mts)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-08",
+    "quantity": 740,
+    "name": "ROLLO SIN FUELLE TERMOSELLABLE PARA ESTERILIZACION 4\" DE ANCHO x 660' (10cm Ó 100mm x 200mts)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-08",
+    "quantity": 547,
+    "name": "ROLLO SIN FUELLE TERMOSELLABLE PARA ESTERILIZACION 4\" DE ANCHO x 660' (10cm Ó 100mm x 200mts)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-08",
+    "quantity": 553,
+    "name": "ROLLO SIN FUELLE TERMOSELLABLE PARA ESTERILIZACION 4\" DE ANCHO x 660' (10cm Ó 100mm x 200mts)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-08",
+    "quantity": 731,
+    "name": "ROLLO SIN FUELLE TERMOSELLABLE PARA ESTERILIZACION 4\" DE ANCHO x 660' (10cm Ó 100mm x 200mts)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-08",
+    "quantity": 637,
+    "name": "ROLLO SIN FUELLE TERMOSELLABLE PARA ESTERILIZACION 4\" DE ANCHO x 660' (10cm Ó 100mm x 200mts)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-08",
+    "quantity": 849,
+    "name": "ROLLO SIN FUELLE TERMOSELLABLE PARA ESTERILIZACION 4\" DE ANCHO x 660' (10cm Ó 100mm x 200mts)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-08",
+    "quantity": 743,
+    "name": "ROLLO SIN FUELLE TERMOSELLABLE PARA ESTERILIZACION 4\" DE ANCHO x 660' (10cm Ó 100mm x 200mts)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-10",
+    "quantity": 399,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 3\" X 10\" a 10 1/2\" (75 X 255 a 265MM)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-10",
+    "quantity": 647,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 3\" X 10\" a 10 1/2\" (75 X 255 a 265MM)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-10",
+    "quantity": 339,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 3\" X 10\" a 10 1/2\" (75 X 255 a 265MM)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-10",
+    "quantity": 507,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 3\" X 10\" a 10 1/2\" (75 X 255 a 265MM)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-10",
+    "quantity": 770,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 3\" X 10\" a 10 1/2\" (75 X 255 a 265MM)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-10",
+    "quantity": 380,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 3\" X 10\" a 10 1/2\" (75 X 255 a 265MM)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-10",
+    "quantity": 554,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 3\" X 10\" a 10 1/2\" (75 X 255 a 265MM)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-15",
+    "quantity": 452,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR 5 1/4\" A 5 1/2´´ X 10 1/2\" A 11´´(130MM A 140MM X 260MM A 280MM).",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-15",
+    "quantity": 198,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR 5 1/4\" A 5 1/2´´ X 10 1/2\" A 11´´(130MM A 140MM X 260MM A 280MM).",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-15",
+    "quantity": 211,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR 5 1/4\" A 5 1/2´´ X 10 1/2\" A 11´´(130MM A 140MM X 260MM A 280MM).",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-15",
+    "quantity": 173,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR 5 1/4\" A 5 1/2´´ X 10 1/2\" A 11´´(130MM A 140MM X 260MM A 280MM).",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-15",
+    "quantity": 516,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR 5 1/4\" A 5 1/2´´ X 10 1/2\" A 11´´(130MM A 140MM X 260MM A 280MM).",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-15",
+    "quantity": 837,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR 5 1/4\" A 5 1/2´´ X 10 1/2\" A 11´´(130MM A 140MM X 260MM A 280MM).",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-15",
+    "quantity": 658,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR 5 1/4\" A 5 1/2´´ X 10 1/2\" A 11´´(130MM A 140MM X 260MM A 280MM).",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-16",
+    "quantity": 496,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 8\" X 12\" (200 X 300MM)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-16",
+    "quantity": 804,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 8\" X 12\" (200 X 300MM)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-16",
+    "quantity": 399,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 8\" X 12\" (200 X 300MM)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-16",
+    "quantity": 186,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 8\" X 12\" (200 X 300MM)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-16",
+    "quantity": 112,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 8\" X 12\" (200 X 300MM)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-16",
+    "quantity": 175,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 8\" X 12\" (200 X 300MM)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0215-16",
+    "quantity": 513,
+    "name": "BOLSA MIXTA TERMOSELLABLE PARA ESTERILIZAR, 8\" X 12\" (200 X 300MM)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0216-00",
+    "quantity": 602,
+    "name": "BOLSA HIDROSOLUBLE SE SOLICITA TAMAÑO 28\" X 39\"",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0216-00",
+    "quantity": 468,
+    "name": "BOLSA HIDROSOLUBLE SE SOLICITA TAMAÑO 28\" X 39\"",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0216-00",
+    "quantity": 642,
+    "name": "BOLSA HIDROSOLUBLE SE SOLICITA TAMAÑO 28\" X 39\"",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0216-00",
+    "quantity": 673,
+    "name": "BOLSA HIDROSOLUBLE SE SOLICITA TAMAÑO 28\" X 39\"",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0216-00",
+    "quantity": 259,
+    "name": "BOLSA HIDROSOLUBLE SE SOLICITA TAMAÑO 28\" X 39\"",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0216-00",
+    "quantity": 108,
+    "name": "BOLSA HIDROSOLUBLE SE SOLICITA TAMAÑO 28\" X 39\"",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0216-00",
+    "quantity": 649,
+    "name": "BOLSA HIDROSOLUBLE SE SOLICITA TAMAÑO 28\" X 39\"",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0217-01",
+    "quantity": 419,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMÍA/ILEOSTOMÍA PARA ADULTO RECORTABLE. ABIERTA.  SE SOLICITA CON FILTRO DE CARBON INCORPORADO Y DIAMETRO DE 10mm o 12mm hasta 55mm",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0217-01",
+    "quantity": 842,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMÍA/ILEOSTOMÍA PARA ADULTO RECORTABLE. ABIERTA.  SE SOLICITA CON FILTRO DE CARBON INCORPORADO Y DIAMETRO DE 10mm o 12mm hasta 55mm",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0217-01",
+    "quantity": 522,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMÍA/ILEOSTOMÍA PARA ADULTO RECORTABLE. ABIERTA.  SE SOLICITA CON FILTRO DE CARBON INCORPORADO Y DIAMETRO DE 10mm o 12mm hasta 55mm",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0217-01",
+    "quantity": 290,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMÍA/ILEOSTOMÍA PARA ADULTO RECORTABLE. ABIERTA.  SE SOLICITA CON FILTRO DE CARBON INCORPORADO Y DIAMETRO DE 10mm o 12mm hasta 55mm",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0217-01",
+    "quantity": 137,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMÍA/ILEOSTOMÍA PARA ADULTO RECORTABLE. ABIERTA.  SE SOLICITA CON FILTRO DE CARBON INCORPORADO Y DIAMETRO DE 10mm o 12mm hasta 55mm",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0217-01",
+    "quantity": 528,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMÍA/ILEOSTOMÍA PARA ADULTO RECORTABLE. ABIERTA.  SE SOLICITA CON FILTRO DE CARBON INCORPORADO Y DIAMETRO DE 10mm o 12mm hasta 55mm",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0217-01",
+    "quantity": 787,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMÍA/ILEOSTOMÍA PARA ADULTO RECORTABLE. ABIERTA.  SE SOLICITA CON FILTRO DE CARBON INCORPORADO Y DIAMETRO DE 10mm o 12mm hasta 55mm",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0217-02",
+    "quantity": 613,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMÍA/ILEOSTOMÍA PARA ADULTO RECORTABLE ABIERTA.                                                                                                                                       (SE SOLICITA CON FILTRO DE CARBON INCORPORADO Y DIAMETRO DE 10mm o 12mm hasta 70mm)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0217-02",
+    "quantity": 672,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMÍA/ILEOSTOMÍA PARA ADULTO RECORTABLE ABIERTA.                                                                                                                                       (SE SOLICITA CON FILTRO DE CARBON INCORPORADO Y DIAMETRO DE 10mm o 12mm hasta 70mm)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0217-02",
+    "quantity": 345,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMÍA/ILEOSTOMÍA PARA ADULTO RECORTABLE ABIERTA.                                                                                                                                       (SE SOLICITA CON FILTRO DE CARBON INCORPORADO Y DIAMETRO DE 10mm o 12mm hasta 70mm)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0217-02",
+    "quantity": 635,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMÍA/ILEOSTOMÍA PARA ADULTO RECORTABLE ABIERTA.                                                                                                                                       (SE SOLICITA CON FILTRO DE CARBON INCORPORADO Y DIAMETRO DE 10mm o 12mm hasta 70mm)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0217-02",
+    "quantity": 319,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMÍA/ILEOSTOMÍA PARA ADULTO RECORTABLE ABIERTA.                                                                                                                                       (SE SOLICITA CON FILTRO DE CARBON INCORPORADO Y DIAMETRO DE 10mm o 12mm hasta 70mm)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0217-02",
+    "quantity": 417,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMÍA/ILEOSTOMÍA PARA ADULTO RECORTABLE ABIERTA.                                                                                                                                       (SE SOLICITA CON FILTRO DE CARBON INCORPORADO Y DIAMETRO DE 10mm o 12mm hasta 70mm)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0217-02",
+    "quantity": 655,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMÍA/ILEOSTOMÍA PARA ADULTO RECORTABLE ABIERTA.                                                                                                                                       (SE SOLICITA CON FILTRO DE CARBON INCORPORADO Y DIAMETRO DE 10mm o 12mm hasta 70mm)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0218-07",
+    "quantity": 427,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMIA / ILEOSTOMIA PEDIATRICA, ABIERTA (RECORTABLE).  SE SOLICITA DE 10MM A  35MM",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0218-07",
+    "quantity": 416,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMIA / ILEOSTOMIA PEDIATRICA, ABIERTA (RECORTABLE).  SE SOLICITA DE 10MM A  35MM",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0218-07",
+    "quantity": 473,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMIA / ILEOSTOMIA PEDIATRICA, ABIERTA (RECORTABLE).  SE SOLICITA DE 10MM A  35MM",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0218-07",
+    "quantity": 198,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMIA / ILEOSTOMIA PEDIATRICA, ABIERTA (RECORTABLE).  SE SOLICITA DE 10MM A  35MM",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0218-07",
+    "quantity": 763,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMIA / ILEOSTOMIA PEDIATRICA, ABIERTA (RECORTABLE).  SE SOLICITA DE 10MM A  35MM",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0218-07",
+    "quantity": 103,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMIA / ILEOSTOMIA PEDIATRICA, ABIERTA (RECORTABLE).  SE SOLICITA DE 10MM A  35MM",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0218-07",
+    "quantity": 241,
+    "name": "BOLSA DE 1 PIEZA PARA COLOSTOMIA / ILEOSTOMIA PEDIATRICA, ABIERTA (RECORTABLE).  SE SOLICITA DE 10MM A  35MM",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0219-08",
+    "quantity": 120,
+    "name": "SISTEMA DE DOS PIEZAS PARA UROSTOMÌA DE ADULTO CON DIÀMETRO EXTERNO. SE SOLICITA DE  DE 50MM",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0219-08",
+    "quantity": 125,
+    "name": "SISTEMA DE DOS PIEZAS PARA UROSTOMÌA DE ADULTO CON DIÀMETRO EXTERNO. SE SOLICITA DE  DE 50MM",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0219-08",
+    "quantity": 827,
+    "name": "SISTEMA DE DOS PIEZAS PARA UROSTOMÌA DE ADULTO CON DIÀMETRO EXTERNO. SE SOLICITA DE  DE 50MM",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0219-08",
+    "quantity": 316,
+    "name": "SISTEMA DE DOS PIEZAS PARA UROSTOMÌA DE ADULTO CON DIÀMETRO EXTERNO. SE SOLICITA DE  DE 50MM",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0219-08",
+    "quantity": 790,
+    "name": "SISTEMA DE DOS PIEZAS PARA UROSTOMÌA DE ADULTO CON DIÀMETRO EXTERNO. SE SOLICITA DE  DE 50MM",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0219-08",
+    "quantity": 186,
+    "name": "SISTEMA DE DOS PIEZAS PARA UROSTOMÌA DE ADULTO CON DIÀMETRO EXTERNO. SE SOLICITA DE  DE 50MM",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0219-08",
+    "quantity": 424,
+    "name": "SISTEMA DE DOS PIEZAS PARA UROSTOMÌA DE ADULTO CON DIÀMETRO EXTERNO. SE SOLICITA DE  DE 50MM",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0221-00",
+    "quantity": 312,
+    "name": "BOLSA COLECTORA DE ORINA PARA ADULTO.",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0221-00",
+    "quantity": 426,
+    "name": "BOLSA COLECTORA DE ORINA PARA ADULTO.",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0221-00",
+    "quantity": 836,
+    "name": "BOLSA COLECTORA DE ORINA PARA ADULTO.",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0221-00",
+    "quantity": 185,
+    "name": "BOLSA COLECTORA DE ORINA PARA ADULTO.",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0221-00",
+    "quantity": 485,
+    "name": "BOLSA COLECTORA DE ORINA PARA ADULTO.",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0221-00",
+    "quantity": 564,
+    "name": "BOLSA COLECTORA DE ORINA PARA ADULTO.",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0221-00",
+    "quantity": 130,
+    "name": "BOLSA COLECTORA DE ORINA PARA ADULTO.",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0223-00",
+    "quantity": 437,
+    "name": "BOLSA COLECTORA DE ORINA DE 30 A 35 ONZA DE CAPACIDAD     (900CC A 1050CC) DE PIERNA .",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0223-00",
+    "quantity": 680,
+    "name": "BOLSA COLECTORA DE ORINA DE 30 A 35 ONZA DE CAPACIDAD     (900CC A 1050CC) DE PIERNA .",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0223-00",
+    "quantity": 593,
+    "name": "BOLSA COLECTORA DE ORINA DE 30 A 35 ONZA DE CAPACIDAD     (900CC A 1050CC) DE PIERNA .",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0223-00",
+    "quantity": 411,
+    "name": "BOLSA COLECTORA DE ORINA DE 30 A 35 ONZA DE CAPACIDAD     (900CC A 1050CC) DE PIERNA .",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0223-00",
+    "quantity": 208,
+    "name": "BOLSA COLECTORA DE ORINA DE 30 A 35 ONZA DE CAPACIDAD     (900CC A 1050CC) DE PIERNA .",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0223-00",
+    "quantity": 302,
+    "name": "BOLSA COLECTORA DE ORINA DE 30 A 35 ONZA DE CAPACIDAD     (900CC A 1050CC) DE PIERNA .",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0223-00",
+    "quantity": 831,
+    "name": "BOLSA COLECTORA DE ORINA DE 30 A 35 ONZA DE CAPACIDAD     (900CC A 1050CC) DE PIERNA .",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0223-05",
+    "quantity": 114,
+    "name": "BOLSA BIODEGRADABLE COLECTORA DE VOMITO.",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0223-05",
+    "quantity": 618,
+    "name": "BOLSA BIODEGRADABLE COLECTORA DE VOMITO.",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0223-05",
+    "quantity": 530,
+    "name": "BOLSA BIODEGRADABLE COLECTORA DE VOMITO.",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0223-05",
+    "quantity": 509,
+    "name": "BOLSA BIODEGRADABLE COLECTORA DE VOMITO.",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0223-05",
+    "quantity": 236,
+    "name": "BOLSA BIODEGRADABLE COLECTORA DE VOMITO.",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0223-05",
+    "quantity": 587,
+    "name": "BOLSA BIODEGRADABLE COLECTORA DE VOMITO.",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0223-05",
+    "quantity": 136,
+    "name": "BOLSA BIODEGRADABLE COLECTORA DE VOMITO.",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0248-00",
+    "quantity": 678,
+    "name": "CUBIERTA DE ZAPATO (Se solicita sin cinta)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0248-00",
+    "quantity": 403,
+    "name": "CUBIERTA DE ZAPATO (Se solicita sin cinta)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0248-00",
+    "quantity": 654,
+    "name": "CUBIERTA DE ZAPATO (Se solicita sin cinta)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0248-00",
+    "quantity": 341,
+    "name": "CUBIERTA DE ZAPATO (Se solicita sin cinta)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0248-00",
+    "quantity": 146,
+    "name": "CUBIERTA DE ZAPATO (Se solicita sin cinta)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0248-00",
+    "quantity": 475,
+    "name": "CUBIERTA DE ZAPATO (Se solicita sin cinta)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0248-00",
+    "quantity": 360,
+    "name": "CUBIERTA DE ZAPATO (Se solicita sin cinta)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0259-01",
+    "quantity": 470,
+    "name": "BRAZALETE DE IDENTIFICACIÓN PEDIATRICA. SE SOLICITA: 8 PULGADAS DE LONGITUD",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0259-01",
+    "quantity": 242,
+    "name": "BRAZALETE DE IDENTIFICACIÓN PEDIATRICA. SE SOLICITA: 8 PULGADAS DE LONGITUD",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0259-01",
+    "quantity": 726,
+    "name": "BRAZALETE DE IDENTIFICACIÓN PEDIATRICA. SE SOLICITA: 8 PULGADAS DE LONGITUD",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0259-01",
+    "quantity": 497,
+    "name": "BRAZALETE DE IDENTIFICACIÓN PEDIATRICA. SE SOLICITA: 8 PULGADAS DE LONGITUD",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0259-01",
+    "quantity": 814,
+    "name": "BRAZALETE DE IDENTIFICACIÓN PEDIATRICA. SE SOLICITA: 8 PULGADAS DE LONGITUD",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0259-01",
+    "quantity": 194,
+    "name": "BRAZALETE DE IDENTIFICACIÓN PEDIATRICA. SE SOLICITA: 8 PULGADAS DE LONGITUD",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0259-01",
+    "quantity": 330,
+    "name": "BRAZALETE DE IDENTIFICACIÓN PEDIATRICA. SE SOLICITA: 8 PULGADAS DE LONGITUD",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0260-03",
+    "quantity": 715,
+    "name": "BRAZALETE DE IDENTIFICACIÓN PARA ADULTOS.                (SE SOLICITA: 12 PULGADAS DE LONGITUD)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0260-03",
+    "quantity": 675,
+    "name": "BRAZALETE DE IDENTIFICACIÓN PARA ADULTOS.                (SE SOLICITA: 12 PULGADAS DE LONGITUD)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0260-03",
+    "quantity": 785,
+    "name": "BRAZALETE DE IDENTIFICACIÓN PARA ADULTOS.                (SE SOLICITA: 12 PULGADAS DE LONGITUD)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0260-03",
+    "quantity": 550,
+    "name": "BRAZALETE DE IDENTIFICACIÓN PARA ADULTOS.                (SE SOLICITA: 12 PULGADAS DE LONGITUD)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0260-03",
+    "quantity": 334,
+    "name": "BRAZALETE DE IDENTIFICACIÓN PARA ADULTOS.                (SE SOLICITA: 12 PULGADAS DE LONGITUD)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0260-03",
+    "quantity": 749,
+    "name": "BRAZALETE DE IDENTIFICACIÓN PARA ADULTOS.                (SE SOLICITA: 12 PULGADAS DE LONGITUD)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0260-03",
+    "quantity": 798,
+    "name": "BRAZALETE DE IDENTIFICACIÓN PARA ADULTOS.                (SE SOLICITA: 12 PULGADAS DE LONGITUD)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-00",
+    "quantity": 133,
+    "name": "CALCETA TUBULAR. SE SOLICITA TAMAÑO :  3 \" X 25 YARDAS DE ALGODON",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-00",
+    "quantity": 710,
+    "name": "CALCETA TUBULAR. SE SOLICITA TAMAÑO :  3 \" X 25 YARDAS DE ALGODON",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-00",
+    "quantity": 663,
+    "name": "CALCETA TUBULAR. SE SOLICITA TAMAÑO :  3 \" X 25 YARDAS DE ALGODON",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-00",
+    "quantity": 132,
+    "name": "CALCETA TUBULAR. SE SOLICITA TAMAÑO :  3 \" X 25 YARDAS DE ALGODON",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-00",
+    "quantity": 365,
+    "name": "CALCETA TUBULAR. SE SOLICITA TAMAÑO :  3 \" X 25 YARDAS DE ALGODON",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-00",
+    "quantity": 585,
+    "name": "CALCETA TUBULAR. SE SOLICITA TAMAÑO :  3 \" X 25 YARDAS DE ALGODON",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-00",
+    "quantity": 677,
+    "name": "CALCETA TUBULAR. SE SOLICITA TAMAÑO :  3 \" X 25 YARDAS DE ALGODON",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-01",
+    "quantity": 289,
+    "name": "MEDIA ANTIDESLIZANTE. SE SOLICITA MEDIANA  (LONGITUD: 35cms, ANCHO 8.5cm)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-01",
+    "quantity": 171,
+    "name": "MEDIA ANTIDESLIZANTE. SE SOLICITA MEDIANA  (LONGITUD: 35cms, ANCHO 8.5cm)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-01",
+    "quantity": 789,
+    "name": "MEDIA ANTIDESLIZANTE. SE SOLICITA MEDIANA  (LONGITUD: 35cms, ANCHO 8.5cm)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-01",
+    "quantity": 248,
+    "name": "MEDIA ANTIDESLIZANTE. SE SOLICITA MEDIANA  (LONGITUD: 35cms, ANCHO 8.5cm)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-01",
+    "quantity": 103,
+    "name": "MEDIA ANTIDESLIZANTE. SE SOLICITA MEDIANA  (LONGITUD: 35cms, ANCHO 8.5cm)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-01",
+    "quantity": 110,
+    "name": "MEDIA ANTIDESLIZANTE. SE SOLICITA MEDIANA  (LONGITUD: 35cms, ANCHO 8.5cm)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-01",
+    "quantity": 287,
+    "name": "MEDIA ANTIDESLIZANTE. SE SOLICITA MEDIANA  (LONGITUD: 35cms, ANCHO 8.5cm)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-02",
+    "quantity": 229,
+    "name": "MEDIA ANTIDESLIZANTE                (SE SOLICITA GRANDE (Longitud: 40cms, ancho 9cm).",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-02",
+    "quantity": 362,
+    "name": "MEDIA ANTIDESLIZANTE                (SE SOLICITA GRANDE (Longitud: 40cms, ancho 9cm).",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-02",
+    "quantity": 429,
+    "name": "MEDIA ANTIDESLIZANTE                (SE SOLICITA GRANDE (Longitud: 40cms, ancho 9cm).",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-02",
+    "quantity": 481,
+    "name": "MEDIA ANTIDESLIZANTE                (SE SOLICITA GRANDE (Longitud: 40cms, ancho 9cm).",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-02",
+    "quantity": 721,
+    "name": "MEDIA ANTIDESLIZANTE                (SE SOLICITA GRANDE (Longitud: 40cms, ancho 9cm).",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-02",
+    "quantity": 156,
+    "name": "MEDIA ANTIDESLIZANTE                (SE SOLICITA GRANDE (Longitud: 40cms, ancho 9cm).",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0266-02",
+    "quantity": 248,
+    "name": "MEDIA ANTIDESLIZANTE                (SE SOLICITA GRANDE (Longitud: 40cms, ancho 9cm).",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0267-00",
+    "quantity": 467,
+    "name": "CALCETA TUBULAR. SE SOLICITA TAMAÑO: 4 \" X 25 YARDAS.  DE ALGODON",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0267-00",
+    "quantity": 360,
+    "name": "CALCETA TUBULAR. SE SOLICITA TAMAÑO: 4 \" X 25 YARDAS.  DE ALGODON",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0267-00",
+    "quantity": 701,
+    "name": "CALCETA TUBULAR. SE SOLICITA TAMAÑO: 4 \" X 25 YARDAS.  DE ALGODON",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0267-00",
+    "quantity": 204,
+    "name": "CALCETA TUBULAR. SE SOLICITA TAMAÑO: 4 \" X 25 YARDAS.  DE ALGODON",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0267-00",
+    "quantity": 242,
+    "name": "CALCETA TUBULAR. SE SOLICITA TAMAÑO: 4 \" X 25 YARDAS.  DE ALGODON",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0267-00",
+    "quantity": 282,
+    "name": "CALCETA TUBULAR. SE SOLICITA TAMAÑO: 4 \" X 25 YARDAS.  DE ALGODON",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0267-00",
+    "quantity": 791,
+    "name": "CALCETA TUBULAR. SE SOLICITA TAMAÑO: 4 \" X 25 YARDAS.  DE ALGODON",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0272-00",
+    "quantity": 349,
+    "name": "CANULA INTRAVENOSA SIN JERINGUILLA SE SOLICITA DE 18G  X  1  1/4\"  A  1  1/2\" DE  POLIURETANO",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0272-00",
+    "quantity": 641,
+    "name": "CANULA INTRAVENOSA SIN JERINGUILLA SE SOLICITA DE 18G  X  1  1/4\"  A  1  1/2\" DE  POLIURETANO",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0272-00",
+    "quantity": 646,
+    "name": "CANULA INTRAVENOSA SIN JERINGUILLA SE SOLICITA DE 18G  X  1  1/4\"  A  1  1/2\" DE  POLIURETANO",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0272-00",
+    "quantity": 478,
+    "name": "CANULA INTRAVENOSA SIN JERINGUILLA SE SOLICITA DE 18G  X  1  1/4\"  A  1  1/2\" DE  POLIURETANO",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0272-00",
+    "quantity": 360,
+    "name": "CANULA INTRAVENOSA SIN JERINGUILLA SE SOLICITA DE 18G  X  1  1/4\"  A  1  1/2\" DE  POLIURETANO",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0272-00",
+    "quantity": 823,
+    "name": "CANULA INTRAVENOSA SIN JERINGUILLA SE SOLICITA DE 18G  X  1  1/4\"  A  1  1/2\" DE  POLIURETANO",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0272-00",
+    "quantity": 290,
+    "name": "CANULA INTRAVENOSA SIN JERINGUILLA SE SOLICITA DE 18G  X  1  1/4\"  A  1  1/2\" DE  POLIURETANO",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0274-01",
+    "quantity": 217,
+    "name": "CANULA INTRAVENOSA SIN JERINGUILLA SE SOLICITA DE POLIURETANO  CALIBRE # 22 G X  DE 1\" A  1  1/4\" .",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0274-01",
+    "quantity": 256,
+    "name": "CANULA INTRAVENOSA SIN JERINGUILLA SE SOLICITA DE POLIURETANO  CALIBRE # 22 G X  DE 1\" A  1  1/4\" .",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0274-01",
+    "quantity": 427,
+    "name": "CANULA INTRAVENOSA SIN JERINGUILLA SE SOLICITA DE POLIURETANO  CALIBRE # 22 G X  DE 1\" A  1  1/4\" .",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0274-01",
+    "quantity": 316,
+    "name": "CANULA INTRAVENOSA SIN JERINGUILLA SE SOLICITA DE POLIURETANO  CALIBRE # 22 G X  DE 1\" A  1  1/4\" .",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0274-01",
+    "quantity": 532,
+    "name": "CANULA INTRAVENOSA SIN JERINGUILLA SE SOLICITA DE POLIURETANO  CALIBRE # 22 G X  DE 1\" A  1  1/4\" .",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0274-01",
+    "quantity": 356,
+    "name": "CANULA INTRAVENOSA SIN JERINGUILLA SE SOLICITA DE POLIURETANO  CALIBRE # 22 G X  DE 1\" A  1  1/4\" .",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0274-01",
+    "quantity": 722,
+    "name": "CANULA INTRAVENOSA SIN JERINGUILLA SE SOLICITA DE POLIURETANO  CALIBRE # 22 G X  DE 1\" A  1  1/4\" .",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0274-02",
+    "quantity": 759,
+    "name": "CÁNULA INTRAVENOSA SIN JERINGUILLA  (SE SOLICITA DE POLIURETANO, CALIBRE # 24, DE 3/4\")",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0274-02",
+    "quantity": 613,
+    "name": "CÁNULA INTRAVENOSA SIN JERINGUILLA  (SE SOLICITA DE POLIURETANO, CALIBRE # 24, DE 3/4\")",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0274-02",
+    "quantity": 463,
+    "name": "CÁNULA INTRAVENOSA SIN JERINGUILLA  (SE SOLICITA DE POLIURETANO, CALIBRE # 24, DE 3/4\")",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0274-02",
+    "quantity": 573,
+    "name": "CÁNULA INTRAVENOSA SIN JERINGUILLA  (SE SOLICITA DE POLIURETANO, CALIBRE # 24, DE 3/4\")",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0274-02",
+    "quantity": 414,
+    "name": "CÁNULA INTRAVENOSA SIN JERINGUILLA  (SE SOLICITA DE POLIURETANO, CALIBRE # 24, DE 3/4\")",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0274-02",
+    "quantity": 674,
+    "name": "CÁNULA INTRAVENOSA SIN JERINGUILLA  (SE SOLICITA DE POLIURETANO, CALIBRE # 24, DE 3/4\")",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0274-02",
+    "quantity": 579,
+    "name": "CÁNULA INTRAVENOSA SIN JERINGUILLA  (SE SOLICITA DE POLIURETANO, CALIBRE # 24, DE 3/4\")",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0276-18",
+    "quantity": 799,
+    "name": "CATETER DE HISTEROSONOGRAFIA, 5Fr O 7FR. SE SOLICITA TAMAÑO  5FR Y BALON DE 3CC",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0276-18",
+    "quantity": 336,
+    "name": "CATETER DE HISTEROSONOGRAFIA, 5Fr O 7FR. SE SOLICITA TAMAÑO  5FR Y BALON DE 3CC",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0276-18",
+    "quantity": 699,
+    "name": "CATETER DE HISTEROSONOGRAFIA, 5Fr O 7FR. SE SOLICITA TAMAÑO  5FR Y BALON DE 3CC",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0276-18",
+    "quantity": 251,
+    "name": "CATETER DE HISTEROSONOGRAFIA, 5Fr O 7FR. SE SOLICITA TAMAÑO  5FR Y BALON DE 3CC",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0276-18",
+    "quantity": 617,
+    "name": "CATETER DE HISTEROSONOGRAFIA, 5Fr O 7FR. SE SOLICITA TAMAÑO  5FR Y BALON DE 3CC",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0276-18",
+    "quantity": 527,
+    "name": "CATETER DE HISTEROSONOGRAFIA, 5Fr O 7FR. SE SOLICITA TAMAÑO  5FR Y BALON DE 3CC",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0276-18",
+    "quantity": 278,
+    "name": "CATETER DE HISTEROSONOGRAFIA, 5Fr O 7FR. SE SOLICITA TAMAÑO  5FR Y BALON DE 3CC",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0283-10",
+    "quantity": 415,
+    "name": "LIMPIEZA DE SUBCLAVIA CON CLOREXIDINA Y ALCOHOL .    (SE SOLICITA CON UN (1) APLICADOR)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0283-10",
+    "quantity": 724,
+    "name": "LIMPIEZA DE SUBCLAVIA CON CLOREXIDINA Y ALCOHOL .    (SE SOLICITA CON UN (1) APLICADOR)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0283-10",
+    "quantity": 298,
+    "name": "LIMPIEZA DE SUBCLAVIA CON CLOREXIDINA Y ALCOHOL .    (SE SOLICITA CON UN (1) APLICADOR)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0283-10",
+    "quantity": 799,
+    "name": "LIMPIEZA DE SUBCLAVIA CON CLOREXIDINA Y ALCOHOL .    (SE SOLICITA CON UN (1) APLICADOR)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0283-10",
+    "quantity": 640,
+    "name": "LIMPIEZA DE SUBCLAVIA CON CLOREXIDINA Y ALCOHOL .    (SE SOLICITA CON UN (1) APLICADOR)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0283-10",
+    "quantity": 709,
+    "name": "LIMPIEZA DE SUBCLAVIA CON CLOREXIDINA Y ALCOHOL .    (SE SOLICITA CON UN (1) APLICADOR)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0283-10",
+    "quantity": 145,
+    "name": "LIMPIEZA DE SUBCLAVIA CON CLOREXIDINA Y ALCOHOL .    (SE SOLICITA CON UN (1) APLICADOR)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0286-00",
+    "quantity": 102,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON, 2 VIAS CON BALON DE 3CC/ML   SE SOLICITA CALIBRE 10FR",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0286-00",
+    "quantity": 522,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON, 2 VIAS CON BALON DE 3CC/ML   SE SOLICITA CALIBRE 10FR",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0286-00",
+    "quantity": 417,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON, 2 VIAS CON BALON DE 3CC/ML   SE SOLICITA CALIBRE 10FR",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0286-00",
+    "quantity": 193,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON, 2 VIAS CON BALON DE 3CC/ML   SE SOLICITA CALIBRE 10FR",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0286-00",
+    "quantity": 426,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON, 2 VIAS CON BALON DE 3CC/ML   SE SOLICITA CALIBRE 10FR",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0286-00",
+    "quantity": 233,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON, 2 VIAS CON BALON DE 3CC/ML   SE SOLICITA CALIBRE 10FR",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0286-00",
+    "quantity": 803,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON, 2 VIAS CON BALON DE 3CC/ML   SE SOLICITA CALIBRE 10FR",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-00",
+    "quantity": 561,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML. SE  SOLICITA  CALIBRE 12FR",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-00",
+    "quantity": 567,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML. SE  SOLICITA  CALIBRE 12FR",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-00",
+    "quantity": 755,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML. SE  SOLICITA  CALIBRE 12FR",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-00",
+    "quantity": 465,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML. SE  SOLICITA  CALIBRE 12FR",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-00",
+    "quantity": 291,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML. SE  SOLICITA  CALIBRE 12FR",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-00",
+    "quantity": 334,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML. SE  SOLICITA  CALIBRE 12FR",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-00",
+    "quantity": 797,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML. SE  SOLICITA  CALIBRE 12FR",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-01",
+    "quantity": 243,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.                                              SE SOLICITA  CALIBRE 18FR",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-01",
+    "quantity": 841,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.                                              SE SOLICITA  CALIBRE 18FR",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-01",
+    "quantity": 750,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.                                              SE SOLICITA  CALIBRE 18FR",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-01",
+    "quantity": 526,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.                                              SE SOLICITA  CALIBRE 18FR",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-01",
+    "quantity": 372,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.                                              SE SOLICITA  CALIBRE 18FR",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-01",
+    "quantity": 345,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.                                              SE SOLICITA  CALIBRE 18FR",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-01",
+    "quantity": 744,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.                                              SE SOLICITA  CALIBRE 18FR",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-02",
+    "quantity": 521,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.  (SE SOLICITA CALIBRE 20FR)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-02",
+    "quantity": 383,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.  (SE SOLICITA CALIBRE 20FR)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-02",
+    "quantity": 177,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.  (SE SOLICITA CALIBRE 20FR)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-02",
+    "quantity": 448,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.  (SE SOLICITA CALIBRE 20FR)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-02",
+    "quantity": 337,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.  (SE SOLICITA CALIBRE 20FR)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-02",
+    "quantity": 755,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.  (SE SOLICITA CALIBRE 20FR)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-02",
+    "quantity": 211,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.  (SE SOLICITA CALIBRE 20FR)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-03",
+    "quantity": 789,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.     SE SOLICITA CALIBRE  22FR",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-03",
+    "quantity": 344,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.     SE SOLICITA CALIBRE  22FR",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-03",
+    "quantity": 354,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.     SE SOLICITA CALIBRE  22FR",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-03",
+    "quantity": 341,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.     SE SOLICITA CALIBRE  22FR",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-03",
+    "quantity": 397,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.     SE SOLICITA CALIBRE  22FR",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-03",
+    "quantity": 305,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.     SE SOLICITA CALIBRE  22FR",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0287-03",
+    "quantity": 607,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.     SE SOLICITA CALIBRE  22FR",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0288-00",
+    "quantity": 106,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.                                                               SE SOLICITA CALIBRE 14FR",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0288-00",
+    "quantity": 559,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.                                                               SE SOLICITA CALIBRE 14FR",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0288-00",
+    "quantity": 704,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.                                                               SE SOLICITA CALIBRE 14FR",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0288-00",
+    "quantity": 807,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.                                                               SE SOLICITA CALIBRE 14FR",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0288-00",
+    "quantity": 513,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.                                                               SE SOLICITA CALIBRE 14FR",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0288-00",
+    "quantity": 605,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.                                                               SE SOLICITA CALIBRE 14FR",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0288-00",
+    "quantity": 444,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.                                                               SE SOLICITA CALIBRE 14FR",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0288-01",
+    "quantity": 272,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.  SE  SOLICITA  CALIBRE 16FR",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0288-01",
+    "quantity": 229,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.  SE  SOLICITA  CALIBRE 16FR",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0288-01",
+    "quantity": 107,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.  SE  SOLICITA  CALIBRE 16FR",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0288-01",
+    "quantity": 428,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.  SE  SOLICITA  CALIBRE 16FR",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0288-01",
+    "quantity": 724,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.  SE  SOLICITA  CALIBRE 16FR",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0288-01",
+    "quantity": 305,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.  SE  SOLICITA  CALIBRE 16FR",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0288-01",
+    "quantity": 788,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICON , 2 VÍAS CON BALÓN DE 5 CC/ML.  SE  SOLICITA  CALIBRE 16FR",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0298-10",
+    "quantity": 737,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICÒN, 3 VÌAS CON BALÒN DE 30 CC.  SE SOLICITA CALIBRE 24FR",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0298-10",
+    "quantity": 741,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICÒN, 3 VÌAS CON BALÒN DE 30 CC.  SE SOLICITA CALIBRE 24FR",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0298-10",
+    "quantity": 464,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICÒN, 3 VÌAS CON BALÒN DE 30 CC.  SE SOLICITA CALIBRE 24FR",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0298-10",
+    "quantity": 542,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICÒN, 3 VÌAS CON BALÒN DE 30 CC.  SE SOLICITA CALIBRE 24FR",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0298-10",
+    "quantity": 335,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICÒN, 3 VÌAS CON BALÒN DE 30 CC.  SE SOLICITA CALIBRE 24FR",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0298-10",
+    "quantity": 781,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICÒN, 3 VÌAS CON BALÒN DE 30 CC.  SE SOLICITA CALIBRE 24FR",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0298-10",
+    "quantity": 842,
+    "name": "SONDA FOLEY DE LATEX RECUBIERTA CON SILICÒN, 3 VÌAS CON BALÒN DE 30 CC.  SE SOLICITA CALIBRE 24FR",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0299-12",
+    "quantity": 289,
+    "name": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLESE.  (SE  SOLICITA TROCAR COMPLETO DE 5MM DE DIAMETRO Y DOS CAMISAS ADICIONALES)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0299-12",
+    "quantity": 242,
+    "name": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLESE.  (SE  SOLICITA TROCAR COMPLETO DE 5MM DE DIAMETRO Y DOS CAMISAS ADICIONALES)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0299-12",
+    "quantity": 822,
+    "name": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLESE.  (SE  SOLICITA TROCAR COMPLETO DE 5MM DE DIAMETRO Y DOS CAMISAS ADICIONALES)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0299-12",
+    "quantity": 290,
+    "name": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLESE.  (SE  SOLICITA TROCAR COMPLETO DE 5MM DE DIAMETRO Y DOS CAMISAS ADICIONALES)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0299-12",
+    "quantity": 299,
+    "name": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLESE.  (SE  SOLICITA TROCAR COMPLETO DE 5MM DE DIAMETRO Y DOS CAMISAS ADICIONALES)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0299-12",
+    "quantity": 590,
+    "name": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLESE.  (SE  SOLICITA TROCAR COMPLETO DE 5MM DE DIAMETRO Y DOS CAMISAS ADICIONALES)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0299-12",
+    "quantity": 430,
+    "name": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLESE.  (SE  SOLICITA TROCAR COMPLETO DE 5MM DE DIAMETRO Y DOS CAMISAS ADICIONALES)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0299-14",
+    "quantity": 415,
+    "name": "TROCAR PARA CIRUGIA LAPAROSCOPICA, DE 2 A 15 MM DE DIAMETRO, PUNTA CORTANTE, DESECHABLE.,                                                                                                          (SE SOLICITA TROCAR COMPLETO DE 12MM DE DIAMETRO Y DOS CAMISAS ADICIONALES)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0299-14",
+    "quantity": 746,
+    "name": "TROCAR PARA CIRUGIA LAPAROSCOPICA, DE 2 A 15 MM DE DIAMETRO, PUNTA CORTANTE, DESECHABLE.,                                                                                                          (SE SOLICITA TROCAR COMPLETO DE 12MM DE DIAMETRO Y DOS CAMISAS ADICIONALES)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0299-14",
+    "quantity": 180,
+    "name": "TROCAR PARA CIRUGIA LAPAROSCOPICA, DE 2 A 15 MM DE DIAMETRO, PUNTA CORTANTE, DESECHABLE.,                                                                                                          (SE SOLICITA TROCAR COMPLETO DE 12MM DE DIAMETRO Y DOS CAMISAS ADICIONALES)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0299-14",
+    "quantity": 715,
+    "name": "TROCAR PARA CIRUGIA LAPAROSCOPICA, DE 2 A 15 MM DE DIAMETRO, PUNTA CORTANTE, DESECHABLE.,                                                                                                          (SE SOLICITA TROCAR COMPLETO DE 12MM DE DIAMETRO Y DOS CAMISAS ADICIONALES)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0299-14",
+    "quantity": 683,
+    "name": "TROCAR PARA CIRUGIA LAPAROSCOPICA, DE 2 A 15 MM DE DIAMETRO, PUNTA CORTANTE, DESECHABLE.,                                                                                                          (SE SOLICITA TROCAR COMPLETO DE 12MM DE DIAMETRO Y DOS CAMISAS ADICIONALES)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0299-14",
+    "quantity": 167,
+    "name": "TROCAR PARA CIRUGIA LAPAROSCOPICA, DE 2 A 15 MM DE DIAMETRO, PUNTA CORTANTE, DESECHABLE.,                                                                                                          (SE SOLICITA TROCAR COMPLETO DE 12MM DE DIAMETRO Y DOS CAMISAS ADICIONALES)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0299-14",
+    "quantity": 512,
+    "name": "TROCAR PARA CIRUGIA LAPAROSCOPICA, DE 2 A 15 MM DE DIAMETRO, PUNTA CORTANTE, DESECHABLE.,                                                                                                          (SE SOLICITA TROCAR COMPLETO DE 12MM DE DIAMETRO Y DOS CAMISAS ADICIONALES)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0300-01",
+    "quantity": 389,
+    "name": "JUEGO PARA ACCESO VENOSO PERIFÉRICO (CANALIZACIÓN)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0300-01",
+    "quantity": 177,
+    "name": "JUEGO PARA ACCESO VENOSO PERIFÉRICO (CANALIZACIÓN)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0300-01",
+    "quantity": 564,
+    "name": "JUEGO PARA ACCESO VENOSO PERIFÉRICO (CANALIZACIÓN)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0300-01",
+    "quantity": 556,
+    "name": "JUEGO PARA ACCESO VENOSO PERIFÉRICO (CANALIZACIÓN)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0300-01",
+    "quantity": 697,
+    "name": "JUEGO PARA ACCESO VENOSO PERIFÉRICO (CANALIZACIÓN)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0300-01",
+    "quantity": 557,
+    "name": "JUEGO PARA ACCESO VENOSO PERIFÉRICO (CANALIZACIÓN)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0300-01",
+    "quantity": 556,
+    "name": "JUEGO PARA ACCESO VENOSO PERIFÉRICO (CANALIZACIÓN)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0307-02",
+    "quantity": 559,
+    "name": "CERA DE HUESO. SE SOLICITA EN BASTÓN",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0307-02",
+    "quantity": 645,
+    "name": "CERA DE HUESO. SE SOLICITA EN BASTÓN",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0307-02",
+    "quantity": 636,
+    "name": "CERA DE HUESO. SE SOLICITA EN BASTÓN",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0307-02",
+    "quantity": 298,
+    "name": "CERA DE HUESO. SE SOLICITA EN BASTÓN",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0307-02",
+    "quantity": 102,
+    "name": "CERA DE HUESO. SE SOLICITA EN BASTÓN",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0307-02",
+    "quantity": 207,
+    "name": "CERA DE HUESO. SE SOLICITA EN BASTÓN",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0307-02",
+    "quantity": 179,
+    "name": "CERA DE HUESO. SE SOLICITA EN BASTÓN",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0309-04",
+    "quantity": 209,
+    "name": "CINTA DE HILADILLO ESTERIL DE ALGODÓN TRENZADO",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0309-04",
+    "quantity": 503,
+    "name": "CINTA DE HILADILLO ESTERIL DE ALGODÓN TRENZADO",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0309-04",
+    "quantity": 721,
+    "name": "CINTA DE HILADILLO ESTERIL DE ALGODÓN TRENZADO",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0309-04",
+    "quantity": 226,
+    "name": "CINTA DE HILADILLO ESTERIL DE ALGODÓN TRENZADO",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0309-04",
+    "quantity": 671,
+    "name": "CINTA DE HILADILLO ESTERIL DE ALGODÓN TRENZADO",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0309-04",
+    "quantity": 468,
+    "name": "CINTA DE HILADILLO ESTERIL DE ALGODÓN TRENZADO",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0309-04",
+    "quantity": 457,
+    "name": "CINTA DE HILADILLO ESTERIL DE ALGODÓN TRENZADO",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-00",
+    "quantity": 399,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR.  SE SOLICITA TAMAÑO  DE  1/2\" X 60 O MAS YARDAS.",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-00",
+    "quantity": 292,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR.  SE SOLICITA TAMAÑO  DE  1/2\" X 60 O MAS YARDAS.",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-00",
+    "quantity": 713,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR.  SE SOLICITA TAMAÑO  DE  1/2\" X 60 O MAS YARDAS.",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-00",
+    "quantity": 223,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR.  SE SOLICITA TAMAÑO  DE  1/2\" X 60 O MAS YARDAS.",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-00",
+    "quantity": 452,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR.  SE SOLICITA TAMAÑO  DE  1/2\" X 60 O MAS YARDAS.",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-00",
+    "quantity": 285,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR.  SE SOLICITA TAMAÑO  DE  1/2\" X 60 O MAS YARDAS.",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-00",
+    "quantity": 663,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR.  SE SOLICITA TAMAÑO  DE  1/2\" X 60 O MAS YARDAS.",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-01",
+    "quantity": 699,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR. SE SOLICITATAMAÑO 3/4\" X 60 Ó MAS YARDAS.",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-01",
+    "quantity": 323,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR. SE SOLICITATAMAÑO 3/4\" X 60 Ó MAS YARDAS.",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-01",
+    "quantity": 385,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR. SE SOLICITATAMAÑO 3/4\" X 60 Ó MAS YARDAS.",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-01",
+    "quantity": 488,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR. SE SOLICITATAMAÑO 3/4\" X 60 Ó MAS YARDAS.",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-01",
+    "quantity": 241,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR. SE SOLICITATAMAÑO 3/4\" X 60 Ó MAS YARDAS.",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-01",
+    "quantity": 348,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR. SE SOLICITATAMAÑO 3/4\" X 60 Ó MAS YARDAS.",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-01",
+    "quantity": 265,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR. SE SOLICITATAMAÑO 3/4\" X 60 Ó MAS YARDAS.",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-02",
+    "quantity": 257,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR                SE SOLICITA TAMAÑO  1\" X 60 O MAS YARDAS.",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-02",
+    "quantity": 344,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR                SE SOLICITA TAMAÑO  1\" X 60 O MAS YARDAS.",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-02",
+    "quantity": 829,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR                SE SOLICITA TAMAÑO  1\" X 60 O MAS YARDAS.",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-02",
+    "quantity": 128,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR                SE SOLICITA TAMAÑO  1\" X 60 O MAS YARDAS.",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-02",
+    "quantity": 115,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR                SE SOLICITA TAMAÑO  1\" X 60 O MAS YARDAS.",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-02",
+    "quantity": 166,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR                SE SOLICITA TAMAÑO  1\" X 60 O MAS YARDAS.",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0310-02",
+    "quantity": 521,
+    "name": "CINTA INDICADORA PARA ESTERILIZACION A VAPOR                SE SOLICITA TAMAÑO  1\" X 60 O MAS YARDAS.",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0311-00",
+    "quantity": 336,
+    "name": "COBERTOR PARA SILLETA (PALETA)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0311-00",
+    "quantity": 850,
+    "name": "COBERTOR PARA SILLETA (PALETA)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0311-00",
+    "quantity": 113,
+    "name": "COBERTOR PARA SILLETA (PALETA)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0311-00",
+    "quantity": 804,
+    "name": "COBERTOR PARA SILLETA (PALETA)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0311-00",
+    "quantity": 519,
+    "name": "COBERTOR PARA SILLETA (PALETA)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0311-00",
+    "quantity": 648,
+    "name": "COBERTOR PARA SILLETA (PALETA)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0311-00",
+    "quantity": 780,
+    "name": "COBERTOR PARA SILLETA (PALETA)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0322-01",
+    "quantity": 813,
+    "name": "PROTECTOR PLÁSTICO PARA EL OJO",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0322-01",
+    "quantity": 669,
+    "name": "PROTECTOR PLÁSTICO PARA EL OJO",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0322-01",
+    "quantity": 307,
+    "name": "PROTECTOR PLÁSTICO PARA EL OJO",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0322-01",
+    "quantity": 731,
+    "name": "PROTECTOR PLÁSTICO PARA EL OJO",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0322-01",
+    "quantity": 107,
+    "name": "PROTECTOR PLÁSTICO PARA EL OJO",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0322-01",
+    "quantity": 314,
+    "name": "PROTECTOR PLÁSTICO PARA EL OJO",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0322-01",
+    "quantity": 192,
+    "name": "PROTECTOR PLÁSTICO PARA EL OJO",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0323-01",
+    "quantity": 124,
+    "name": "LAPIZ DE CAUTERIO, DESECHABLE CON CONTROL MANUAL DUAL.",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0323-01",
+    "quantity": 117,
+    "name": "LAPIZ DE CAUTERIO, DESECHABLE CON CONTROL MANUAL DUAL.",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0323-01",
+    "quantity": 370,
+    "name": "LAPIZ DE CAUTERIO, DESECHABLE CON CONTROL MANUAL DUAL.",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0323-01",
+    "quantity": 313,
+    "name": "LAPIZ DE CAUTERIO, DESECHABLE CON CONTROL MANUAL DUAL.",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0323-01",
+    "quantity": 828,
+    "name": "LAPIZ DE CAUTERIO, DESECHABLE CON CONTROL MANUAL DUAL.",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0323-01",
+    "quantity": 573,
+    "name": "LAPIZ DE CAUTERIO, DESECHABLE CON CONTROL MANUAL DUAL.",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0323-01",
+    "quantity": 100,
+    "name": "LAPIZ DE CAUTERIO, DESECHABLE CON CONTROL MANUAL DUAL.",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0326-01",
+    "quantity": 674,
+    "name": "GEL PARA ELECTRODOS. SE SOLICITA TUBO DE 140 GRAMOS",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0326-01",
+    "quantity": 452,
+    "name": "GEL PARA ELECTRODOS. SE SOLICITA TUBO DE 140 GRAMOS",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0326-01",
+    "quantity": 421,
+    "name": "GEL PARA ELECTRODOS. SE SOLICITA TUBO DE 140 GRAMOS",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0326-01",
+    "quantity": 166,
+    "name": "GEL PARA ELECTRODOS. SE SOLICITA TUBO DE 140 GRAMOS",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0326-01",
+    "quantity": 649,
+    "name": "GEL PARA ELECTRODOS. SE SOLICITA TUBO DE 140 GRAMOS",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0326-01",
+    "quantity": 266,
+    "name": "GEL PARA ELECTRODOS. SE SOLICITA TUBO DE 140 GRAMOS",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0326-01",
+    "quantity": 412,
+    "name": "GEL PARA ELECTRODOS. SE SOLICITA TUBO DE 140 GRAMOS",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0327-00",
+    "quantity": 564,
+    "name": "PROTECTOR DE COLCHÓN, DESECHABLE, ABSORBENTE, DE ALGODON O DE POLIETILENO POR UN LADO, (SE SOLICITA TAMAÑO 58.4 cm x 91.4 cm  (23\"x36\")  )",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0327-00",
+    "quantity": 413,
+    "name": "PROTECTOR DE COLCHÓN, DESECHABLE, ABSORBENTE, DE ALGODON O DE POLIETILENO POR UN LADO, (SE SOLICITA TAMAÑO 58.4 cm x 91.4 cm  (23\"x36\")  )",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0327-00",
+    "quantity": 619,
+    "name": "PROTECTOR DE COLCHÓN, DESECHABLE, ABSORBENTE, DE ALGODON O DE POLIETILENO POR UN LADO, (SE SOLICITA TAMAÑO 58.4 cm x 91.4 cm  (23\"x36\")  )",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0327-00",
+    "quantity": 758,
+    "name": "PROTECTOR DE COLCHÓN, DESECHABLE, ABSORBENTE, DE ALGODON O DE POLIETILENO POR UN LADO, (SE SOLICITA TAMAÑO 58.4 cm x 91.4 cm  (23\"x36\")  )",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0327-00",
+    "quantity": 678,
+    "name": "PROTECTOR DE COLCHÓN, DESECHABLE, ABSORBENTE, DE ALGODON O DE POLIETILENO POR UN LADO, (SE SOLICITA TAMAÑO 58.4 cm x 91.4 cm  (23\"x36\")  )",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0327-00",
+    "quantity": 685,
+    "name": "PROTECTOR DE COLCHÓN, DESECHABLE, ABSORBENTE, DE ALGODON O DE POLIETILENO POR UN LADO, (SE SOLICITA TAMAÑO 58.4 cm x 91.4 cm  (23\"x36\")  )",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0327-00",
+    "quantity": 407,
+    "name": "PROTECTOR DE COLCHÓN, DESECHABLE, ABSORBENTE, DE ALGODON O DE POLIETILENO POR UN LADO, (SE SOLICITA TAMAÑO 58.4 cm x 91.4 cm  (23\"x36\")  )",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0331-01",
+    "quantity": 285,
+    "name": "VENDA AUTOADHERIBLE DE PLASTICO RECTANGULAR O LARGAS.        (CURITAS RECTANGULAR)",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0331-01",
+    "quantity": 566,
+    "name": "VENDA AUTOADHERIBLE DE PLASTICO RECTANGULAR O LARGAS.        (CURITAS RECTANGULAR)",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0331-01",
+    "quantity": 213,
+    "name": "VENDA AUTOADHERIBLE DE PLASTICO RECTANGULAR O LARGAS.        (CURITAS RECTANGULAR)",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0331-01",
+    "quantity": 381,
+    "name": "VENDA AUTOADHERIBLE DE PLASTICO RECTANGULAR O LARGAS.        (CURITAS RECTANGULAR)",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0331-01",
+    "quantity": 281,
+    "name": "VENDA AUTOADHERIBLE DE PLASTICO RECTANGULAR O LARGAS.        (CURITAS RECTANGULAR)",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0331-01",
+    "quantity": 596,
+    "name": "VENDA AUTOADHERIBLE DE PLASTICO RECTANGULAR O LARGAS.        (CURITAS RECTANGULAR)",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0331-01",
+    "quantity": 509,
+    "name": "VENDA AUTOADHERIBLE DE PLASTICO RECTANGULAR O LARGAS.        (CURITAS RECTANGULAR)",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0332-00",
+    "quantity": 149,
+    "name": "VENDA ADHESIVA DE PLÁSTICO REDONDA",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0332-00",
+    "quantity": 209,
+    "name": "VENDA ADHESIVA DE PLÁSTICO REDONDA",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0332-00",
+    "quantity": 437,
+    "name": "VENDA ADHESIVA DE PLÁSTICO REDONDA",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0332-00",
+    "quantity": 406,
+    "name": "VENDA ADHESIVA DE PLÁSTICO REDONDA",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0332-00",
+    "quantity": 448,
+    "name": "VENDA ADHESIVA DE PLÁSTICO REDONDA",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0332-00",
+    "quantity": 685,
+    "name": "VENDA ADHESIVA DE PLÁSTICO REDONDA",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0332-00",
+    "quantity": 488,
+    "name": "VENDA ADHESIVA DE PLÁSTICO REDONDA",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0332-01",
+    "quantity": 140,
+    "name": "GRAPA PARA LIGAR CORDON UMBILICAL",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0332-01",
+    "quantity": 241,
+    "name": "GRAPA PARA LIGAR CORDON UMBILICAL",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0332-01",
+    "quantity": 330,
+    "name": "GRAPA PARA LIGAR CORDON UMBILICAL",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0332-01",
+    "quantity": 151,
+    "name": "GRAPA PARA LIGAR CORDON UMBILICAL",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0332-01",
+    "quantity": 732,
+    "name": "GRAPA PARA LIGAR CORDON UMBILICAL",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0332-01",
+    "quantity": 630,
+    "name": "GRAPA PARA LIGAR CORDON UMBILICAL",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0332-01",
+    "quantity": 719,
+    "name": "GRAPA PARA LIGAR CORDON UMBILICAL",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0333-06",
+    "quantity": 655,
+    "name": "BATA DESECHABLE, PARA USO GENERAL NO ESTERIL .AAMI     NIVEL 3.  SE SOLICITA TAMAÑO MEDIANO",
+    "site": "HQUITO1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0333-06",
+    "quantity": 385,
+    "name": "BATA DESECHABLE, PARA USO GENERAL NO ESTERIL .AAMI     NIVEL 3.  SE SOLICITA TAMAÑO MEDIANO",
+    "site": "HQUITO2",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0333-06",
+    "quantity": 549,
+    "name": "BATA DESECHABLE, PARA USO GENERAL NO ESTERIL .AAMI     NIVEL 3.  SE SOLICITA TAMAÑO MEDIANO",
+    "site": "HLOJA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0333-06",
+    "quantity": 218,
+    "name": "BATA DESECHABLE, PARA USO GENERAL NO ESTERIL .AAMI     NIVEL 3.  SE SOLICITA TAMAÑO MEDIANO",
+    "site": "HCUENCA1",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0333-06",
+    "quantity": 778,
+    "name": "BATA DESECHABLE, PARA USO GENERAL NO ESTERIL .AAMI     NIVEL 3.  SE SOLICITA TAMAÑO MEDIANO",
+    "site": "HGUAYAQUILL",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0333-06",
+    "quantity": 414,
+    "name": "BATA DESECHABLE, PARA USO GENERAL NO ESTERIL .AAMI     NIVEL 3.  SE SOLICITA TAMAÑO MEDIANO",
+    "site": "HRIOBAMBA",
+    "type": "Supplies"
+  },
+  {
+    "period": "2022",
+    "code": "2-09-0333-06",
+    "quantity": 555,
+    "name": "BATA DESECHABLE, PARA USO GENERAL NO ESTERIL .AAMI     NIVEL 3.  SE SOLICITA TAMAÑO MEDIANO",
+    "site": "HAMBATO",
+    "type": "Supplies"
+  }
+]

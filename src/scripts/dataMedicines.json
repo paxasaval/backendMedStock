@@ -1,0 +1,68 @@
+[
+    {
+        "officialName": "Medicine 1",
+        "lot": 12345,
+        "dueDate": "2023-12-31",
+        "activeIngredient": "Ingredient A",
+        "name": "Medicine Stock 1",
+        "code": "MS1",
+        "supplier": "Supplier 1",
+        "quantity": 100,
+        "registrationDate": "2023-01-01"
+    },
+    {
+        "officialName": "Medicine 2",
+        "lot": 54321,
+        "dueDate": "2023-11-30",
+        "activeIngredient": "Ingredient B",
+        "name": "Medicine Stock 2",
+        "code": "MS2",
+        "supplier": "Supplier 2",
+        "quantity": 200,
+        "registrationDate": "2023-02-15"
+    },
+    {
+        "officialName": "Medicine A",
+        "lot": 11111,
+        "dueDate": "2024-01-15",
+        "activeIngredient": "Ingredient X",
+        "name": "Medicine Stock A",
+        "code": "MSA",
+        "supplier": "Supplier 4",
+        "quantity": 75,
+        "registrationDate": "2023-03-20"
+    },
+    {
+        "officialName": "Medicine B",
+        "lot": 22222,
+        "dueDate": "2024-05-30",
+        "activeIngredient": "Ingredient Y",
+        "name": "Medicine Stock B",
+        "code": "MSB",
+        "supplier": "Supplier 5",
+        "quantity": 120,
+        "registrationDate": "2023-04-12"
+    },
+    {
+        "officialName": "Medicine J",
+        "lot": 12121,
+        "dueDate": "2024-03-15",
+        "activeIngredient": "Ingredient X",
+        "name": "Medicine Stock J",
+        "code": "MSJ",
+        "supplier": "Supplier 13",
+        "quantity": 95,
+        "registrationDate": "2023-11-25"
+    },
+    {
+        "officialName": "Medicine 20",
+        "lot": 98765,
+        "dueDate": "2024-03-31",
+        "activeIngredient": "Ingredient C",
+        "name": "Medicine Stock 20",
+        "code": "MS20",
+        "supplier": "Supplier 3",
+        "quantity": 50,
+        "registrationDate": "2023-07-10"
+    }
+]

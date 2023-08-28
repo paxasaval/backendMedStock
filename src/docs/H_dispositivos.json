@@ -1,0 +1,5658 @@
+[
+  {
+    "period": "2022",
+    "code": "20127671",
+    "quantity": 480,
+    "name": "OPHTHALMIC LENS FINISHED AND SEMI-FINISHED LENSES AND READING GLASSESLENTES OFTÁLMICOS LENTES TERMINADOS Y SEMI-TERMINADOS Y GAFAS DE LECTURA",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20127671",
+    "quantity": 637,
+    "name": "OPHTHALMIC LENS FINISHED AND SEMI-FINISHED LENSES AND READING GLASSESLENTES OFTÁLMICOS LENTES TERMINADOS Y SEMI-TERMINADOS Y GAFAS DE LECTURA",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20127671",
+    "quantity": 497,
+    "name": "OPHTHALMIC LENS FINISHED AND SEMI-FINISHED LENSES AND READING GLASSESLENTES OFTÁLMICOS LENTES TERMINADOS Y SEMI-TERMINADOS Y GAFAS DE LECTURA",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20127671",
+    "quantity": 188,
+    "name": "OPHTHALMIC LENS FINISHED AND SEMI-FINISHED LENSES AND READING GLASSESLENTES OFTÁLMICOS LENTES TERMINADOS Y SEMI-TERMINADOS Y GAFAS DE LECTURA",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20127671",
+    "quantity": 147,
+    "name": "OPHTHALMIC LENS FINISHED AND SEMI-FINISHED LENSES AND READING GLASSESLENTES OFTÁLMICOS LENTES TERMINADOS Y SEMI-TERMINADOS Y GAFAS DE LECTURA",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20127671",
+    "quantity": 622,
+    "name": "OPHTHALMIC LENS FINISHED AND SEMI-FINISHED LENSES AND READING GLASSESLENTES OFTÁLMICOS LENTES TERMINADOS Y SEMI-TERMINADOS Y GAFAS DE LECTURA",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20127671",
+    "quantity": 251,
+    "name": "OPHTHALMIC LENS FINISHED AND SEMI-FINISHED LENSES AND READING GLASSESLENTES OFTÁLMICOS LENTES TERMINADOS Y SEMI-TERMINADOS Y GAFAS DE LECTURA",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 117,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 679,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 256,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 780,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 829,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 593,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 192,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20149966",
+    "quantity": 495,
+    "name": "STRATAMEDPELÍCULA PROTECTORA DE SILICONA PARA EL CUIDADO AVANZADO DE HERIDAS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20149966",
+    "quantity": 537,
+    "name": "STRATAMEDPELÍCULA PROTECTORA DE SILICONA PARA EL CUIDADO AVANZADO DE HERIDAS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20149966",
+    "quantity": 599,
+    "name": "STRATAMEDPELÍCULA PROTECTORA DE SILICONA PARA EL CUIDADO AVANZADO DE HERIDAS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20149966",
+    "quantity": 224,
+    "name": "STRATAMEDPELÍCULA PROTECTORA DE SILICONA PARA EL CUIDADO AVANZADO DE HERIDAS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20149966",
+    "quantity": 346,
+    "name": "STRATAMEDPELÍCULA PROTECTORA DE SILICONA PARA EL CUIDADO AVANZADO DE HERIDAS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20149966",
+    "quantity": 746,
+    "name": "STRATAMEDPELÍCULA PROTECTORA DE SILICONA PARA EL CUIDADO AVANZADO DE HERIDAS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20149966",
+    "quantity": 273,
+    "name": "STRATAMEDPELÍCULA PROTECTORA DE SILICONA PARA EL CUIDADO AVANZADO DE HERIDAS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20003690",
+    "quantity": 474,
+    "name": "CATÉTERES BALÓN DE RECUPERACIONBOSTON SCIENTIFIC",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20003690",
+    "quantity": 672,
+    "name": "CATÉTERES BALÓN DE RECUPERACIONBOSTON SCIENTIFIC",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20003690",
+    "quantity": 835,
+    "name": "CATÉTERES BALÓN DE RECUPERACIONBOSTON SCIENTIFIC",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20003690",
+    "quantity": 847,
+    "name": "CATÉTERES BALÓN DE RECUPERACIONBOSTON SCIENTIFIC",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20003690",
+    "quantity": 126,
+    "name": "CATÉTERES BALÓN DE RECUPERACIONBOSTON SCIENTIFIC",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20003690",
+    "quantity": 742,
+    "name": "CATÉTERES BALÓN DE RECUPERACIONBOSTON SCIENTIFIC",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20003690",
+    "quantity": 353,
+    "name": "CATÉTERES BALÓN DE RECUPERACIONBOSTON SCIENTIFIC",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20139765",
+    "quantity": 703,
+    "name": "ATELLICA IM RUBELLA IGM QUALITY CONTROL (RUB M QC)",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20139765",
+    "quantity": 796,
+    "name": "ATELLICA IM RUBELLA IGM QUALITY CONTROL (RUB M QC)",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20139765",
+    "quantity": 542,
+    "name": "ATELLICA IM RUBELLA IGM QUALITY CONTROL (RUB M QC)",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20139765",
+    "quantity": 841,
+    "name": "ATELLICA IM RUBELLA IGM QUALITY CONTROL (RUB M QC)",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20139765",
+    "quantity": 290,
+    "name": "ATELLICA IM RUBELLA IGM QUALITY CONTROL (RUB M QC)",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20139765",
+    "quantity": 278,
+    "name": "ATELLICA IM RUBELLA IGM QUALITY CONTROL (RUB M QC)",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20139765",
+    "quantity": 169,
+    "name": "ATELLICA IM RUBELLA IGM QUALITY CONTROL (RUB M QC)",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20259163",
+    "quantity": 400,
+    "name": "FRESAS PARA OSTEOTOMÍA Y ARTRODESIS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20259163",
+    "quantity": 470,
+    "name": "FRESAS PARA OSTEOTOMÍA Y ARTRODESIS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20259163",
+    "quantity": 292,
+    "name": "FRESAS PARA OSTEOTOMÍA Y ARTRODESIS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20259163",
+    "quantity": 199,
+    "name": "FRESAS PARA OSTEOTOMÍA Y ARTRODESIS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20259163",
+    "quantity": 107,
+    "name": "FRESAS PARA OSTEOTOMÍA Y ARTRODESIS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20259163",
+    "quantity": 627,
+    "name": "FRESAS PARA OSTEOTOMÍA Y ARTRODESIS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20259163",
+    "quantity": 686,
+    "name": "FRESAS PARA OSTEOTOMÍA Y ARTRODESIS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20169234",
+    "quantity": 790,
+    "name": "OPTICAL LENSLENTES PARA GAFAS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20169234",
+    "quantity": 520,
+    "name": "OPTICAL LENSLENTES PARA GAFAS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20169234",
+    "quantity": 460,
+    "name": "OPTICAL LENSLENTES PARA GAFAS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20169234",
+    "quantity": 784,
+    "name": "OPTICAL LENSLENTES PARA GAFAS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20169234",
+    "quantity": 585,
+    "name": "OPTICAL LENSLENTES PARA GAFAS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20169234",
+    "quantity": 810,
+    "name": "OPTICAL LENSLENTES PARA GAFAS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20169234",
+    "quantity": 344,
+    "name": "OPTICAL LENSLENTES PARA GAFAS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20059066",
+    "quantity": 634,
+    "name": "SISTEMA DE ESTIMULACION DE DIAFRAGMASISTEMA DE ESTIMULACION DE DIAFRAGMA PUNTO DE MOTOR INTRAMUSCULAR PERCUTANEO",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20059066",
+    "quantity": 278,
+    "name": "SISTEMA DE ESTIMULACION DE DIAFRAGMASISTEMA DE ESTIMULACION DE DIAFRAGMA PUNTO DE MOTOR INTRAMUSCULAR PERCUTANEO",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20059066",
+    "quantity": 788,
+    "name": "SISTEMA DE ESTIMULACION DE DIAFRAGMASISTEMA DE ESTIMULACION DE DIAFRAGMA PUNTO DE MOTOR INTRAMUSCULAR PERCUTANEO",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20059066",
+    "quantity": 369,
+    "name": "SISTEMA DE ESTIMULACION DE DIAFRAGMASISTEMA DE ESTIMULACION DE DIAFRAGMA PUNTO DE MOTOR INTRAMUSCULAR PERCUTANEO",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20059066",
+    "quantity": 642,
+    "name": "SISTEMA DE ESTIMULACION DE DIAFRAGMASISTEMA DE ESTIMULACION DE DIAFRAGMA PUNTO DE MOTOR INTRAMUSCULAR PERCUTANEO",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20059066",
+    "quantity": 254,
+    "name": "SISTEMA DE ESTIMULACION DE DIAFRAGMASISTEMA DE ESTIMULACION DE DIAFRAGMA PUNTO DE MOTOR INTRAMUSCULAR PERCUTANEO",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20059066",
+    "quantity": 579,
+    "name": "SISTEMA DE ESTIMULACION DE DIAFRAGMASISTEMA DE ESTIMULACION DE DIAFRAGMA PUNTO DE MOTOR INTRAMUSCULAR PERCUTANEO",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20020965",
+    "quantity": 152,
+    "name": "CEPILLO DE DIENTESCEPILLO DENTAL/TOOTHBRUSHDENTONE? ?DENTIWHITE? ?DENTAMAS? ?CHARGED? ?FORTIDENT? ?FORTIDENT CUATRIACCIÓN ?AD FORCE? ?ACTIWHITE?",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20020965",
+    "quantity": 415,
+    "name": "CEPILLO DE DIENTESCEPILLO DENTAL/TOOTHBRUSHDENTONE? ?DENTIWHITE? ?DENTAMAS? ?CHARGED? ?FORTIDENT? ?FORTIDENT CUATRIACCIÓN ?AD FORCE? ?ACTIWHITE?",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20020965",
+    "quantity": 625,
+    "name": "CEPILLO DE DIENTESCEPILLO DENTAL/TOOTHBRUSHDENTONE? ?DENTIWHITE? ?DENTAMAS? ?CHARGED? ?FORTIDENT? ?FORTIDENT CUATRIACCIÓN ?AD FORCE? ?ACTIWHITE?",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20020965",
+    "quantity": 599,
+    "name": "CEPILLO DE DIENTESCEPILLO DENTAL/TOOTHBRUSHDENTONE? ?DENTIWHITE? ?DENTAMAS? ?CHARGED? ?FORTIDENT? ?FORTIDENT CUATRIACCIÓN ?AD FORCE? ?ACTIWHITE?",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20020965",
+    "quantity": 772,
+    "name": "CEPILLO DE DIENTESCEPILLO DENTAL/TOOTHBRUSHDENTONE? ?DENTIWHITE? ?DENTAMAS? ?CHARGED? ?FORTIDENT? ?FORTIDENT CUATRIACCIÓN ?AD FORCE? ?ACTIWHITE?",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20020965",
+    "quantity": 793,
+    "name": "CEPILLO DE DIENTESCEPILLO DENTAL/TOOTHBRUSHDENTONE? ?DENTIWHITE? ?DENTAMAS? ?CHARGED? ?FORTIDENT? ?FORTIDENT CUATRIACCIÓN ?AD FORCE? ?ACTIWHITE?",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20020965",
+    "quantity": 240,
+    "name": "CEPILLO DE DIENTESCEPILLO DENTAL/TOOTHBRUSHDENTONE? ?DENTIWHITE? ?DENTAMAS? ?CHARGED? ?FORTIDENT? ?FORTIDENT CUATRIACCIÓN ?AD FORCE? ?ACTIWHITE?",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19985037",
+    "quantity": 158,
+    "name": "CEPILLO DENTAL MANUAL CON CLORHEXIDINA GUM",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19985037",
+    "quantity": 816,
+    "name": "CEPILLO DENTAL MANUAL CON CLORHEXIDINA GUM",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19985037",
+    "quantity": 720,
+    "name": "CEPILLO DENTAL MANUAL CON CLORHEXIDINA GUM",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19985037",
+    "quantity": 758,
+    "name": "CEPILLO DENTAL MANUAL CON CLORHEXIDINA GUM",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19985037",
+    "quantity": 839,
+    "name": "CEPILLO DENTAL MANUAL CON CLORHEXIDINA GUM",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19985037",
+    "quantity": 387,
+    "name": "CEPILLO DENTAL MANUAL CON CLORHEXIDINA GUM",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19985037",
+    "quantity": 330,
+    "name": "CEPILLO DENTAL MANUAL CON CLORHEXIDINA GUM",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20127671",
+    "quantity": 374,
+    "name": "OPHTHALMIC LENS FINISHED AND SEMI-FINISHED LENSES AND READING GLASSESLENTES OFTÁLMICOS LENTES TERMINADOS Y SEMI-TERMINADOS Y GAFAS DE LECTURA",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20127671",
+    "quantity": 837,
+    "name": "OPHTHALMIC LENS FINISHED AND SEMI-FINISHED LENSES AND READING GLASSESLENTES OFTÁLMICOS LENTES TERMINADOS Y SEMI-TERMINADOS Y GAFAS DE LECTURA",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20127671",
+    "quantity": 773,
+    "name": "OPHTHALMIC LENS FINISHED AND SEMI-FINISHED LENSES AND READING GLASSESLENTES OFTÁLMICOS LENTES TERMINADOS Y SEMI-TERMINADOS Y GAFAS DE LECTURA",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20127671",
+    "quantity": 813,
+    "name": "OPHTHALMIC LENS FINISHED AND SEMI-FINISHED LENSES AND READING GLASSESLENTES OFTÁLMICOS LENTES TERMINADOS Y SEMI-TERMINADOS Y GAFAS DE LECTURA",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20127671",
+    "quantity": 834,
+    "name": "OPHTHALMIC LENS FINISHED AND SEMI-FINISHED LENSES AND READING GLASSESLENTES OFTÁLMICOS LENTES TERMINADOS Y SEMI-TERMINADOS Y GAFAS DE LECTURA",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20127671",
+    "quantity": 516,
+    "name": "OPHTHALMIC LENS FINISHED AND SEMI-FINISHED LENSES AND READING GLASSESLENTES OFTÁLMICOS LENTES TERMINADOS Y SEMI-TERMINADOS Y GAFAS DE LECTURA",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20127671",
+    "quantity": 287,
+    "name": "OPHTHALMIC LENS FINISHED AND SEMI-FINISHED LENSES AND READING GLASSESLENTES OFTÁLMICOS LENTES TERMINADOS Y SEMI-TERMINADOS Y GAFAS DE LECTURA",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20224569",
+    "quantity": 298,
+    "name": "MODELHAÁCIDO HIALURÓNICO",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20224569",
+    "quantity": 213,
+    "name": "MODELHAÁCIDO HIALURÓNICO",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20224569",
+    "quantity": 395,
+    "name": "MODELHAÁCIDO HIALURÓNICO",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20224569",
+    "quantity": 370,
+    "name": "MODELHAÁCIDO HIALURÓNICO",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20224569",
+    "quantity": 193,
+    "name": "MODELHAÁCIDO HIALURÓNICO",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20224569",
+    "quantity": 826,
+    "name": "MODELHAÁCIDO HIALURÓNICO",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20224569",
+    "quantity": 180,
+    "name": "MODELHAÁCIDO HIALURÓNICO",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20124776",
+    "quantity": 729,
+    "name": "PURISTERIL 340",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20124776",
+    "quantity": 401,
+    "name": "PURISTERIL 340",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20124776",
+    "quantity": 421,
+    "name": "PURISTERIL 340",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20124776",
+    "quantity": 475,
+    "name": "PURISTERIL 340",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20124776",
+    "quantity": 175,
+    "name": "PURISTERIL 340",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20124776",
+    "quantity": 116,
+    "name": "PURISTERIL 340",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20124776",
+    "quantity": 559,
+    "name": "PURISTERIL 340",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20175979",
+    "quantity": 737,
+    "name": "SURGISPONESPONJA DE GELATINA ABSORBIBLE",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20175979",
+    "quantity": 627,
+    "name": "SURGISPONESPONJA DE GELATINA ABSORBIBLE",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20175979",
+    "quantity": 402,
+    "name": "SURGISPONESPONJA DE GELATINA ABSORBIBLE",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20175979",
+    "quantity": 238,
+    "name": "SURGISPONESPONJA DE GELATINA ABSORBIBLE",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20175979",
+    "quantity": 647,
+    "name": "SURGISPONESPONJA DE GELATINA ABSORBIBLE",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20175979",
+    "quantity": 546,
+    "name": "SURGISPONESPONJA DE GELATINA ABSORBIBLE",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20175979",
+    "quantity": 359,
+    "name": "SURGISPONESPONJA DE GELATINA ABSORBIBLE",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "1983243",
+    "quantity": 835,
+    "name": "APLICADORES DE ALGODÓN HIGIETEX",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "1983243",
+    "quantity": 593,
+    "name": "APLICADORES DE ALGODÓN HIGIETEX",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "1983243",
+    "quantity": 231,
+    "name": "APLICADORES DE ALGODÓN HIGIETEX",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "1983243",
+    "quantity": 344,
+    "name": "APLICADORES DE ALGODÓN HIGIETEX",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "1983243",
+    "quantity": 150,
+    "name": "APLICADORES DE ALGODÓN HIGIETEX",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "1983243",
+    "quantity": 733,
+    "name": "APLICADORES DE ALGODÓN HIGIETEX",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "1983243",
+    "quantity": 163,
+    "name": "APLICADORES DE ALGODÓN HIGIETEX",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20156424",
+    "quantity": 659,
+    "name": "FINISHED AND SEMI FINISHED OPHTHALMIC LENSES FOR GLASSES -NOMBRE GENERICO LENTE OFTALMICO PARA ANTEOJOS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20156424",
+    "quantity": 491,
+    "name": "FINISHED AND SEMI FINISHED OPHTHALMIC LENSES FOR GLASSES -NOMBRE GENERICO LENTE OFTALMICO PARA ANTEOJOS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20156424",
+    "quantity": 475,
+    "name": "FINISHED AND SEMI FINISHED OPHTHALMIC LENSES FOR GLASSES -NOMBRE GENERICO LENTE OFTALMICO PARA ANTEOJOS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20156424",
+    "quantity": 357,
+    "name": "FINISHED AND SEMI FINISHED OPHTHALMIC LENSES FOR GLASSES -NOMBRE GENERICO LENTE OFTALMICO PARA ANTEOJOS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20156424",
+    "quantity": 115,
+    "name": "FINISHED AND SEMI FINISHED OPHTHALMIC LENSES FOR GLASSES -NOMBRE GENERICO LENTE OFTALMICO PARA ANTEOJOS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20156424",
+    "quantity": 189,
+    "name": "FINISHED AND SEMI FINISHED OPHTHALMIC LENSES FOR GLASSES -NOMBRE GENERICO LENTE OFTALMICO PARA ANTEOJOS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20156424",
+    "quantity": 210,
+    "name": "FINISHED AND SEMI FINISHED OPHTHALMIC LENSES FOR GLASSES -NOMBRE GENERICO LENTE OFTALMICO PARA ANTEOJOS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19924852",
+    "quantity": 276,
+    "name": "TODAY CONDONES Y TODAY CONDONES LUBRICADOSTODAY ®",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19924852",
+    "quantity": 524,
+    "name": "TODAY CONDONES Y TODAY CONDONES LUBRICADOSTODAY ®",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19924852",
+    "quantity": 698,
+    "name": "TODAY CONDONES Y TODAY CONDONES LUBRICADOSTODAY ®",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19924852",
+    "quantity": 499,
+    "name": "TODAY CONDONES Y TODAY CONDONES LUBRICADOSTODAY ®",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19924852",
+    "quantity": 110,
+    "name": "TODAY CONDONES Y TODAY CONDONES LUBRICADOSTODAY ®",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19924852",
+    "quantity": 850,
+    "name": "TODAY CONDONES Y TODAY CONDONES LUBRICADOSTODAY ®",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19924852",
+    "quantity": 244,
+    "name": "TODAY CONDONES Y TODAY CONDONES LUBRICADOSTODAY ®",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20012451",
+    "quantity": 205,
+    "name": "PIEZA DE MANO ODONTOLOGICA A PRESION DE GASPIEZA DE MANO DE ALTA VELOCIDAD",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20012451",
+    "quantity": 439,
+    "name": "PIEZA DE MANO ODONTOLOGICA A PRESION DE GASPIEZA DE MANO DE ALTA VELOCIDAD",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20012451",
+    "quantity": 844,
+    "name": "PIEZA DE MANO ODONTOLOGICA A PRESION DE GASPIEZA DE MANO DE ALTA VELOCIDAD",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20012451",
+    "quantity": 288,
+    "name": "PIEZA DE MANO ODONTOLOGICA A PRESION DE GASPIEZA DE MANO DE ALTA VELOCIDAD",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20012451",
+    "quantity": 316,
+    "name": "PIEZA DE MANO ODONTOLOGICA A PRESION DE GASPIEZA DE MANO DE ALTA VELOCIDAD",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20012451",
+    "quantity": 194,
+    "name": "PIEZA DE MANO ODONTOLOGICA A PRESION DE GASPIEZA DE MANO DE ALTA VELOCIDAD",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20012451",
+    "quantity": 365,
+    "name": "PIEZA DE MANO ODONTOLOGICA A PRESION DE GASPIEZA DE MANO DE ALTA VELOCIDAD",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220889",
+    "quantity": 502,
+    "name": "TRUSIGHT ONCOLOGY 500 DNA KIT FOR USE WITH NEXTSEQ PLUS PIERIANDX INTERPRETATION REPORT (16 INDEXES 48 SAMPLES)",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220889",
+    "quantity": 157,
+    "name": "TRUSIGHT ONCOLOGY 500 DNA KIT FOR USE WITH NEXTSEQ PLUS PIERIANDX INTERPRETATION REPORT (16 INDEXES 48 SAMPLES)",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220889",
+    "quantity": 441,
+    "name": "TRUSIGHT ONCOLOGY 500 DNA KIT FOR USE WITH NEXTSEQ PLUS PIERIANDX INTERPRETATION REPORT (16 INDEXES 48 SAMPLES)",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220889",
+    "quantity": 292,
+    "name": "TRUSIGHT ONCOLOGY 500 DNA KIT FOR USE WITH NEXTSEQ PLUS PIERIANDX INTERPRETATION REPORT (16 INDEXES 48 SAMPLES)",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220889",
+    "quantity": 340,
+    "name": "TRUSIGHT ONCOLOGY 500 DNA KIT FOR USE WITH NEXTSEQ PLUS PIERIANDX INTERPRETATION REPORT (16 INDEXES 48 SAMPLES)",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220889",
+    "quantity": 229,
+    "name": "TRUSIGHT ONCOLOGY 500 DNA KIT FOR USE WITH NEXTSEQ PLUS PIERIANDX INTERPRETATION REPORT (16 INDEXES 48 SAMPLES)",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220889",
+    "quantity": 169,
+    "name": "TRUSIGHT ONCOLOGY 500 DNA KIT FOR USE WITH NEXTSEQ PLUS PIERIANDX INTERPRETATION REPORT (16 INDEXES 48 SAMPLES)",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19988385",
+    "quantity": 438,
+    "name": "OFTALMOSCOPIOS Y ACCESORIOS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19988385",
+    "quantity": 268,
+    "name": "OFTALMOSCOPIOS Y ACCESORIOS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19988385",
+    "quantity": 436,
+    "name": "OFTALMOSCOPIOS Y ACCESORIOS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19988385",
+    "quantity": 849,
+    "name": "OFTALMOSCOPIOS Y ACCESORIOS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19988385",
+    "quantity": 125,
+    "name": "OFTALMOSCOPIOS Y ACCESORIOS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19988385",
+    "quantity": 296,
+    "name": "OFTALMOSCOPIOS Y ACCESORIOS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19988385",
+    "quantity": 260,
+    "name": "OFTALMOSCOPIOS Y ACCESORIOS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20175979",
+    "quantity": 806,
+    "name": "SURGISPONESPONJA DE GELATINA ABSORBIBLE",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20175979",
+    "quantity": 579,
+    "name": "SURGISPONESPONJA DE GELATINA ABSORBIBLE",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20175979",
+    "quantity": 209,
+    "name": "SURGISPONESPONJA DE GELATINA ABSORBIBLE",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20175979",
+    "quantity": 647,
+    "name": "SURGISPONESPONJA DE GELATINA ABSORBIBLE",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20175979",
+    "quantity": 623,
+    "name": "SURGISPONESPONJA DE GELATINA ABSORBIBLE",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20175979",
+    "quantity": 538,
+    "name": "SURGISPONESPONJA DE GELATINA ABSORBIBLE",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20175979",
+    "quantity": 252,
+    "name": "SURGISPONESPONJA DE GELATINA ABSORBIBLE",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20256850",
+    "quantity": 645,
+    "name": "PINZAS PARA CIRUGÍA STRYKERPINZAS PARA CIRUGÍA Y SUS ACCESORIOS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20256850",
+    "quantity": 747,
+    "name": "PINZAS PARA CIRUGÍA STRYKERPINZAS PARA CIRUGÍA Y SUS ACCESORIOS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20256850",
+    "quantity": 659,
+    "name": "PINZAS PARA CIRUGÍA STRYKERPINZAS PARA CIRUGÍA Y SUS ACCESORIOS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20256850",
+    "quantity": 573,
+    "name": "PINZAS PARA CIRUGÍA STRYKERPINZAS PARA CIRUGÍA Y SUS ACCESORIOS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20256850",
+    "quantity": 242,
+    "name": "PINZAS PARA CIRUGÍA STRYKERPINZAS PARA CIRUGÍA Y SUS ACCESORIOS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20256850",
+    "quantity": 365,
+    "name": "PINZAS PARA CIRUGÍA STRYKERPINZAS PARA CIRUGÍA Y SUS ACCESORIOS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20256850",
+    "quantity": 349,
+    "name": "PINZAS PARA CIRUGÍA STRYKERPINZAS PARA CIRUGÍA Y SUS ACCESORIOS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20195380",
+    "quantity": 746,
+    "name": "LENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOSLENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOS PARA ANTEOJOS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20195380",
+    "quantity": 260,
+    "name": "LENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOSLENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOS PARA ANTEOJOS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20195380",
+    "quantity": 561,
+    "name": "LENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOSLENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOS PARA ANTEOJOS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20195380",
+    "quantity": 744,
+    "name": "LENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOSLENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOS PARA ANTEOJOS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20195380",
+    "quantity": 328,
+    "name": "LENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOSLENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOS PARA ANTEOJOS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20195380",
+    "quantity": 746,
+    "name": "LENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOSLENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOS PARA ANTEOJOS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20195380",
+    "quantity": 126,
+    "name": "LENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOSLENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOS PARA ANTEOJOS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20195380",
+    "quantity": 676,
+    "name": "LENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOSLENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOS PARA ANTEOJOS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20195380",
+    "quantity": 609,
+    "name": "LENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOSLENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOS PARA ANTEOJOS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20195380",
+    "quantity": 684,
+    "name": "LENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOSLENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOS PARA ANTEOJOS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20195380",
+    "quantity": 398,
+    "name": "LENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOSLENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOS PARA ANTEOJOS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20195380",
+    "quantity": 657,
+    "name": "LENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOSLENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOS PARA ANTEOJOS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20195380",
+    "quantity": 747,
+    "name": "LENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOSLENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOS PARA ANTEOJOS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20195380",
+    "quantity": 565,
+    "name": "LENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOSLENTES OFTALMICOS TERMINADOS Y SEMI TERMINADOS PARA ANTEOJOS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19918334",
+    "quantity": 692,
+    "name": "MULTI SOLUTION 1SOLUCIÓN ISOTÓNICA ESTÉRILMULTI SOLUTION 1SOLUCIÓN ISOTÓNICA ESTÉRIL",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19918334",
+    "quantity": 661,
+    "name": "MULTI SOLUTION 1SOLUCIÓN ISOTÓNICA ESTÉRILMULTI SOLUTION 1SOLUCIÓN ISOTÓNICA ESTÉRIL",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19918334",
+    "quantity": 383,
+    "name": "MULTI SOLUTION 1SOLUCIÓN ISOTÓNICA ESTÉRILMULTI SOLUTION 1SOLUCIÓN ISOTÓNICA ESTÉRIL",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19918334",
+    "quantity": 437,
+    "name": "MULTI SOLUTION 1SOLUCIÓN ISOTÓNICA ESTÉRILMULTI SOLUTION 1SOLUCIÓN ISOTÓNICA ESTÉRIL",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19918334",
+    "quantity": 670,
+    "name": "MULTI SOLUTION 1SOLUCIÓN ISOTÓNICA ESTÉRILMULTI SOLUTION 1SOLUCIÓN ISOTÓNICA ESTÉRIL",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19918334",
+    "quantity": 630,
+    "name": "MULTI SOLUTION 1SOLUCIÓN ISOTÓNICA ESTÉRILMULTI SOLUTION 1SOLUCIÓN ISOTÓNICA ESTÉRIL",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19918334",
+    "quantity": 800,
+    "name": "MULTI SOLUTION 1SOLUCIÓN ISOTÓNICA ESTÉRILMULTI SOLUTION 1SOLUCIÓN ISOTÓNICA ESTÉRIL",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20052131",
+    "quantity": 101,
+    "name": "GUÍAS VENOSAS/ GUIAS VENOSAS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20052131",
+    "quantity": 342,
+    "name": "GUÍAS VENOSAS/ GUIAS VENOSAS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20052131",
+    "quantity": 106,
+    "name": "GUÍAS VENOSAS/ GUIAS VENOSAS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20052131",
+    "quantity": 821,
+    "name": "GUÍAS VENOSAS/ GUIAS VENOSAS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20052131",
+    "quantity": 835,
+    "name": "GUÍAS VENOSAS/ GUIAS VENOSAS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20052131",
+    "quantity": 719,
+    "name": "GUÍAS VENOSAS/ GUIAS VENOSAS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20052131",
+    "quantity": 403,
+    "name": "GUÍAS VENOSAS/ GUIAS VENOSAS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20204050",
+    "quantity": 106,
+    "name": "STOOL PREPARATION SETSET DE PREPARACIÓN DE HECES",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20204050",
+    "quantity": 432,
+    "name": "STOOL PREPARATION SETSET DE PREPARACIÓN DE HECES",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20204050",
+    "quantity": 110,
+    "name": "STOOL PREPARATION SETSET DE PREPARACIÓN DE HECES",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20204050",
+    "quantity": 565,
+    "name": "STOOL PREPARATION SETSET DE PREPARACIÓN DE HECES",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20204050",
+    "quantity": 472,
+    "name": "STOOL PREPARATION SETSET DE PREPARACIÓN DE HECES",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20204050",
+    "quantity": 825,
+    "name": "STOOL PREPARATION SETSET DE PREPARACIÓN DE HECES",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20204050",
+    "quantity": 140,
+    "name": "STOOL PREPARATION SETSET DE PREPARACIÓN DE HECES",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19994812",
+    "quantity": 472,
+    "name": "STENTS PERIFERICOS DE NITINOL BOSTON SCIENTIFIC",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19994812",
+    "quantity": 522,
+    "name": "STENTS PERIFERICOS DE NITINOL BOSTON SCIENTIFIC",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19994812",
+    "quantity": 790,
+    "name": "STENTS PERIFERICOS DE NITINOL BOSTON SCIENTIFIC",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19994812",
+    "quantity": 597,
+    "name": "STENTS PERIFERICOS DE NITINOL BOSTON SCIENTIFIC",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19994812",
+    "quantity": 213,
+    "name": "STENTS PERIFERICOS DE NITINOL BOSTON SCIENTIFIC",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19994812",
+    "quantity": 794,
+    "name": "STENTS PERIFERICOS DE NITINOL BOSTON SCIENTIFIC",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19994812",
+    "quantity": 453,
+    "name": "STENTS PERIFERICOS DE NITINOL BOSTON SCIENTIFIC",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257109",
+    "quantity": 382,
+    "name": "10 EZ2 RNA FFPE KIT",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257109",
+    "quantity": 331,
+    "name": "10 EZ2 RNA FFPE KIT",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257109",
+    "quantity": 621,
+    "name": "10 EZ2 RNA FFPE KIT",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257109",
+    "quantity": 233,
+    "name": "10 EZ2 RNA FFPE KIT",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257109",
+    "quantity": 766,
+    "name": "10 EZ2 RNA FFPE KIT",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257109",
+    "quantity": 806,
+    "name": "10 EZ2 RNA FFPE KIT",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257109",
+    "quantity": 731,
+    "name": "10 EZ2 RNA FFPE KIT",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20229156",
+    "quantity": 836,
+    "name": "STELLEST AIRWEARLENTE OFTÁLMICO",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20229156",
+    "quantity": 243,
+    "name": "STELLEST AIRWEARLENTE OFTÁLMICO",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20229156",
+    "quantity": 145,
+    "name": "STELLEST AIRWEARLENTE OFTÁLMICO",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20229156",
+    "quantity": 621,
+    "name": "STELLEST AIRWEARLENTE OFTÁLMICO",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20229156",
+    "quantity": 327,
+    "name": "STELLEST AIRWEARLENTE OFTÁLMICO",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20229156",
+    "quantity": 486,
+    "name": "STELLEST AIRWEARLENTE OFTÁLMICO",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20229156",
+    "quantity": 122,
+    "name": "STELLEST AIRWEARLENTE OFTÁLMICO",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20062837",
+    "quantity": 604,
+    "name": "ENTEROVIRUS SCREENING SET",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20062837",
+    "quantity": 155,
+    "name": "ENTEROVIRUS SCREENING SET",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20062837",
+    "quantity": 710,
+    "name": "ENTEROVIRUS SCREENING SET",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20062837",
+    "quantity": 386,
+    "name": "ENTEROVIRUS SCREENING SET",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20062837",
+    "quantity": 748,
+    "name": "ENTEROVIRUS SCREENING SET",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20062837",
+    "quantity": 729,
+    "name": "ENTEROVIRUS SCREENING SET",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20062837",
+    "quantity": 426,
+    "name": "ENTEROVIRUS SCREENING SET",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20003624",
+    "quantity": 270,
+    "name": "GRASPER LAPAROSCÓPICO DESECHABLEEPIX® APPLIED",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20003624",
+    "quantity": 410,
+    "name": "GRASPER LAPAROSCÓPICO DESECHABLEEPIX® APPLIED",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20003624",
+    "quantity": 395,
+    "name": "GRASPER LAPAROSCÓPICO DESECHABLEEPIX® APPLIED",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20003624",
+    "quantity": 402,
+    "name": "GRASPER LAPAROSCÓPICO DESECHABLEEPIX® APPLIED",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20003624",
+    "quantity": 312,
+    "name": "GRASPER LAPAROSCÓPICO DESECHABLEEPIX® APPLIED",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20003624",
+    "quantity": 241,
+    "name": "GRASPER LAPAROSCÓPICO DESECHABLEEPIX® APPLIED",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20003624",
+    "quantity": 489,
+    "name": "GRASPER LAPAROSCÓPICO DESECHABLEEPIX® APPLIED",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20080503",
+    "quantity": 839,
+    "name": "CEPILLO DE DIENTESCEPILLO DE DIENTES MANUALCEPILLO DE DIENTES MANUAL COLDENT ARO CAFAM CAJASAN CARULLA CARREFOUR COLSUBSIDIO COMFANDI COORATIENDAS WHOLE FRESH ÉXITO FAMILIAR FARMACITY MAXPLUS OLIMPICA PRODENT SENSIKIT SUPERINTER TRIPLE L ALIDEM CENTRALES BEST DENTICARE PRORAL SURTIMAX ALKOSTO DENTOLINE REBUKAL MERCALDAS MERCADO ZAPATOCA FEDCO LIFE MARLON BECERRA TROOP X BUCARINE FARMATODO EKONO UNIDOS YEP DENOMINACIONES INTERNAS BABY PINGÜINO JIRAFA CHUPAS NIÑOS KIDS TUTTY GUSSY DINO TINY ANIMALES DE LA SELVA JUNIOR PREMIUM JOVEN JOVEN SAN OVALADO DIAMANTE CLASSIC CURVO LONCHERA DOBLE ACCIÓN TERLUX MD-05 MASSAGE DR COOL MULTIACCIÓN COOL TRIPLE ACCIÓN PLUS TW MULTINIVEL EXACT SPECIAL ICE PROFFESSIONAL EVOLUTION ANATÓMICO TECK FLEXOR DUAL DOBLE FUNCIÓN DOUBLE DIMENSION TWIN-ACTION SELVA ELEFANTE DRAGÓN RATÓN DOBLE EXTREMO MORSA GUSANITO SPORTY TRICOMPONENTE TW BICOMPONENTE TIN KIDS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20080503",
+    "quantity": 314,
+    "name": "CEPILLO DE DIENTESCEPILLO DE DIENTES MANUALCEPILLO DE DIENTES MANUAL COLDENT ARO CAFAM CAJASAN CARULLA CARREFOUR COLSUBSIDIO COMFANDI COORATIENDAS WHOLE FRESH ÉXITO FAMILIAR FARMACITY MAXPLUS OLIMPICA PRODENT SENSIKIT SUPERINTER TRIPLE L ALIDEM CENTRALES BEST DENTICARE PRORAL SURTIMAX ALKOSTO DENTOLINE REBUKAL MERCALDAS MERCADO ZAPATOCA FEDCO LIFE MARLON BECERRA TROOP X BUCARINE FARMATODO EKONO UNIDOS YEP DENOMINACIONES INTERNAS BABY PINGÜINO JIRAFA CHUPAS NIÑOS KIDS TUTTY GUSSY DINO TINY ANIMALES DE LA SELVA JUNIOR PREMIUM JOVEN JOVEN SAN OVALADO DIAMANTE CLASSIC CURVO LONCHERA DOBLE ACCIÓN TERLUX MD-05 MASSAGE DR COOL MULTIACCIÓN COOL TRIPLE ACCIÓN PLUS TW MULTINIVEL EXACT SPECIAL ICE PROFFESSIONAL EVOLUTION ANATÓMICO TECK FLEXOR DUAL DOBLE FUNCIÓN DOUBLE DIMENSION TWIN-ACTION SELVA ELEFANTE DRAGÓN RATÓN DOBLE EXTREMO MORSA GUSANITO SPORTY TRICOMPONENTE TW BICOMPONENTE TIN KIDS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20080503",
+    "quantity": 726,
+    "name": "CEPILLO DE DIENTESCEPILLO DE DIENTES MANUALCEPILLO DE DIENTES MANUAL COLDENT ARO CAFAM CAJASAN CARULLA CARREFOUR COLSUBSIDIO COMFANDI COORATIENDAS WHOLE FRESH ÉXITO FAMILIAR FARMACITY MAXPLUS OLIMPICA PRODENT SENSIKIT SUPERINTER TRIPLE L ALIDEM CENTRALES BEST DENTICARE PRORAL SURTIMAX ALKOSTO DENTOLINE REBUKAL MERCALDAS MERCADO ZAPATOCA FEDCO LIFE MARLON BECERRA TROOP X BUCARINE FARMATODO EKONO UNIDOS YEP DENOMINACIONES INTERNAS BABY PINGÜINO JIRAFA CHUPAS NIÑOS KIDS TUTTY GUSSY DINO TINY ANIMALES DE LA SELVA JUNIOR PREMIUM JOVEN JOVEN SAN OVALADO DIAMANTE CLASSIC CURVO LONCHERA DOBLE ACCIÓN TERLUX MD-05 MASSAGE DR COOL MULTIACCIÓN COOL TRIPLE ACCIÓN PLUS TW MULTINIVEL EXACT SPECIAL ICE PROFFESSIONAL EVOLUTION ANATÓMICO TECK FLEXOR DUAL DOBLE FUNCIÓN DOUBLE DIMENSION TWIN-ACTION SELVA ELEFANTE DRAGÓN RATÓN DOBLE EXTREMO MORSA GUSANITO SPORTY TRICOMPONENTE TW BICOMPONENTE TIN KIDS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20080503",
+    "quantity": 635,
+    "name": "CEPILLO DE DIENTESCEPILLO DE DIENTES MANUALCEPILLO DE DIENTES MANUAL COLDENT ARO CAFAM CAJASAN CARULLA CARREFOUR COLSUBSIDIO COMFANDI COORATIENDAS WHOLE FRESH ÉXITO FAMILIAR FARMACITY MAXPLUS OLIMPICA PRODENT SENSIKIT SUPERINTER TRIPLE L ALIDEM CENTRALES BEST DENTICARE PRORAL SURTIMAX ALKOSTO DENTOLINE REBUKAL MERCALDAS MERCADO ZAPATOCA FEDCO LIFE MARLON BECERRA TROOP X BUCARINE FARMATODO EKONO UNIDOS YEP DENOMINACIONES INTERNAS BABY PINGÜINO JIRAFA CHUPAS NIÑOS KIDS TUTTY GUSSY DINO TINY ANIMALES DE LA SELVA JUNIOR PREMIUM JOVEN JOVEN SAN OVALADO DIAMANTE CLASSIC CURVO LONCHERA DOBLE ACCIÓN TERLUX MD-05 MASSAGE DR COOL MULTIACCIÓN COOL TRIPLE ACCIÓN PLUS TW MULTINIVEL EXACT SPECIAL ICE PROFFESSIONAL EVOLUTION ANATÓMICO TECK FLEXOR DUAL DOBLE FUNCIÓN DOUBLE DIMENSION TWIN-ACTION SELVA ELEFANTE DRAGÓN RATÓN DOBLE EXTREMO MORSA GUSANITO SPORTY TRICOMPONENTE TW BICOMPONENTE TIN KIDS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20080503",
+    "quantity": 443,
+    "name": "CEPILLO DE DIENTESCEPILLO DE DIENTES MANUALCEPILLO DE DIENTES MANUAL COLDENT ARO CAFAM CAJASAN CARULLA CARREFOUR COLSUBSIDIO COMFANDI COORATIENDAS WHOLE FRESH ÉXITO FAMILIAR FARMACITY MAXPLUS OLIMPICA PRODENT SENSIKIT SUPERINTER TRIPLE L ALIDEM CENTRALES BEST DENTICARE PRORAL SURTIMAX ALKOSTO DENTOLINE REBUKAL MERCALDAS MERCADO ZAPATOCA FEDCO LIFE MARLON BECERRA TROOP X BUCARINE FARMATODO EKONO UNIDOS YEP DENOMINACIONES INTERNAS BABY PINGÜINO JIRAFA CHUPAS NIÑOS KIDS TUTTY GUSSY DINO TINY ANIMALES DE LA SELVA JUNIOR PREMIUM JOVEN JOVEN SAN OVALADO DIAMANTE CLASSIC CURVO LONCHERA DOBLE ACCIÓN TERLUX MD-05 MASSAGE DR COOL MULTIACCIÓN COOL TRIPLE ACCIÓN PLUS TW MULTINIVEL EXACT SPECIAL ICE PROFFESSIONAL EVOLUTION ANATÓMICO TECK FLEXOR DUAL DOBLE FUNCIÓN DOUBLE DIMENSION TWIN-ACTION SELVA ELEFANTE DRAGÓN RATÓN DOBLE EXTREMO MORSA GUSANITO SPORTY TRICOMPONENTE TW BICOMPONENTE TIN KIDS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20080503",
+    "quantity": 494,
+    "name": "CEPILLO DE DIENTESCEPILLO DE DIENTES MANUALCEPILLO DE DIENTES MANUAL COLDENT ARO CAFAM CAJASAN CARULLA CARREFOUR COLSUBSIDIO COMFANDI COORATIENDAS WHOLE FRESH ÉXITO FAMILIAR FARMACITY MAXPLUS OLIMPICA PRODENT SENSIKIT SUPERINTER TRIPLE L ALIDEM CENTRALES BEST DENTICARE PRORAL SURTIMAX ALKOSTO DENTOLINE REBUKAL MERCALDAS MERCADO ZAPATOCA FEDCO LIFE MARLON BECERRA TROOP X BUCARINE FARMATODO EKONO UNIDOS YEP DENOMINACIONES INTERNAS BABY PINGÜINO JIRAFA CHUPAS NIÑOS KIDS TUTTY GUSSY DINO TINY ANIMALES DE LA SELVA JUNIOR PREMIUM JOVEN JOVEN SAN OVALADO DIAMANTE CLASSIC CURVO LONCHERA DOBLE ACCIÓN TERLUX MD-05 MASSAGE DR COOL MULTIACCIÓN COOL TRIPLE ACCIÓN PLUS TW MULTINIVEL EXACT SPECIAL ICE PROFFESSIONAL EVOLUTION ANATÓMICO TECK FLEXOR DUAL DOBLE FUNCIÓN DOUBLE DIMENSION TWIN-ACTION SELVA ELEFANTE DRAGÓN RATÓN DOBLE EXTREMO MORSA GUSANITO SPORTY TRICOMPONENTE TW BICOMPONENTE TIN KIDS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20080503",
+    "quantity": 241,
+    "name": "CEPILLO DE DIENTESCEPILLO DE DIENTES MANUALCEPILLO DE DIENTES MANUAL COLDENT ARO CAFAM CAJASAN CARULLA CARREFOUR COLSUBSIDIO COMFANDI COORATIENDAS WHOLE FRESH ÉXITO FAMILIAR FARMACITY MAXPLUS OLIMPICA PRODENT SENSIKIT SUPERINTER TRIPLE L ALIDEM CENTRALES BEST DENTICARE PRORAL SURTIMAX ALKOSTO DENTOLINE REBUKAL MERCALDAS MERCADO ZAPATOCA FEDCO LIFE MARLON BECERRA TROOP X BUCARINE FARMATODO EKONO UNIDOS YEP DENOMINACIONES INTERNAS BABY PINGÜINO JIRAFA CHUPAS NIÑOS KIDS TUTTY GUSSY DINO TINY ANIMALES DE LA SELVA JUNIOR PREMIUM JOVEN JOVEN SAN OVALADO DIAMANTE CLASSIC CURVO LONCHERA DOBLE ACCIÓN TERLUX MD-05 MASSAGE DR COOL MULTIACCIÓN COOL TRIPLE ACCIÓN PLUS TW MULTINIVEL EXACT SPECIAL ICE PROFFESSIONAL EVOLUTION ANATÓMICO TECK FLEXOR DUAL DOBLE FUNCIÓN DOUBLE DIMENSION TWIN-ACTION SELVA ELEFANTE DRAGÓN RATÓN DOBLE EXTREMO MORSA GUSANITO SPORTY TRICOMPONENTE TW BICOMPONENTE TIN KIDS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 792,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 813,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 586,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 340,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 242,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 655,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 633,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20065060",
+    "quantity": 694,
+    "name": "NT PROBNP-2 PARA VIDAS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20065060",
+    "quantity": 626,
+    "name": "NT PROBNP-2 PARA VIDAS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20065060",
+    "quantity": 482,
+    "name": "NT PROBNP-2 PARA VIDAS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20065060",
+    "quantity": 694,
+    "name": "NT PROBNP-2 PARA VIDAS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20065060",
+    "quantity": 806,
+    "name": "NT PROBNP-2 PARA VIDAS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20065060",
+    "quantity": 170,
+    "name": "NT PROBNP-2 PARA VIDAS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20065060",
+    "quantity": 507,
+    "name": "NT PROBNP-2 PARA VIDAS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20062707",
+    "quantity": 463,
+    "name": "ELASTOMERICOSELASTOMERICOS ( LASTIES SANATIES MODULOS SEPARADORES CUÑAS DE ROTACION CADENETAS LIGADURAS ELASTICAS PROTECTOR DE TEJIDO HILO ELASTICO PROTECTOR DE ALAMBRE PROTECTOR DELIGADURAS)ROYAL BRAND",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20062707",
+    "quantity": 212,
+    "name": "ELASTOMERICOSELASTOMERICOS ( LASTIES SANATIES MODULOS SEPARADORES CUÑAS DE ROTACION CADENETAS LIGADURAS ELASTICAS PROTECTOR DE TEJIDO HILO ELASTICO PROTECTOR DE ALAMBRE PROTECTOR DELIGADURAS)ROYAL BRAND",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20062707",
+    "quantity": 348,
+    "name": "ELASTOMERICOSELASTOMERICOS ( LASTIES SANATIES MODULOS SEPARADORES CUÑAS DE ROTACION CADENETAS LIGADURAS ELASTICAS PROTECTOR DE TEJIDO HILO ELASTICO PROTECTOR DE ALAMBRE PROTECTOR DELIGADURAS)ROYAL BRAND",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20062707",
+    "quantity": 251,
+    "name": "ELASTOMERICOSELASTOMERICOS ( LASTIES SANATIES MODULOS SEPARADORES CUÑAS DE ROTACION CADENETAS LIGADURAS ELASTICAS PROTECTOR DE TEJIDO HILO ELASTICO PROTECTOR DE ALAMBRE PROTECTOR DELIGADURAS)ROYAL BRAND",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20062707",
+    "quantity": 107,
+    "name": "ELASTOMERICOSELASTOMERICOS ( LASTIES SANATIES MODULOS SEPARADORES CUÑAS DE ROTACION CADENETAS LIGADURAS ELASTICAS PROTECTOR DE TEJIDO HILO ELASTICO PROTECTOR DE ALAMBRE PROTECTOR DELIGADURAS)ROYAL BRAND",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20062707",
+    "quantity": 370,
+    "name": "ELASTOMERICOSELASTOMERICOS ( LASTIES SANATIES MODULOS SEPARADORES CUÑAS DE ROTACION CADENETAS LIGADURAS ELASTICAS PROTECTOR DE TEJIDO HILO ELASTICO PROTECTOR DE ALAMBRE PROTECTOR DELIGADURAS)ROYAL BRAND",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20062707",
+    "quantity": 776,
+    "name": "ELASTOMERICOSELASTOMERICOS ( LASTIES SANATIES MODULOS SEPARADORES CUÑAS DE ROTACION CADENETAS LIGADURAS ELASTICAS PROTECTOR DE TEJIDO HILO ELASTICO PROTECTOR DE ALAMBRE PROTECTOR DELIGADURAS)ROYAL BRAND",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19951239",
+    "quantity": 464,
+    "name": "ESPONJA DE GASAS ESTERILE Y NO ESTERILEGASA ESTERIL NO TEJIDA GASA ESTERIL TEJIDA GASA NO ESTERIL (NO TEJIDA GASA NO ESTERIL TEJIDA)ALFA SAFE HIGIETEX ONE LIFE RECURAT SIN MARCA",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19951239",
+    "quantity": 150,
+    "name": "ESPONJA DE GASAS ESTERILE Y NO ESTERILEGASA ESTERIL NO TEJIDA GASA ESTERIL TEJIDA GASA NO ESTERIL (NO TEJIDA GASA NO ESTERIL TEJIDA)ALFA SAFE HIGIETEX ONE LIFE RECURAT SIN MARCA",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19951239",
+    "quantity": 661,
+    "name": "ESPONJA DE GASAS ESTERILE Y NO ESTERILEGASA ESTERIL NO TEJIDA GASA ESTERIL TEJIDA GASA NO ESTERIL (NO TEJIDA GASA NO ESTERIL TEJIDA)ALFA SAFE HIGIETEX ONE LIFE RECURAT SIN MARCA",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19951239",
+    "quantity": 357,
+    "name": "ESPONJA DE GASAS ESTERILE Y NO ESTERILEGASA ESTERIL NO TEJIDA GASA ESTERIL TEJIDA GASA NO ESTERIL (NO TEJIDA GASA NO ESTERIL TEJIDA)ALFA SAFE HIGIETEX ONE LIFE RECURAT SIN MARCA",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19951239",
+    "quantity": 198,
+    "name": "ESPONJA DE GASAS ESTERILE Y NO ESTERILEGASA ESTERIL NO TEJIDA GASA ESTERIL TEJIDA GASA NO ESTERIL (NO TEJIDA GASA NO ESTERIL TEJIDA)ALFA SAFE HIGIETEX ONE LIFE RECURAT SIN MARCA",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19951239",
+    "quantity": 448,
+    "name": "ESPONJA DE GASAS ESTERILE Y NO ESTERILEGASA ESTERIL NO TEJIDA GASA ESTERIL TEJIDA GASA NO ESTERIL (NO TEJIDA GASA NO ESTERIL TEJIDA)ALFA SAFE HIGIETEX ONE LIFE RECURAT SIN MARCA",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19951239",
+    "quantity": 368,
+    "name": "ESPONJA DE GASAS ESTERILE Y NO ESTERILEGASA ESTERIL NO TEJIDA GASA ESTERIL TEJIDA GASA NO ESTERIL (NO TEJIDA GASA NO ESTERIL TEJIDA)ALFA SAFE HIGIETEX ONE LIFE RECURAT SIN MARCA",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258989",
+    "quantity": 128,
+    "name": "SECTIONAL MATRIX SYSTEM KIT/ KIT DE SISTEMA DE MATRIZ SECCIONAL HALO/ SISTEMA DE MATRIZ HALO PARA LIMITAR Y DAR FORMA AL MATERIAL DE RESTAURACION DENTRO DE LAS RESTAURACIONES INTERPROXIMALES POSTERIORES",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258989",
+    "quantity": 427,
+    "name": "SECTIONAL MATRIX SYSTEM KIT/ KIT DE SISTEMA DE MATRIZ SECCIONAL HALO/ SISTEMA DE MATRIZ HALO PARA LIMITAR Y DAR FORMA AL MATERIAL DE RESTAURACION DENTRO DE LAS RESTAURACIONES INTERPROXIMALES POSTERIORES",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258989",
+    "quantity": 393,
+    "name": "SECTIONAL MATRIX SYSTEM KIT/ KIT DE SISTEMA DE MATRIZ SECCIONAL HALO/ SISTEMA DE MATRIZ HALO PARA LIMITAR Y DAR FORMA AL MATERIAL DE RESTAURACION DENTRO DE LAS RESTAURACIONES INTERPROXIMALES POSTERIORES",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258989",
+    "quantity": 236,
+    "name": "SECTIONAL MATRIX SYSTEM KIT/ KIT DE SISTEMA DE MATRIZ SECCIONAL HALO/ SISTEMA DE MATRIZ HALO PARA LIMITAR Y DAR FORMA AL MATERIAL DE RESTAURACION DENTRO DE LAS RESTAURACIONES INTERPROXIMALES POSTERIORES",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258989",
+    "quantity": 792,
+    "name": "SECTIONAL MATRIX SYSTEM KIT/ KIT DE SISTEMA DE MATRIZ SECCIONAL HALO/ SISTEMA DE MATRIZ HALO PARA LIMITAR Y DAR FORMA AL MATERIAL DE RESTAURACION DENTRO DE LAS RESTAURACIONES INTERPROXIMALES POSTERIORES",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258989",
+    "quantity": 492,
+    "name": "SECTIONAL MATRIX SYSTEM KIT/ KIT DE SISTEMA DE MATRIZ SECCIONAL HALO/ SISTEMA DE MATRIZ HALO PARA LIMITAR Y DAR FORMA AL MATERIAL DE RESTAURACION DENTRO DE LAS RESTAURACIONES INTERPROXIMALES POSTERIORES",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258989",
+    "quantity": 845,
+    "name": "SECTIONAL MATRIX SYSTEM KIT/ KIT DE SISTEMA DE MATRIZ SECCIONAL HALO/ SISTEMA DE MATRIZ HALO PARA LIMITAR Y DAR FORMA AL MATERIAL DE RESTAURACION DENTRO DE LAS RESTAURACIONES INTERPROXIMALES POSTERIORES",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20256298",
+    "quantity": 551,
+    "name": "1 FSH RAPID TEST MIDSTREAMPRUEBA RÁPIDA DE FSH (HORMONA FOLICULOESTIMULANTE) MIDSTREAM",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20256298",
+    "quantity": 212,
+    "name": "1 FSH RAPID TEST MIDSTREAMPRUEBA RÁPIDA DE FSH (HORMONA FOLICULOESTIMULANTE) MIDSTREAM",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20256298",
+    "quantity": 592,
+    "name": "1 FSH RAPID TEST MIDSTREAMPRUEBA RÁPIDA DE FSH (HORMONA FOLICULOESTIMULANTE) MIDSTREAM",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20256298",
+    "quantity": 205,
+    "name": "1 FSH RAPID TEST MIDSTREAMPRUEBA RÁPIDA DE FSH (HORMONA FOLICULOESTIMULANTE) MIDSTREAM",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20256298",
+    "quantity": 140,
+    "name": "1 FSH RAPID TEST MIDSTREAMPRUEBA RÁPIDA DE FSH (HORMONA FOLICULOESTIMULANTE) MIDSTREAM",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20256298",
+    "quantity": 281,
+    "name": "1 FSH RAPID TEST MIDSTREAMPRUEBA RÁPIDA DE FSH (HORMONA FOLICULOESTIMULANTE) MIDSTREAM",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20256298",
+    "quantity": 301,
+    "name": "1 FSH RAPID TEST MIDSTREAMPRUEBA RÁPIDA DE FSH (HORMONA FOLICULOESTIMULANTE) MIDSTREAM",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20011371",
+    "quantity": 839,
+    "name": "SISTEMA DE BLANQUEAMIENTO WHITENESS HP BLUE 35%-FGM",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20011371",
+    "quantity": 423,
+    "name": "SISTEMA DE BLANQUEAMIENTO WHITENESS HP BLUE 35%-FGM",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20011371",
+    "quantity": 147,
+    "name": "SISTEMA DE BLANQUEAMIENTO WHITENESS HP BLUE 35%-FGM",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20011371",
+    "quantity": 453,
+    "name": "SISTEMA DE BLANQUEAMIENTO WHITENESS HP BLUE 35%-FGM",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20011371",
+    "quantity": 452,
+    "name": "SISTEMA DE BLANQUEAMIENTO WHITENESS HP BLUE 35%-FGM",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20011371",
+    "quantity": 636,
+    "name": "SISTEMA DE BLANQUEAMIENTO WHITENESS HP BLUE 35%-FGM",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20011371",
+    "quantity": 847,
+    "name": "SISTEMA DE BLANQUEAMIENTO WHITENESS HP BLUE 35%-FGM",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 537,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 114,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 799,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 686,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 274,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 684,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 480,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20036014",
+    "quantity": 408,
+    "name": "LLAVE DE PASO DE TRES VIAS Y TUBO DE EXTENSIONULTRAMED OTAI",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20036014",
+    "quantity": 698,
+    "name": "LLAVE DE PASO DE TRES VIAS Y TUBO DE EXTENSIONULTRAMED OTAI",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20036014",
+    "quantity": 826,
+    "name": "LLAVE DE PASO DE TRES VIAS Y TUBO DE EXTENSIONULTRAMED OTAI",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20036014",
+    "quantity": 337,
+    "name": "LLAVE DE PASO DE TRES VIAS Y TUBO DE EXTENSIONULTRAMED OTAI",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20036014",
+    "quantity": 490,
+    "name": "LLAVE DE PASO DE TRES VIAS Y TUBO DE EXTENSIONULTRAMED OTAI",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20036014",
+    "quantity": 153,
+    "name": "LLAVE DE PASO DE TRES VIAS Y TUBO DE EXTENSIONULTRAMED OTAI",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20036014",
+    "quantity": 472,
+    "name": "LLAVE DE PASO DE TRES VIAS Y TUBO DE EXTENSIONULTRAMED OTAI",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "1983243",
+    "quantity": 477,
+    "name": "APLICADORES DE ALGODÓN HIGIETEX",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "1983243",
+    "quantity": 647,
+    "name": "APLICADORES DE ALGODÓN HIGIETEX",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "1983243",
+    "quantity": 534,
+    "name": "APLICADORES DE ALGODÓN HIGIETEX",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "1983243",
+    "quantity": 642,
+    "name": "APLICADORES DE ALGODÓN HIGIETEX",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "1983243",
+    "quantity": 725,
+    "name": "APLICADORES DE ALGODÓN HIGIETEX",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "1983243",
+    "quantity": 189,
+    "name": "APLICADORES DE ALGODÓN HIGIETEX",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "1983243",
+    "quantity": 199,
+    "name": "APLICADORES DE ALGODÓN HIGIETEX",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19988387",
+    "quantity": 257,
+    "name": "TENSIOMETROS ANEROIDES RIESTER MINIMUS II MINIMUS III PRECISA N BABYPHON RI-SAN  RI-MED RI-MEGA EXACTA BIG BEN SANAPHON R1 SHOCKPROOF",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19988387",
+    "quantity": 781,
+    "name": "TENSIOMETROS ANEROIDES RIESTER MINIMUS II MINIMUS III PRECISA N BABYPHON RI-SAN  RI-MED RI-MEGA EXACTA BIG BEN SANAPHON R1 SHOCKPROOF",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19988387",
+    "quantity": 790,
+    "name": "TENSIOMETROS ANEROIDES RIESTER MINIMUS II MINIMUS III PRECISA N BABYPHON RI-SAN  RI-MED RI-MEGA EXACTA BIG BEN SANAPHON R1 SHOCKPROOF",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19988387",
+    "quantity": 734,
+    "name": "TENSIOMETROS ANEROIDES RIESTER MINIMUS II MINIMUS III PRECISA N BABYPHON RI-SAN  RI-MED RI-MEGA EXACTA BIG BEN SANAPHON R1 SHOCKPROOF",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19988387",
+    "quantity": 167,
+    "name": "TENSIOMETROS ANEROIDES RIESTER MINIMUS II MINIMUS III PRECISA N BABYPHON RI-SAN  RI-MED RI-MEGA EXACTA BIG BEN SANAPHON R1 SHOCKPROOF",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19988387",
+    "quantity": 152,
+    "name": "TENSIOMETROS ANEROIDES RIESTER MINIMUS II MINIMUS III PRECISA N BABYPHON RI-SAN  RI-MED RI-MEGA EXACTA BIG BEN SANAPHON R1 SHOCKPROOF",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19988387",
+    "quantity": 783,
+    "name": "TENSIOMETROS ANEROIDES RIESTER MINIMUS II MINIMUS III PRECISA N BABYPHON RI-SAN  RI-MED RI-MEGA EXACTA BIG BEN SANAPHON R1 SHOCKPROOF",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20145339",
+    "quantity": 177,
+    "name": "CURITAS® TELA ADHESIVA IMPERMEABLECINTA ADHESIVA",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20145339",
+    "quantity": 188,
+    "name": "CURITAS® TELA ADHESIVA IMPERMEABLECINTA ADHESIVA",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20145339",
+    "quantity": 488,
+    "name": "CURITAS® TELA ADHESIVA IMPERMEABLECINTA ADHESIVA",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20145339",
+    "quantity": 470,
+    "name": "CURITAS® TELA ADHESIVA IMPERMEABLECINTA ADHESIVA",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20145339",
+    "quantity": 637,
+    "name": "CURITAS® TELA ADHESIVA IMPERMEABLECINTA ADHESIVA",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20145339",
+    "quantity": 820,
+    "name": "CURITAS® TELA ADHESIVA IMPERMEABLECINTA ADHESIVA",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20145339",
+    "quantity": 417,
+    "name": "CURITAS® TELA ADHESIVA IMPERMEABLECINTA ADHESIVA",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20008693",
+    "quantity": 575,
+    "name": "CEMENTO TEMPORAL TEMPOLOK NE-STERNGOLD",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20008693",
+    "quantity": 162,
+    "name": "CEMENTO TEMPORAL TEMPOLOK NE-STERNGOLD",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20008693",
+    "quantity": 202,
+    "name": "CEMENTO TEMPORAL TEMPOLOK NE-STERNGOLD",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20008693",
+    "quantity": 787,
+    "name": "CEMENTO TEMPORAL TEMPOLOK NE-STERNGOLD",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20008693",
+    "quantity": 600,
+    "name": "CEMENTO TEMPORAL TEMPOLOK NE-STERNGOLD",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20008693",
+    "quantity": 133,
+    "name": "CEMENTO TEMPORAL TEMPOLOK NE-STERNGOLD",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20008693",
+    "quantity": 789,
+    "name": "CEMENTO TEMPORAL TEMPOLOK NE-STERNGOLD",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258569",
+    "quantity": 682,
+    "name": "GAMA PARA ANESTESIA LOCORREGIONAL",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258569",
+    "quantity": 146,
+    "name": "GAMA PARA ANESTESIA LOCORREGIONAL",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258569",
+    "quantity": 624,
+    "name": "GAMA PARA ANESTESIA LOCORREGIONAL",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258569",
+    "quantity": 546,
+    "name": "GAMA PARA ANESTESIA LOCORREGIONAL",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258569",
+    "quantity": 402,
+    "name": "GAMA PARA ANESTESIA LOCORREGIONAL",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258569",
+    "quantity": 571,
+    "name": "GAMA PARA ANESTESIA LOCORREGIONAL",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258569",
+    "quantity": 642,
+    "name": "GAMA PARA ANESTESIA LOCORREGIONAL",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20150458",
+    "quantity": 204,
+    "name": "HOJAS DE SIERRA PARA ENDOPROTESIS DE UN SOLO USO",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20150458",
+    "quantity": 298,
+    "name": "HOJAS DE SIERRA PARA ENDOPROTESIS DE UN SOLO USO",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20150458",
+    "quantity": 614,
+    "name": "HOJAS DE SIERRA PARA ENDOPROTESIS DE UN SOLO USO",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20150458",
+    "quantity": 809,
+    "name": "HOJAS DE SIERRA PARA ENDOPROTESIS DE UN SOLO USO",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20150458",
+    "quantity": 488,
+    "name": "HOJAS DE SIERRA PARA ENDOPROTESIS DE UN SOLO USO",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20150458",
+    "quantity": 572,
+    "name": "HOJAS DE SIERRA PARA ENDOPROTESIS DE UN SOLO USO",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20150458",
+    "quantity": 344,
+    "name": "HOJAS DE SIERRA PARA ENDOPROTESIS DE UN SOLO USO",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20120761",
+    "quantity": 491,
+    "name": "VON WILLEBRAND REAGENT",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20120761",
+    "quantity": 545,
+    "name": "VON WILLEBRAND REAGENT",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20120761",
+    "quantity": 149,
+    "name": "VON WILLEBRAND REAGENT",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20120761",
+    "quantity": 389,
+    "name": "VON WILLEBRAND REAGENT",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20120761",
+    "quantity": 472,
+    "name": "VON WILLEBRAND REAGENT",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20120761",
+    "quantity": 162,
+    "name": "VON WILLEBRAND REAGENT",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20120761",
+    "quantity": 448,
+    "name": "VON WILLEBRAND REAGENT",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20200910",
+    "quantity": 201,
+    "name": "CANCER ANTIGEN 15-3 DETECTION KITCA 15-3 (DIRUI)",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20200910",
+    "quantity": 127,
+    "name": "CANCER ANTIGEN 15-3 DETECTION KITCA 15-3 (DIRUI)",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20200910",
+    "quantity": 846,
+    "name": "CANCER ANTIGEN 15-3 DETECTION KITCA 15-3 (DIRUI)",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20200910",
+    "quantity": 706,
+    "name": "CANCER ANTIGEN 15-3 DETECTION KITCA 15-3 (DIRUI)",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20200910",
+    "quantity": 347,
+    "name": "CANCER ANTIGEN 15-3 DETECTION KITCA 15-3 (DIRUI)",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20200910",
+    "quantity": 107,
+    "name": "CANCER ANTIGEN 15-3 DETECTION KITCA 15-3 (DIRUI)",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20200910",
+    "quantity": 593,
+    "name": "CANCER ANTIGEN 15-3 DETECTION KITCA 15-3 (DIRUI)",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20233646",
+    "quantity": 509,
+    "name": "GERMIRIODESINFECTANTE DE DISPOSITIVOS Y EQUIPOS MEDICOS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20233646",
+    "quantity": 272,
+    "name": "GERMIRIODESINFECTANTE DE DISPOSITIVOS Y EQUIPOS MEDICOS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20233646",
+    "quantity": 314,
+    "name": "GERMIRIODESINFECTANTE DE DISPOSITIVOS Y EQUIPOS MEDICOS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20233646",
+    "quantity": 125,
+    "name": "GERMIRIODESINFECTANTE DE DISPOSITIVOS Y EQUIPOS MEDICOS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20233646",
+    "quantity": 679,
+    "name": "GERMIRIODESINFECTANTE DE DISPOSITIVOS Y EQUIPOS MEDICOS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20233646",
+    "quantity": 209,
+    "name": "GERMIRIODESINFECTANTE DE DISPOSITIVOS Y EQUIPOS MEDICOS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20233646",
+    "quantity": 609,
+    "name": "GERMIRIODESINFECTANTE DE DISPOSITIVOS Y EQUIPOS MEDICOS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20173803",
+    "quantity": 347,
+    "name": "MOLECULAR PROBES™ APO-BRDU™ TUNEL ASSAY KIT WITH ALEXA FLUOR™ 488 ANTI-BRDU",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20173803",
+    "quantity": 399,
+    "name": "MOLECULAR PROBES™ APO-BRDU™ TUNEL ASSAY KIT WITH ALEXA FLUOR™ 488 ANTI-BRDU",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20173803",
+    "quantity": 586,
+    "name": "MOLECULAR PROBES™ APO-BRDU™ TUNEL ASSAY KIT WITH ALEXA FLUOR™ 488 ANTI-BRDU",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20173803",
+    "quantity": 697,
+    "name": "MOLECULAR PROBES™ APO-BRDU™ TUNEL ASSAY KIT WITH ALEXA FLUOR™ 488 ANTI-BRDU",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20173803",
+    "quantity": 424,
+    "name": "MOLECULAR PROBES™ APO-BRDU™ TUNEL ASSAY KIT WITH ALEXA FLUOR™ 488 ANTI-BRDU",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20173803",
+    "quantity": 450,
+    "name": "MOLECULAR PROBES™ APO-BRDU™ TUNEL ASSAY KIT WITH ALEXA FLUOR™ 488 ANTI-BRDU",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20173803",
+    "quantity": 642,
+    "name": "MOLECULAR PROBES™ APO-BRDU™ TUNEL ASSAY KIT WITH ALEXA FLUOR™ 488 ANTI-BRDU",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260044",
+    "quantity": 791,
+    "name": "DISPOSITIVO DE ELECTROFISIOLOGÍA AUDITIVA Y OTOEMISIONES ACÚSTICAS (ABR/OAE)DISPOSITIVO DE ELECTROFISIOLOGÍA AUDITIVA Y OTOEMISIONES ACÚSTICAS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260044",
+    "quantity": 598,
+    "name": "DISPOSITIVO DE ELECTROFISIOLOGÍA AUDITIVA Y OTOEMISIONES ACÚSTICAS (ABR/OAE)DISPOSITIVO DE ELECTROFISIOLOGÍA AUDITIVA Y OTOEMISIONES ACÚSTICAS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260044",
+    "quantity": 144,
+    "name": "DISPOSITIVO DE ELECTROFISIOLOGÍA AUDITIVA Y OTOEMISIONES ACÚSTICAS (ABR/OAE)DISPOSITIVO DE ELECTROFISIOLOGÍA AUDITIVA Y OTOEMISIONES ACÚSTICAS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260044",
+    "quantity": 248,
+    "name": "DISPOSITIVO DE ELECTROFISIOLOGÍA AUDITIVA Y OTOEMISIONES ACÚSTICAS (ABR/OAE)DISPOSITIVO DE ELECTROFISIOLOGÍA AUDITIVA Y OTOEMISIONES ACÚSTICAS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260044",
+    "quantity": 356,
+    "name": "DISPOSITIVO DE ELECTROFISIOLOGÍA AUDITIVA Y OTOEMISIONES ACÚSTICAS (ABR/OAE)DISPOSITIVO DE ELECTROFISIOLOGÍA AUDITIVA Y OTOEMISIONES ACÚSTICAS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260044",
+    "quantity": 777,
+    "name": "DISPOSITIVO DE ELECTROFISIOLOGÍA AUDITIVA Y OTOEMISIONES ACÚSTICAS (ABR/OAE)DISPOSITIVO DE ELECTROFISIOLOGÍA AUDITIVA Y OTOEMISIONES ACÚSTICAS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260044",
+    "quantity": 493,
+    "name": "DISPOSITIVO DE ELECTROFISIOLOGÍA AUDITIVA Y OTOEMISIONES ACÚSTICAS (ABR/OAE)DISPOSITIVO DE ELECTROFISIOLOGÍA AUDITIVA Y OTOEMISIONES ACÚSTICAS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 171,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 422,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 748,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 362,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 550,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 343,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 696,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "46250",
+    "quantity": 119,
+    "name": "ALGODÓN ABSORBENTEALGODÓN",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "46250",
+    "quantity": 785,
+    "name": "ALGODÓN ABSORBENTEALGODÓN",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "46250",
+    "quantity": 689,
+    "name": "ALGODÓN ABSORBENTEALGODÓN",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "46250",
+    "quantity": 205,
+    "name": "ALGODÓN ABSORBENTEALGODÓN",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "46250",
+    "quantity": 243,
+    "name": "ALGODÓN ABSORBENTEALGODÓN",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "46250",
+    "quantity": 714,
+    "name": "ALGODÓN ABSORBENTEALGODÓN",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "46250",
+    "quantity": 395,
+    "name": "ALGODÓN ABSORBENTEALGODÓN",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20143481",
+    "quantity": 464,
+    "name": "WORKING ELEMENT ACTIVE FOR TURISWORKING ELEMENT PASSIVE FOR TURISELEMENTO DE TRABAJO ACTIVO PARA TURISELEMENTO DE TRABAJO ACTIVO PARA TURISELEMENTO DE TRABAJO PASIVO PARA TURIS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20143481",
+    "quantity": 124,
+    "name": "WORKING ELEMENT ACTIVE FOR TURISWORKING ELEMENT PASSIVE FOR TURISELEMENTO DE TRABAJO ACTIVO PARA TURISELEMENTO DE TRABAJO ACTIVO PARA TURISELEMENTO DE TRABAJO PASIVO PARA TURIS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20143481",
+    "quantity": 399,
+    "name": "WORKING ELEMENT ACTIVE FOR TURISWORKING ELEMENT PASSIVE FOR TURISELEMENTO DE TRABAJO ACTIVO PARA TURISELEMENTO DE TRABAJO ACTIVO PARA TURISELEMENTO DE TRABAJO PASIVO PARA TURIS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20143481",
+    "quantity": 424,
+    "name": "WORKING ELEMENT ACTIVE FOR TURISWORKING ELEMENT PASSIVE FOR TURISELEMENTO DE TRABAJO ACTIVO PARA TURISELEMENTO DE TRABAJO ACTIVO PARA TURISELEMENTO DE TRABAJO PASIVO PARA TURIS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20143481",
+    "quantity": 107,
+    "name": "WORKING ELEMENT ACTIVE FOR TURISWORKING ELEMENT PASSIVE FOR TURISELEMENTO DE TRABAJO ACTIVO PARA TURISELEMENTO DE TRABAJO ACTIVO PARA TURISELEMENTO DE TRABAJO PASIVO PARA TURIS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20143481",
+    "quantity": 743,
+    "name": "WORKING ELEMENT ACTIVE FOR TURISWORKING ELEMENT PASSIVE FOR TURISELEMENTO DE TRABAJO ACTIVO PARA TURISELEMENTO DE TRABAJO ACTIVO PARA TURISELEMENTO DE TRABAJO PASIVO PARA TURIS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20143481",
+    "quantity": 802,
+    "name": "WORKING ELEMENT ACTIVE FOR TURISWORKING ELEMENT PASSIVE FOR TURISELEMENTO DE TRABAJO ACTIVO PARA TURISELEMENTO DE TRABAJO ACTIVO PARA TURISELEMENTO DE TRABAJO PASIVO PARA TURIS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20261348",
+    "quantity": 327,
+    "name": "IGFBP-1 RAPID TEST CASSETTECASETE DE PRUEBA RÁPIDA IGFBP1 MARCA KSH KEYSYNERGYHEALTH",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20261348",
+    "quantity": 292,
+    "name": "IGFBP-1 RAPID TEST CASSETTECASETE DE PRUEBA RÁPIDA IGFBP1 MARCA KSH KEYSYNERGYHEALTH",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20261348",
+    "quantity": 225,
+    "name": "IGFBP-1 RAPID TEST CASSETTECASETE DE PRUEBA RÁPIDA IGFBP1 MARCA KSH KEYSYNERGYHEALTH",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20261348",
+    "quantity": 774,
+    "name": "IGFBP-1 RAPID TEST CASSETTECASETE DE PRUEBA RÁPIDA IGFBP1 MARCA KSH KEYSYNERGYHEALTH",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20261348",
+    "quantity": 271,
+    "name": "IGFBP-1 RAPID TEST CASSETTECASETE DE PRUEBA RÁPIDA IGFBP1 MARCA KSH KEYSYNERGYHEALTH",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20261348",
+    "quantity": 514,
+    "name": "IGFBP-1 RAPID TEST CASSETTECASETE DE PRUEBA RÁPIDA IGFBP1 MARCA KSH KEYSYNERGYHEALTH",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20261348",
+    "quantity": 641,
+    "name": "IGFBP-1 RAPID TEST CASSETTECASETE DE PRUEBA RÁPIDA IGFBP1 MARCA KSH KEYSYNERGYHEALTH",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20158471",
+    "quantity": 589,
+    "name": "SISTEMA PARA GASTROSTOMIA PERCUTANEA ENDOSCOPICA (PEG) PARTES ACCESORIOS Y REPUESTOS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20158471",
+    "quantity": 652,
+    "name": "SISTEMA PARA GASTROSTOMIA PERCUTANEA ENDOSCOPICA (PEG) PARTES ACCESORIOS Y REPUESTOS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20158471",
+    "quantity": 384,
+    "name": "SISTEMA PARA GASTROSTOMIA PERCUTANEA ENDOSCOPICA (PEG) PARTES ACCESORIOS Y REPUESTOS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20158471",
+    "quantity": 695,
+    "name": "SISTEMA PARA GASTROSTOMIA PERCUTANEA ENDOSCOPICA (PEG) PARTES ACCESORIOS Y REPUESTOS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20158471",
+    "quantity": 120,
+    "name": "SISTEMA PARA GASTROSTOMIA PERCUTANEA ENDOSCOPICA (PEG) PARTES ACCESORIOS Y REPUESTOS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20158471",
+    "quantity": 258,
+    "name": "SISTEMA PARA GASTROSTOMIA PERCUTANEA ENDOSCOPICA (PEG) PARTES ACCESORIOS Y REPUESTOS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20158471",
+    "quantity": 839,
+    "name": "SISTEMA PARA GASTROSTOMIA PERCUTANEA ENDOSCOPICA (PEG) PARTES ACCESORIOS Y REPUESTOS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20099012",
+    "quantity": 177,
+    "name": "JBP V LIFTHILOS IMPLANTABLES ABSORBIBLES PARA ELEVAR TEJIDOS DÉRMICOS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20099012",
+    "quantity": 516,
+    "name": "JBP V LIFTHILOS IMPLANTABLES ABSORBIBLES PARA ELEVAR TEJIDOS DÉRMICOS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20099012",
+    "quantity": 167,
+    "name": "JBP V LIFTHILOS IMPLANTABLES ABSORBIBLES PARA ELEVAR TEJIDOS DÉRMICOS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20099012",
+    "quantity": 348,
+    "name": "JBP V LIFTHILOS IMPLANTABLES ABSORBIBLES PARA ELEVAR TEJIDOS DÉRMICOS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20099012",
+    "quantity": 152,
+    "name": "JBP V LIFTHILOS IMPLANTABLES ABSORBIBLES PARA ELEVAR TEJIDOS DÉRMICOS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20099012",
+    "quantity": 346,
+    "name": "JBP V LIFTHILOS IMPLANTABLES ABSORBIBLES PARA ELEVAR TEJIDOS DÉRMICOS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20099012",
+    "quantity": 295,
+    "name": "JBP V LIFTHILOS IMPLANTABLES ABSORBIBLES PARA ELEVAR TEJIDOS DÉRMICOS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260927",
+    "quantity": 433,
+    "name": "BOMBAS ELASTOMÉRICAS ESTÉRILES",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260927",
+    "quantity": 419,
+    "name": "BOMBAS ELASTOMÉRICAS ESTÉRILES",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260927",
+    "quantity": 566,
+    "name": "BOMBAS ELASTOMÉRICAS ESTÉRILES",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260927",
+    "quantity": 434,
+    "name": "BOMBAS ELASTOMÉRICAS ESTÉRILES",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260927",
+    "quantity": 346,
+    "name": "BOMBAS ELASTOMÉRICAS ESTÉRILES",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260927",
+    "quantity": 179,
+    "name": "BOMBAS ELASTOMÉRICAS ESTÉRILES",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260927",
+    "quantity": 345,
+    "name": "BOMBAS ELASTOMÉRICAS ESTÉRILES",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 845,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 357,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 608,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 257,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 117,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 591,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 506,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20140205",
+    "quantity": 460,
+    "name": "BONDINGADHESIVOS DENTALES",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20140205",
+    "quantity": 612,
+    "name": "BONDINGADHESIVOS DENTALES",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20140205",
+    "quantity": 774,
+    "name": "BONDINGADHESIVOS DENTALES",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20140205",
+    "quantity": 148,
+    "name": "BONDINGADHESIVOS DENTALES",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20140205",
+    "quantity": 259,
+    "name": "BONDINGADHESIVOS DENTALES",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20140205",
+    "quantity": 116,
+    "name": "BONDINGADHESIVOS DENTALES",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20140205",
+    "quantity": 748,
+    "name": "BONDINGADHESIVOS DENTALES",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134192",
+    "quantity": 655,
+    "name": "CUTIMED® SILTEC®APOSITO ABSORBENTE",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134192",
+    "quantity": 651,
+    "name": "CUTIMED® SILTEC®APOSITO ABSORBENTE",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134192",
+    "quantity": 556,
+    "name": "CUTIMED® SILTEC®APOSITO ABSORBENTE",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134192",
+    "quantity": 490,
+    "name": "CUTIMED® SILTEC®APOSITO ABSORBENTE",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134192",
+    "quantity": 752,
+    "name": "CUTIMED® SILTEC®APOSITO ABSORBENTE",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134192",
+    "quantity": 736,
+    "name": "CUTIMED® SILTEC®APOSITO ABSORBENTE",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134192",
+    "quantity": 386,
+    "name": "CUTIMED® SILTEC®APOSITO ABSORBENTE",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20259275",
+    "quantity": 521,
+    "name": "OPALUSTREPASTA PARA MICROABRASIÓN DE ESMALTE",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20259275",
+    "quantity": 253,
+    "name": "OPALUSTREPASTA PARA MICROABRASIÓN DE ESMALTE",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20259275",
+    "quantity": 245,
+    "name": "OPALUSTREPASTA PARA MICROABRASIÓN DE ESMALTE",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20259275",
+    "quantity": 168,
+    "name": "OPALUSTREPASTA PARA MICROABRASIÓN DE ESMALTE",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20259275",
+    "quantity": 617,
+    "name": "OPALUSTREPASTA PARA MICROABRASIÓN DE ESMALTE",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20259275",
+    "quantity": 323,
+    "name": "OPALUSTREPASTA PARA MICROABRASIÓN DE ESMALTE",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20259275",
+    "quantity": 198,
+    "name": "OPALUSTREPASTA PARA MICROABRASIÓN DE ESMALTE",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257520",
+    "quantity": 446,
+    "name": "2 DEEPCHEK® ASSAY NS5A GENOTYPING AND DRUG RESISTANCE V12",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257520",
+    "quantity": 329,
+    "name": "2 DEEPCHEK® ASSAY NS5A GENOTYPING AND DRUG RESISTANCE V12",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257520",
+    "quantity": 384,
+    "name": "2 DEEPCHEK® ASSAY NS5A GENOTYPING AND DRUG RESISTANCE V12",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257520",
+    "quantity": 280,
+    "name": "2 DEEPCHEK® ASSAY NS5A GENOTYPING AND DRUG RESISTANCE V12",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257520",
+    "quantity": 120,
+    "name": "2 DEEPCHEK® ASSAY NS5A GENOTYPING AND DRUG RESISTANCE V12",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257520",
+    "quantity": 339,
+    "name": "2 DEEPCHEK® ASSAY NS5A GENOTYPING AND DRUG RESISTANCE V12",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257520",
+    "quantity": 690,
+    "name": "2 DEEPCHEK® ASSAY NS5A GENOTYPING AND DRUG RESISTANCE V12",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20170348",
+    "quantity": 772,
+    "name": "FINISHED LENSES FOR GLASSES-LENTE OFTALMICO TERMINADO PARA GAFAS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20170348",
+    "quantity": 745,
+    "name": "FINISHED LENSES FOR GLASSES-LENTE OFTALMICO TERMINADO PARA GAFAS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20170348",
+    "quantity": 401,
+    "name": "FINISHED LENSES FOR GLASSES-LENTE OFTALMICO TERMINADO PARA GAFAS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20170348",
+    "quantity": 696,
+    "name": "FINISHED LENSES FOR GLASSES-LENTE OFTALMICO TERMINADO PARA GAFAS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20170348",
+    "quantity": 173,
+    "name": "FINISHED LENSES FOR GLASSES-LENTE OFTALMICO TERMINADO PARA GAFAS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20170348",
+    "quantity": 824,
+    "name": "FINISHED LENSES FOR GLASSES-LENTE OFTALMICO TERMINADO PARA GAFAS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20170348",
+    "quantity": 124,
+    "name": "FINISHED LENSES FOR GLASSES-LENTE OFTALMICO TERMINADO PARA GAFAS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136372",
+    "quantity": 317,
+    "name": "ÓRTESIS DE LINEA RIGIDA MIEMBROS SUPERIORES E INFERIORES",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136372",
+    "quantity": 460,
+    "name": "ÓRTESIS DE LINEA RIGIDA MIEMBROS SUPERIORES E INFERIORES",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136372",
+    "quantity": 681,
+    "name": "ÓRTESIS DE LINEA RIGIDA MIEMBROS SUPERIORES E INFERIORES",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136372",
+    "quantity": 325,
+    "name": "ÓRTESIS DE LINEA RIGIDA MIEMBROS SUPERIORES E INFERIORES",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136372",
+    "quantity": 538,
+    "name": "ÓRTESIS DE LINEA RIGIDA MIEMBROS SUPERIORES E INFERIORES",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136372",
+    "quantity": 630,
+    "name": "ÓRTESIS DE LINEA RIGIDA MIEMBROS SUPERIORES E INFERIORES",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136372",
+    "quantity": 158,
+    "name": "ÓRTESIS DE LINEA RIGIDA MIEMBROS SUPERIORES E INFERIORES",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258790",
+    "quantity": 443,
+    "name": "TOOTH BRUSHESCEPILLOS DE DIENTES",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258790",
+    "quantity": 425,
+    "name": "TOOTH BRUSHESCEPILLOS DE DIENTES",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258790",
+    "quantity": 446,
+    "name": "TOOTH BRUSHESCEPILLOS DE DIENTES",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258790",
+    "quantity": 607,
+    "name": "TOOTH BRUSHESCEPILLOS DE DIENTES",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258790",
+    "quantity": 210,
+    "name": "TOOTH BRUSHESCEPILLOS DE DIENTES",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258790",
+    "quantity": 383,
+    "name": "TOOTH BRUSHESCEPILLOS DE DIENTES",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20258790",
+    "quantity": 326,
+    "name": "TOOTH BRUSHESCEPILLOS DE DIENTES",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 225,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 535,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 703,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 256,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 644,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 613,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 163,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 699,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 716,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 138,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 125,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 177,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 226,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 378,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20033547",
+    "quantity": 417,
+    "name": "RESINIC AND GLASS SPECTACLES CORRECTIVES LENSES SEMIFINISHED LENSES FINISHED LENSES AND IN READING GLASSESLENTES CORRECTORES DE RESINA Y VIDRIO PARA GAFAS LENTES TERMINADOS Y SEMITERMINADOS Y EN GAFAS DE LECTURAOFIR SIN MARCA",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20033547",
+    "quantity": 229,
+    "name": "RESINIC AND GLASS SPECTACLES CORRECTIVES LENSES SEMIFINISHED LENSES FINISHED LENSES AND IN READING GLASSESLENTES CORRECTORES DE RESINA Y VIDRIO PARA GAFAS LENTES TERMINADOS Y SEMITERMINADOS Y EN GAFAS DE LECTURAOFIR SIN MARCA",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20033547",
+    "quantity": 430,
+    "name": "RESINIC AND GLASS SPECTACLES CORRECTIVES LENSES SEMIFINISHED LENSES FINISHED LENSES AND IN READING GLASSESLENTES CORRECTORES DE RESINA Y VIDRIO PARA GAFAS LENTES TERMINADOS Y SEMITERMINADOS Y EN GAFAS DE LECTURAOFIR SIN MARCA",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20033547",
+    "quantity": 158,
+    "name": "RESINIC AND GLASS SPECTACLES CORRECTIVES LENSES SEMIFINISHED LENSES FINISHED LENSES AND IN READING GLASSESLENTES CORRECTORES DE RESINA Y VIDRIO PARA GAFAS LENTES TERMINADOS Y SEMITERMINADOS Y EN GAFAS DE LECTURAOFIR SIN MARCA",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20033547",
+    "quantity": 156,
+    "name": "RESINIC AND GLASS SPECTACLES CORRECTIVES LENSES SEMIFINISHED LENSES FINISHED LENSES AND IN READING GLASSESLENTES CORRECTORES DE RESINA Y VIDRIO PARA GAFAS LENTES TERMINADOS Y SEMITERMINADOS Y EN GAFAS DE LECTURAOFIR SIN MARCA",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20033547",
+    "quantity": 289,
+    "name": "RESINIC AND GLASS SPECTACLES CORRECTIVES LENSES SEMIFINISHED LENSES FINISHED LENSES AND IN READING GLASSESLENTES CORRECTORES DE RESINA Y VIDRIO PARA GAFAS LENTES TERMINADOS Y SEMITERMINADOS Y EN GAFAS DE LECTURAOFIR SIN MARCA",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20033547",
+    "quantity": 784,
+    "name": "RESINIC AND GLASS SPECTACLES CORRECTIVES LENSES SEMIFINISHED LENSES FINISHED LENSES AND IN READING GLASSESLENTES CORRECTORES DE RESINA Y VIDRIO PARA GAFAS LENTES TERMINADOS Y SEMITERMINADOS Y EN GAFAS DE LECTURAOFIR SIN MARCA",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20254394",
+    "quantity": 551,
+    "name": "KIT STASISTEMA DE SUTURA DE TENDÓN DE AQUILES",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20254394",
+    "quantity": 701,
+    "name": "KIT STASISTEMA DE SUTURA DE TENDÓN DE AQUILES",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20254394",
+    "quantity": 576,
+    "name": "KIT STASISTEMA DE SUTURA DE TENDÓN DE AQUILES",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20254394",
+    "quantity": 402,
+    "name": "KIT STASISTEMA DE SUTURA DE TENDÓN DE AQUILES",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20254394",
+    "quantity": 376,
+    "name": "KIT STASISTEMA DE SUTURA DE TENDÓN DE AQUILES",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20254394",
+    "quantity": 476,
+    "name": "KIT STASISTEMA DE SUTURA DE TENDÓN DE AQUILES",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20254394",
+    "quantity": 545,
+    "name": "KIT STASISTEMA DE SUTURA DE TENDÓN DE AQUILES",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134848",
+    "quantity": 244,
+    "name": "RENASYS TO/UCH/ TERAPIA DE PRESIÓN NEGATIVA PARA HERIDAS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134848",
+    "quantity": 846,
+    "name": "RENASYS TO/UCH/ TERAPIA DE PRESIÓN NEGATIVA PARA HERIDAS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134848",
+    "quantity": 586,
+    "name": "RENASYS TO/UCH/ TERAPIA DE PRESIÓN NEGATIVA PARA HERIDAS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134848",
+    "quantity": 600,
+    "name": "RENASYS TO/UCH/ TERAPIA DE PRESIÓN NEGATIVA PARA HERIDAS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134848",
+    "quantity": 431,
+    "name": "RENASYS TO/UCH/ TERAPIA DE PRESIÓN NEGATIVA PARA HERIDAS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134848",
+    "quantity": 258,
+    "name": "RENASYS TO/UCH/ TERAPIA DE PRESIÓN NEGATIVA PARA HERIDAS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134848",
+    "quantity": 241,
+    "name": "RENASYS TO/UCH/ TERAPIA DE PRESIÓN NEGATIVA PARA HERIDAS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 550,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 304,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 599,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 412,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 423,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 226,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136301",
+    "quantity": 750,
+    "name": "SEDA DENTALSEDA DENTAL HILO DENTAL CINTA DENTAL",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20140216",
+    "quantity": 183,
+    "name": "TAPABOCAS DESECHABLE ELÁSTICO Y DE AMARRAR",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20140216",
+    "quantity": 476,
+    "name": "TAPABOCAS DESECHABLE ELÁSTICO Y DE AMARRAR",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20140216",
+    "quantity": 428,
+    "name": "TAPABOCAS DESECHABLE ELÁSTICO Y DE AMARRAR",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20140216",
+    "quantity": 423,
+    "name": "TAPABOCAS DESECHABLE ELÁSTICO Y DE AMARRAR",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20140216",
+    "quantity": 791,
+    "name": "TAPABOCAS DESECHABLE ELÁSTICO Y DE AMARRAR",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20140216",
+    "quantity": 724,
+    "name": "TAPABOCAS DESECHABLE ELÁSTICO Y DE AMARRAR",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20140216",
+    "quantity": 794,
+    "name": "TAPABOCAS DESECHABLE ELÁSTICO Y DE AMARRAR",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20011371",
+    "quantity": 534,
+    "name": "SISTEMA DE BLANQUEAMIENTO WHITENESS HP BLUE 35%-FGM",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20011371",
+    "quantity": 684,
+    "name": "SISTEMA DE BLANQUEAMIENTO WHITENESS HP BLUE 35%-FGM",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20011371",
+    "quantity": 171,
+    "name": "SISTEMA DE BLANQUEAMIENTO WHITENESS HP BLUE 35%-FGM",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20011371",
+    "quantity": 759,
+    "name": "SISTEMA DE BLANQUEAMIENTO WHITENESS HP BLUE 35%-FGM",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20011371",
+    "quantity": 575,
+    "name": "SISTEMA DE BLANQUEAMIENTO WHITENESS HP BLUE 35%-FGM",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20011371",
+    "quantity": 377,
+    "name": "SISTEMA DE BLANQUEAMIENTO WHITENESS HP BLUE 35%-FGM",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20011371",
+    "quantity": 676,
+    "name": "SISTEMA DE BLANQUEAMIENTO WHITENESS HP BLUE 35%-FGM",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20249845",
+    "quantity": 189,
+    "name": "ANILLO INTRACORNEAL PREDESCEMÉTICO PARA TRASPLANTE DE CÓRNEA NEORINGANILLO INTRACORNEAL PREDESCEMÉTICO PARA TRASPLANTE DE CÓRNEA NEORING",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20249845",
+    "quantity": 145,
+    "name": "ANILLO INTRACORNEAL PREDESCEMÉTICO PARA TRASPLANTE DE CÓRNEA NEORINGANILLO INTRACORNEAL PREDESCEMÉTICO PARA TRASPLANTE DE CÓRNEA NEORING",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20249845",
+    "quantity": 511,
+    "name": "ANILLO INTRACORNEAL PREDESCEMÉTICO PARA TRASPLANTE DE CÓRNEA NEORINGANILLO INTRACORNEAL PREDESCEMÉTICO PARA TRASPLANTE DE CÓRNEA NEORING",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20249845",
+    "quantity": 375,
+    "name": "ANILLO INTRACORNEAL PREDESCEMÉTICO PARA TRASPLANTE DE CÓRNEA NEORINGANILLO INTRACORNEAL PREDESCEMÉTICO PARA TRASPLANTE DE CÓRNEA NEORING",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20249845",
+    "quantity": 383,
+    "name": "ANILLO INTRACORNEAL PREDESCEMÉTICO PARA TRASPLANTE DE CÓRNEA NEORINGANILLO INTRACORNEAL PREDESCEMÉTICO PARA TRASPLANTE DE CÓRNEA NEORING",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20249845",
+    "quantity": 728,
+    "name": "ANILLO INTRACORNEAL PREDESCEMÉTICO PARA TRASPLANTE DE CÓRNEA NEORINGANILLO INTRACORNEAL PREDESCEMÉTICO PARA TRASPLANTE DE CÓRNEA NEORING",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20249845",
+    "quantity": 420,
+    "name": "ANILLO INTRACORNEAL PREDESCEMÉTICO PARA TRASPLANTE DE CÓRNEA NEORINGANILLO INTRACORNEAL PREDESCEMÉTICO PARA TRASPLANTE DE CÓRNEA NEORING",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20065345",
+    "quantity": 205,
+    "name": "SISTEMA DE PRESIÓN NEGATIVA PARA MANEJO DE HERIDAS (NEGATIVE PRESSURE WOUND THERAPY SYSTEM)DEROYAL FIXSYS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20065345",
+    "quantity": 778,
+    "name": "SISTEMA DE PRESIÓN NEGATIVA PARA MANEJO DE HERIDAS (NEGATIVE PRESSURE WOUND THERAPY SYSTEM)DEROYAL FIXSYS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20065345",
+    "quantity": 522,
+    "name": "SISTEMA DE PRESIÓN NEGATIVA PARA MANEJO DE HERIDAS (NEGATIVE PRESSURE WOUND THERAPY SYSTEM)DEROYAL FIXSYS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20065345",
+    "quantity": 408,
+    "name": "SISTEMA DE PRESIÓN NEGATIVA PARA MANEJO DE HERIDAS (NEGATIVE PRESSURE WOUND THERAPY SYSTEM)DEROYAL FIXSYS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20065345",
+    "quantity": 496,
+    "name": "SISTEMA DE PRESIÓN NEGATIVA PARA MANEJO DE HERIDAS (NEGATIVE PRESSURE WOUND THERAPY SYSTEM)DEROYAL FIXSYS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20065345",
+    "quantity": 719,
+    "name": "SISTEMA DE PRESIÓN NEGATIVA PARA MANEJO DE HERIDAS (NEGATIVE PRESSURE WOUND THERAPY SYSTEM)DEROYAL FIXSYS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20065345",
+    "quantity": 832,
+    "name": "SISTEMA DE PRESIÓN NEGATIVA PARA MANEJO DE HERIDAS (NEGATIVE PRESSURE WOUND THERAPY SYSTEM)DEROYAL FIXSYS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 711,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 234,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 208,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 697,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 371,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 373,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20136302",
+    "quantity": 148,
+    "name": "CEPILLO DENTALCEPILLO DE DIENTES MANUAL -CEPILLO DE DIENTES MANUALCEPILLO DENTAL MANUALCEPILLO INTERDENTAL Y/O INTERPROXIMAL",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20058366",
+    "quantity": 845,
+    "name": "EQUIPO DE RAYOS X ACCESORIOS Y REPUESTOS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20058366",
+    "quantity": 433,
+    "name": "EQUIPO DE RAYOS X ACCESORIOS Y REPUESTOS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20058366",
+    "quantity": 667,
+    "name": "EQUIPO DE RAYOS X ACCESORIOS Y REPUESTOS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20058366",
+    "quantity": 362,
+    "name": "EQUIPO DE RAYOS X ACCESORIOS Y REPUESTOS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20058366",
+    "quantity": 492,
+    "name": "EQUIPO DE RAYOS X ACCESORIOS Y REPUESTOS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20058366",
+    "quantity": 152,
+    "name": "EQUIPO DE RAYOS X ACCESORIOS Y REPUESTOS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20058366",
+    "quantity": 786,
+    "name": "EQUIPO DE RAYOS X ACCESORIOS Y REPUESTOS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20142463",
+    "quantity": 392,
+    "name": "MUÑONES",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20142463",
+    "quantity": 113,
+    "name": "MUÑONES",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20142463",
+    "quantity": 442,
+    "name": "MUÑONES",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20142463",
+    "quantity": 420,
+    "name": "MUÑONES",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20142463",
+    "quantity": 150,
+    "name": "MUÑONES",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20142463",
+    "quantity": 279,
+    "name": "MUÑONES",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20142463",
+    "quantity": 462,
+    "name": "MUÑONES",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20106828",
+    "quantity": 748,
+    "name": "THORACENTESIS PNEUMOTHORAX SYSTEMSISTEMA PARA TORACOCENTESIS NEUMOTORAX Y PRODUCTOS DE DRENAJE DE CAVIDADSISTEMA PARA TRATAMIENTO DE NEUMOTORAX TORACENTEIS Y DRENAJE DE CAVIDAD",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20106828",
+    "quantity": 258,
+    "name": "THORACENTESIS PNEUMOTHORAX SYSTEMSISTEMA PARA TORACOCENTESIS NEUMOTORAX Y PRODUCTOS DE DRENAJE DE CAVIDADSISTEMA PARA TRATAMIENTO DE NEUMOTORAX TORACENTEIS Y DRENAJE DE CAVIDAD",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20106828",
+    "quantity": 182,
+    "name": "THORACENTESIS PNEUMOTHORAX SYSTEMSISTEMA PARA TORACOCENTESIS NEUMOTORAX Y PRODUCTOS DE DRENAJE DE CAVIDADSISTEMA PARA TRATAMIENTO DE NEUMOTORAX TORACENTEIS Y DRENAJE DE CAVIDAD",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20106828",
+    "quantity": 194,
+    "name": "THORACENTESIS PNEUMOTHORAX SYSTEMSISTEMA PARA TORACOCENTESIS NEUMOTORAX Y PRODUCTOS DE DRENAJE DE CAVIDADSISTEMA PARA TRATAMIENTO DE NEUMOTORAX TORACENTEIS Y DRENAJE DE CAVIDAD",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20106828",
+    "quantity": 559,
+    "name": "THORACENTESIS PNEUMOTHORAX SYSTEMSISTEMA PARA TORACOCENTESIS NEUMOTORAX Y PRODUCTOS DE DRENAJE DE CAVIDADSISTEMA PARA TRATAMIENTO DE NEUMOTORAX TORACENTEIS Y DRENAJE DE CAVIDAD",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20106828",
+    "quantity": 217,
+    "name": "THORACENTESIS PNEUMOTHORAX SYSTEMSISTEMA PARA TORACOCENTESIS NEUMOTORAX Y PRODUCTOS DE DRENAJE DE CAVIDADSISTEMA PARA TRATAMIENTO DE NEUMOTORAX TORACENTEIS Y DRENAJE DE CAVIDAD",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20106828",
+    "quantity": 558,
+    "name": "THORACENTESIS PNEUMOTHORAX SYSTEMSISTEMA PARA TORACOCENTESIS NEUMOTORAX Y PRODUCTOS DE DRENAJE DE CAVIDADSISTEMA PARA TRATAMIENTO DE NEUMOTORAX TORACENTEIS Y DRENAJE DE CAVIDAD",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20229156",
+    "quantity": 264,
+    "name": "STELLEST AIRWEARLENTE OFTÁLMICO",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20229156",
+    "quantity": 832,
+    "name": "STELLEST AIRWEARLENTE OFTÁLMICO",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20229156",
+    "quantity": 689,
+    "name": "STELLEST AIRWEARLENTE OFTÁLMICO",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20229156",
+    "quantity": 696,
+    "name": "STELLEST AIRWEARLENTE OFTÁLMICO",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20229156",
+    "quantity": 788,
+    "name": "STELLEST AIRWEARLENTE OFTÁLMICO",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20229156",
+    "quantity": 820,
+    "name": "STELLEST AIRWEARLENTE OFTÁLMICO",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20229156",
+    "quantity": 623,
+    "name": "STELLEST AIRWEARLENTE OFTÁLMICO",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20028508",
+    "quantity": 402,
+    "name": "MATERIAL RADIOPACO FOTOPOLIMERIZABLE PARA RESTAURACIONES ODONTOLOGICAS-CHARISMA®",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20028508",
+    "quantity": 558,
+    "name": "MATERIAL RADIOPACO FOTOPOLIMERIZABLE PARA RESTAURACIONES ODONTOLOGICAS-CHARISMA®",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20028508",
+    "quantity": 415,
+    "name": "MATERIAL RADIOPACO FOTOPOLIMERIZABLE PARA RESTAURACIONES ODONTOLOGICAS-CHARISMA®",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20028508",
+    "quantity": 501,
+    "name": "MATERIAL RADIOPACO FOTOPOLIMERIZABLE PARA RESTAURACIONES ODONTOLOGICAS-CHARISMA®",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20028508",
+    "quantity": 576,
+    "name": "MATERIAL RADIOPACO FOTOPOLIMERIZABLE PARA RESTAURACIONES ODONTOLOGICAS-CHARISMA®",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20028508",
+    "quantity": 582,
+    "name": "MATERIAL RADIOPACO FOTOPOLIMERIZABLE PARA RESTAURACIONES ODONTOLOGICAS-CHARISMA®",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20028508",
+    "quantity": 595,
+    "name": "MATERIAL RADIOPACO FOTOPOLIMERIZABLE PARA RESTAURACIONES ODONTOLOGICAS-CHARISMA®",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19954596",
+    "quantity": 162,
+    "name": "SISTEMA DE GRAPADORA CORTADORA Y GRAPAS CONTOUR",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19954596",
+    "quantity": 747,
+    "name": "SISTEMA DE GRAPADORA CORTADORA Y GRAPAS CONTOUR",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19954596",
+    "quantity": 256,
+    "name": "SISTEMA DE GRAPADORA CORTADORA Y GRAPAS CONTOUR",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19954596",
+    "quantity": 258,
+    "name": "SISTEMA DE GRAPADORA CORTADORA Y GRAPAS CONTOUR",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19954596",
+    "quantity": 514,
+    "name": "SISTEMA DE GRAPADORA CORTADORA Y GRAPAS CONTOUR",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19954596",
+    "quantity": 819,
+    "name": "SISTEMA DE GRAPADORA CORTADORA Y GRAPAS CONTOUR",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "19954596",
+    "quantity": 335,
+    "name": "SISTEMA DE GRAPADORA CORTADORA Y GRAPAS CONTOUR",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20148742",
+    "quantity": 509,
+    "name": "STRATAMARKGEL DE SILICONA PARA EL TRATAMIENTO Y PREVENCION DE CICATRICES  PRINCIPALMENTE EN FORMA DE ESTRÍAS DE DISTENSIÓN",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20148742",
+    "quantity": 184,
+    "name": "STRATAMARKGEL DE SILICONA PARA EL TRATAMIENTO Y PREVENCION DE CICATRICES  PRINCIPALMENTE EN FORMA DE ESTRÍAS DE DISTENSIÓN",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20148742",
+    "quantity": 740,
+    "name": "STRATAMARKGEL DE SILICONA PARA EL TRATAMIENTO Y PREVENCION DE CICATRICES  PRINCIPALMENTE EN FORMA DE ESTRÍAS DE DISTENSIÓN",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20148742",
+    "quantity": 766,
+    "name": "STRATAMARKGEL DE SILICONA PARA EL TRATAMIENTO Y PREVENCION DE CICATRICES  PRINCIPALMENTE EN FORMA DE ESTRÍAS DE DISTENSIÓN",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20148742",
+    "quantity": 402,
+    "name": "STRATAMARKGEL DE SILICONA PARA EL TRATAMIENTO Y PREVENCION DE CICATRICES  PRINCIPALMENTE EN FORMA DE ESTRÍAS DE DISTENSIÓN",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20148742",
+    "quantity": 748,
+    "name": "STRATAMARKGEL DE SILICONA PARA EL TRATAMIENTO Y PREVENCION DE CICATRICES  PRINCIPALMENTE EN FORMA DE ESTRÍAS DE DISTENSIÓN",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20148742",
+    "quantity": 362,
+    "name": "STRATAMARKGEL DE SILICONA PARA EL TRATAMIENTO Y PREVENCION DE CICATRICES  PRINCIPALMENTE EN FORMA DE ESTRÍAS DE DISTENSIÓN",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 143,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 371,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 738,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 588,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 674,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 679,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20141630",
+    "quantity": 476,
+    "name": "OPHTHALMIC LENSLENTES OFTÁLMICOS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20117100",
+    "quantity": 559,
+    "name": "T-SPOTTB",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20117100",
+    "quantity": 321,
+    "name": "T-SPOTTB",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20117100",
+    "quantity": 643,
+    "name": "T-SPOTTB",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20117100",
+    "quantity": 254,
+    "name": "T-SPOTTB",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20117100",
+    "quantity": 412,
+    "name": "T-SPOTTB",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20117100",
+    "quantity": 669,
+    "name": "T-SPOTTB",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20117100",
+    "quantity": 765,
+    "name": "T-SPOTTB",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220434",
+    "quantity": 577,
+    "name": "SHEATH IIDIRUI",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220434",
+    "quantity": 421,
+    "name": "SHEATH IIDIRUI",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220434",
+    "quantity": 462,
+    "name": "SHEATH IIDIRUI",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220434",
+    "quantity": 217,
+    "name": "SHEATH IIDIRUI",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220434",
+    "quantity": 848,
+    "name": "SHEATH IIDIRUI",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220434",
+    "quantity": 696,
+    "name": "SHEATH IIDIRUI",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220434",
+    "quantity": 279,
+    "name": "SHEATH IIDIRUI",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20230144",
+    "quantity": 423,
+    "name": "ILLUMINA DNA PREP WITH EXOME V2 ENRICHMENT KIT TAGMENTATION SET B",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20230144",
+    "quantity": 243,
+    "name": "ILLUMINA DNA PREP WITH EXOME V2 ENRICHMENT KIT TAGMENTATION SET B",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20230144",
+    "quantity": 764,
+    "name": "ILLUMINA DNA PREP WITH EXOME V2 ENRICHMENT KIT TAGMENTATION SET B",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20230144",
+    "quantity": 308,
+    "name": "ILLUMINA DNA PREP WITH EXOME V2 ENRICHMENT KIT TAGMENTATION SET B",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20230144",
+    "quantity": 605,
+    "name": "ILLUMINA DNA PREP WITH EXOME V2 ENRICHMENT KIT TAGMENTATION SET B",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20230144",
+    "quantity": 635,
+    "name": "ILLUMINA DNA PREP WITH EXOME V2 ENRICHMENT KIT TAGMENTATION SET B",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20230144",
+    "quantity": 734,
+    "name": "ILLUMINA DNA PREP WITH EXOME V2 ENRICHMENT KIT TAGMENTATION SET B",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260040",
+    "quantity": 532,
+    "name": "ORTHOPAEDIC FIXATION PLATE KIT NON-BIODEGRADABLE",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260040",
+    "quantity": 137,
+    "name": "ORTHOPAEDIC FIXATION PLATE KIT NON-BIODEGRADABLE",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260040",
+    "quantity": 233,
+    "name": "ORTHOPAEDIC FIXATION PLATE KIT NON-BIODEGRADABLE",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260040",
+    "quantity": 169,
+    "name": "ORTHOPAEDIC FIXATION PLATE KIT NON-BIODEGRADABLE",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260040",
+    "quantity": 343,
+    "name": "ORTHOPAEDIC FIXATION PLATE KIT NON-BIODEGRADABLE",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260040",
+    "quantity": 819,
+    "name": "ORTHOPAEDIC FIXATION PLATE KIT NON-BIODEGRADABLE",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260040",
+    "quantity": 779,
+    "name": "ORTHOPAEDIC FIXATION PLATE KIT NON-BIODEGRADABLE",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20235610",
+    "quantity": 820,
+    "name": "CEPILLO DE DIENTES DE BAMBÚTOOTHBRUSHCEPILLO DE DIENTES",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20235610",
+    "quantity": 663,
+    "name": "CEPILLO DE DIENTES DE BAMBÚTOOTHBRUSHCEPILLO DE DIENTES",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20235610",
+    "quantity": 398,
+    "name": "CEPILLO DE DIENTES DE BAMBÚTOOTHBRUSHCEPILLO DE DIENTES",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20235610",
+    "quantity": 132,
+    "name": "CEPILLO DE DIENTES DE BAMBÚTOOTHBRUSHCEPILLO DE DIENTES",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20235610",
+    "quantity": 156,
+    "name": "CEPILLO DE DIENTES DE BAMBÚTOOTHBRUSHCEPILLO DE DIENTES",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20235610",
+    "quantity": 258,
+    "name": "CEPILLO DE DIENTES DE BAMBÚTOOTHBRUSHCEPILLO DE DIENTES",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20235610",
+    "quantity": 161,
+    "name": "CEPILLO DE DIENTES DE BAMBÚTOOTHBRUSHCEPILLO DE DIENTES",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260148",
+    "quantity": 251,
+    "name": "AGUJA DE PULGAR PARA INCRUSTACION SUBCUTANEA (STERILE PRESS NEEDLE FOR SINGLE USE)",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260148",
+    "quantity": 396,
+    "name": "AGUJA DE PULGAR PARA INCRUSTACION SUBCUTANEA (STERILE PRESS NEEDLE FOR SINGLE USE)",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260148",
+    "quantity": 188,
+    "name": "AGUJA DE PULGAR PARA INCRUSTACION SUBCUTANEA (STERILE PRESS NEEDLE FOR SINGLE USE)",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260148",
+    "quantity": 686,
+    "name": "AGUJA DE PULGAR PARA INCRUSTACION SUBCUTANEA (STERILE PRESS NEEDLE FOR SINGLE USE)",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260148",
+    "quantity": 790,
+    "name": "AGUJA DE PULGAR PARA INCRUSTACION SUBCUTANEA (STERILE PRESS NEEDLE FOR SINGLE USE)",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260148",
+    "quantity": 215,
+    "name": "AGUJA DE PULGAR PARA INCRUSTACION SUBCUTANEA (STERILE PRESS NEEDLE FOR SINGLE USE)",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20260148",
+    "quantity": 186,
+    "name": "AGUJA DE PULGAR PARA INCRUSTACION SUBCUTANEA (STERILE PRESS NEEDLE FOR SINGLE USE)",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20058414",
+    "quantity": 817,
+    "name": "AD-BIO DUO DENGUE AGIGG/IGM RAPID TEST",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20058414",
+    "quantity": 454,
+    "name": "AD-BIO DUO DENGUE AGIGG/IGM RAPID TEST",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20058414",
+    "quantity": 160,
+    "name": "AD-BIO DUO DENGUE AGIGG/IGM RAPID TEST",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20058414",
+    "quantity": 794,
+    "name": "AD-BIO DUO DENGUE AGIGG/IGM RAPID TEST",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20058414",
+    "quantity": 377,
+    "name": "AD-BIO DUO DENGUE AGIGG/IGM RAPID TEST",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20058414",
+    "quantity": 480,
+    "name": "AD-BIO DUO DENGUE AGIGG/IGM RAPID TEST",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20058414",
+    "quantity": 262,
+    "name": "AD-BIO DUO DENGUE AGIGG/IGM RAPID TEST",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "46250",
+    "quantity": 659,
+    "name": "ALGODÓN ABSORBENTEALGODÓN",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "46250",
+    "quantity": 328,
+    "name": "ALGODÓN ABSORBENTEALGODÓN",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "46250",
+    "quantity": 847,
+    "name": "ALGODÓN ABSORBENTEALGODÓN",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "46250",
+    "quantity": 826,
+    "name": "ALGODÓN ABSORBENTEALGODÓN",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "46250",
+    "quantity": 184,
+    "name": "ALGODÓN ABSORBENTEALGODÓN",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "46250",
+    "quantity": 246,
+    "name": "ALGODÓN ABSORBENTEALGODÓN",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "46250",
+    "quantity": 696,
+    "name": "ALGODÓN ABSORBENTEALGODÓN",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20168266",
+    "quantity": 390,
+    "name": "PHIX CONTROL V3",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20168266",
+    "quantity": 377,
+    "name": "PHIX CONTROL V3",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20168266",
+    "quantity": 198,
+    "name": "PHIX CONTROL V3",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20168266",
+    "quantity": 417,
+    "name": "PHIX CONTROL V3",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20168266",
+    "quantity": 290,
+    "name": "PHIX CONTROL V3",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20168266",
+    "quantity": 199,
+    "name": "PHIX CONTROL V3",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20168266",
+    "quantity": 415,
+    "name": "PHIX CONTROL V3",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134848",
+    "quantity": 238,
+    "name": "RENASYS TO/UCH/ TERAPIA DE PRESIÓN NEGATIVA PARA HERIDAS",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134848",
+    "quantity": 634,
+    "name": "RENASYS TO/UCH/ TERAPIA DE PRESIÓN NEGATIVA PARA HERIDAS",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134848",
+    "quantity": 384,
+    "name": "RENASYS TO/UCH/ TERAPIA DE PRESIÓN NEGATIVA PARA HERIDAS",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134848",
+    "quantity": 821,
+    "name": "RENASYS TO/UCH/ TERAPIA DE PRESIÓN NEGATIVA PARA HERIDAS",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134848",
+    "quantity": 311,
+    "name": "RENASYS TO/UCH/ TERAPIA DE PRESIÓN NEGATIVA PARA HERIDAS",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134848",
+    "quantity": 740,
+    "name": "RENASYS TO/UCH/ TERAPIA DE PRESIÓN NEGATIVA PARA HERIDAS",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20134848",
+    "quantity": 333,
+    "name": "RENASYS TO/UCH/ TERAPIA DE PRESIÓN NEGATIVA PARA HERIDAS",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20198568",
+    "quantity": 424,
+    "name": "BOLSA DE ORINA DESECHABLE",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20198568",
+    "quantity": 671,
+    "name": "BOLSA DE ORINA DESECHABLE",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20198568",
+    "quantity": 698,
+    "name": "BOLSA DE ORINA DESECHABLE",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20198568",
+    "quantity": 600,
+    "name": "BOLSA DE ORINA DESECHABLE",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20198568",
+    "quantity": 314,
+    "name": "BOLSA DE ORINA DESECHABLE",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20198568",
+    "quantity": 746,
+    "name": "BOLSA DE ORINA DESECHABLE",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20198568",
+    "quantity": 670,
+    "name": "BOLSA DE ORINA DESECHABLE",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257622",
+    "quantity": 678,
+    "name": "FALCON TAQ DNA POLYMERASE",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257622",
+    "quantity": 691,
+    "name": "FALCON TAQ DNA POLYMERASE",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257622",
+    "quantity": 279,
+    "name": "FALCON TAQ DNA POLYMERASE",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257622",
+    "quantity": 254,
+    "name": "FALCON TAQ DNA POLYMERASE",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257622",
+    "quantity": 349,
+    "name": "FALCON TAQ DNA POLYMERASE",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257622",
+    "quantity": 195,
+    "name": "FALCON TAQ DNA POLYMERASE",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20257622",
+    "quantity": 177,
+    "name": "FALCON TAQ DNA POLYMERASE",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20143956",
+    "quantity": 837,
+    "name": "MEK-3DN",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20143956",
+    "quantity": 602,
+    "name": "MEK-3DN",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20143956",
+    "quantity": 684,
+    "name": "MEK-3DN",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20143956",
+    "quantity": 262,
+    "name": "MEK-3DN",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20143956",
+    "quantity": 348,
+    "name": "MEK-3DN",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20143956",
+    "quantity": 219,
+    "name": "MEK-3DN",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20143956",
+    "quantity": 174,
+    "name": "MEK-3DN",
+    "site": "HAMBATO",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220889",
+    "quantity": 491,
+    "name": "NOVASEQ 6000 S4 REAGENT KIT (300 CYCLES)",
+    "site": "HQUITO1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220889",
+    "quantity": 180,
+    "name": "NOVASEQ 6000 S4 REAGENT KIT (300 CYCLES)",
+    "site": "HQUITO2",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220889",
+    "quantity": 182,
+    "name": "NOVASEQ 6000 S4 REAGENT KIT (300 CYCLES)",
+    "site": "HLOJA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220889",
+    "quantity": 385,
+    "name": "NOVASEQ 6000 S4 REAGENT KIT (300 CYCLES)",
+    "site": "HCUENCA1",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220889",
+    "quantity": 364,
+    "name": "NOVASEQ 6000 S4 REAGENT KIT (300 CYCLES)",
+    "site": "HGUAYAQUILL",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220889",
+    "quantity": 497,
+    "name": "NOVASEQ 6000 S4 REAGENT KIT (300 CYCLES)",
+    "site": "HRIOBAMBA",
+    "type": "Device"
+  },
+  {
+    "period": "2022",
+    "code": "20220889",
+    "quantity": 539,
+    "name": "NOVASEQ 6000 S4 REAGENT KIT (300 CYCLES)",
+    "site": "HAMBATO",
+    "type": "Device"
+  }
+]

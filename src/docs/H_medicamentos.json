@@ -1,0 +1,5658 @@
+[
+  {
+    "period": "2022",
+    "code": "J05AF01301",
+    "quantity": 741,
+    "name": "ZIDOVUDINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF01301",
+    "quantity": 245,
+    "name": "ZIDOVUDINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF01301",
+    "quantity": 594,
+    "name": "ZIDOVUDINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF01301",
+    "quantity": 681,
+    "name": "ZIDOVUDINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF01301",
+    "quantity": 321,
+    "name": "ZIDOVUDINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF01301",
+    "quantity": 722,
+    "name": "ZIDOVUDINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF01301",
+    "quantity": 844,
+    "name": "ZIDOVUDINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF05301",
+    "quantity": 319,
+    "name": "LAMIVUDINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF05301",
+    "quantity": 632,
+    "name": "LAMIVUDINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF05301",
+    "quantity": 665,
+    "name": "LAMIVUDINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF05301",
+    "quantity": 636,
+    "name": "LAMIVUDINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF05301",
+    "quantity": 812,
+    "name": "LAMIVUDINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF05301",
+    "quantity": 578,
+    "name": "LAMIVUDINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF05301",
+    "quantity": 675,
+    "name": "LAMIVUDINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG01011",
+    "quantity": 174,
+    "name": "NEVIRAPINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG01011",
+    "quantity": 281,
+    "name": "NEVIRAPINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG01011",
+    "quantity": 501,
+    "name": "NEVIRAPINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG01011",
+    "quantity": 821,
+    "name": "NEVIRAPINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG01011",
+    "quantity": 259,
+    "name": "NEVIRAPINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG01011",
+    "quantity": 390,
+    "name": "NEVIRAPINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG01011",
+    "quantity": 593,
+    "name": "NEVIRAPINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG03051",
+    "quantity": 181,
+    "name": "EFAVIRENZ",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG03051",
+    "quantity": 612,
+    "name": "EFAVIRENZ",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG03051",
+    "quantity": 151,
+    "name": "EFAVIRENZ",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG03051",
+    "quantity": 645,
+    "name": "EFAVIRENZ",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG03051",
+    "quantity": 662,
+    "name": "EFAVIRENZ",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG03051",
+    "quantity": 298,
+    "name": "EFAVIRENZ",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG03051",
+    "quantity": 785,
+    "name": "EFAVIRENZ",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR07011",
+    "quantity": 151,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR07011",
+    "quantity": 544,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR07011",
+    "quantity": 794,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR07011",
+    "quantity": 693,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR07011",
+    "quantity": 691,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR07011",
+    "quantity": 302,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR07011",
+    "quantity": 735,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR07012",
+    "quantity": 567,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR07012",
+    "quantity": 348,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR07012",
+    "quantity": 236,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR07012",
+    "quantity": 519,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR07012",
+    "quantity": 512,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR07012",
+    "quantity": 185,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR07012",
+    "quantity": 296,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR01051",
+    "quantity": 604,
+    "name": "ZIDOVUDINA + LAMIVUDINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR01051",
+    "quantity": 549,
+    "name": "ZIDOVUDINA + LAMIVUDINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR01051",
+    "quantity": 621,
+    "name": "ZIDOVUDINA + LAMIVUDINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR01051",
+    "quantity": 328,
+    "name": "ZIDOVUDINA + LAMIVUDINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR01051",
+    "quantity": 503,
+    "name": "ZIDOVUDINA + LAMIVUDINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR01051",
+    "quantity": 694,
+    "name": "ZIDOVUDINA + LAMIVUDINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR01051",
+    "quantity": 760,
+    "name": "ZIDOVUDINA + LAMIVUDINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF07051",
+    "quantity": 526,
+    "name": "TENOFOVIR DISOPROXILO",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF07051",
+    "quantity": 717,
+    "name": "TENOFOVIR DISOPROXILO",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF07051",
+    "quantity": 448,
+    "name": "TENOFOVIR DISOPROXILO",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF07051",
+    "quantity": 350,
+    "name": "TENOFOVIR DISOPROXILO",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF07051",
+    "quantity": 208,
+    "name": "TENOFOVIR DISOPROXILO",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF07051",
+    "quantity": 648,
+    "name": "TENOFOVIR DISOPROXILO",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF07051",
+    "quantity": 465,
+    "name": "TENOFOVIR DISOPROXILO",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR03051",
+    "quantity": 594,
+    "name": "TENOFOVIR + EMTRICITABINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR03051",
+    "quantity": 435,
+    "name": "TENOFOVIR + EMTRICITABINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR03051",
+    "quantity": 690,
+    "name": "TENOFOVIR + EMTRICITABINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR03051",
+    "quantity": 621,
+    "name": "TENOFOVIR + EMTRICITABINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR03051",
+    "quantity": 393,
+    "name": "TENOFOVIR + EMTRICITABINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR03051",
+    "quantity": 436,
+    "name": "TENOFOVIR + EMTRICITABINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR03051",
+    "quantity": 189,
+    "name": "TENOFOVIR + EMTRICITABINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR06051",
+    "quantity": 304,
+    "name": "TENOFOVIR + EMTRICITABINA + EFAVIRENZ",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR06051",
+    "quantity": 406,
+    "name": "TENOFOVIR + EMTRICITABINA + EFAVIRENZ",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR06051",
+    "quantity": 657,
+    "name": "TENOFOVIR + EMTRICITABINA + EFAVIRENZ",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR06051",
+    "quantity": 846,
+    "name": "TENOFOVIR + EMTRICITABINA + EFAVIRENZ",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR06051",
+    "quantity": 472,
+    "name": "TENOFOVIR + EMTRICITABINA + EFAVIRENZ",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR06051",
+    "quantity": 409,
+    "name": "TENOFOVIR + EMTRICITABINA + EFAVIRENZ",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR06051",
+    "quantity": 176,
+    "name": "TENOFOVIR + EMTRICITABINA + EFAVIRENZ",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AA07051",
+    "quantity": 720,
+    "name": "LEVONORGESTREL + ETINILESTRADIOL",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AA07051",
+    "quantity": 659,
+    "name": "LEVONORGESTREL + ETINILESTRADIOL",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AA07051",
+    "quantity": 719,
+    "name": "LEVONORGESTREL + ETINILESTRADIOL",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AA07051",
+    "quantity": 178,
+    "name": "LEVONORGESTREL + ETINILESTRADIOL",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AA07051",
+    "quantity": 320,
+    "name": "LEVONORGESTREL + ETINILESTRADIOL",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AA07051",
+    "quantity": 843,
+    "name": "LEVONORGESTREL + ETINILESTRADIOL",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AA07051",
+    "quantity": 332,
+    "name": "LEVONORGESTREL + ETINILESTRADIOL",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AC03051",
+    "quantity": 412,
+    "name": "LEVONORGESTREL",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AC03051",
+    "quantity": 728,
+    "name": "LEVONORGESTREL",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AC03051",
+    "quantity": 147,
+    "name": "LEVONORGESTREL",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AC03051",
+    "quantity": 613,
+    "name": "LEVONORGESTREL",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AC03051",
+    "quantity": 168,
+    "name": "LEVONORGESTREL",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AC03051",
+    "quantity": 322,
+    "name": "LEVONORGESTREL",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AC03051",
+    "quantity": 371,
+    "name": "LEVONORGESTREL",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "B01AC040510",
+    "quantity": 670,
+    "name": "CLOPIDOGREL",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "B01AC040510",
+    "quantity": 108,
+    "name": "CLOPIDOGREL",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "B01AC040510",
+    "quantity": 379,
+    "name": "CLOPIDOGREL",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "B01AC040510",
+    "quantity": 303,
+    "name": "CLOPIDOGREL",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "B01AC040510",
+    "quantity": 812,
+    "name": "CLOPIDOGREL",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "B01AC040510",
+    "quantity": 541,
+    "name": "CLOPIDOGREL",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "B01AC040510",
+    "quantity": 244,
+    "name": "CLOPIDOGREL",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AH030510",
+    "quantity": 841,
+    "name": "OLANZAPINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AH030510",
+    "quantity": 563,
+    "name": "OLANZAPINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AH030510",
+    "quantity": 430,
+    "name": "OLANZAPINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AH030510",
+    "quantity": 221,
+    "name": "OLANZAPINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AH030510",
+    "quantity": 400,
+    "name": "OLANZAPINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AH030510",
+    "quantity": 351,
+    "name": "OLANZAPINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AH030510",
+    "quantity": 740,
+    "name": "OLANZAPINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AH030520",
+    "quantity": 487,
+    "name": "OLANZAPINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AH030520",
+    "quantity": 274,
+    "name": "OLANZAPINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AH030520",
+    "quantity": 283,
+    "name": "OLANZAPINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AH030520",
+    "quantity": 832,
+    "name": "OLANZAPINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AH030520",
+    "quantity": 250,
+    "name": "OLANZAPINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AH030520",
+    "quantity": 772,
+    "name": "OLANZAPINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AH030520",
+    "quantity": 638,
+    "name": "OLANZAPINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF020210",
+    "quantity": 143,
+    "name": "DIDANOSINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF020210",
+    "quantity": 574,
+    "name": "DIDANOSINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF020210",
+    "quantity": 524,
+    "name": "DIDANOSINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF020210",
+    "quantity": 741,
+    "name": "DIDANOSINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF020210",
+    "quantity": 815,
+    "name": "DIDANOSINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF020210",
+    "quantity": 219,
+    "name": "DIDANOSINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF020210",
+    "quantity": 435,
+    "name": "DIDANOSINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG030910",
+    "quantity": 546,
+    "name": "EFAVIRENZ",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG030910",
+    "quantity": 244,
+    "name": "EFAVIRENZ",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG030910",
+    "quantity": 792,
+    "name": "EFAVIRENZ",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG030910",
+    "quantity": 495,
+    "name": "EFAVIRENZ",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG030910",
+    "quantity": 623,
+    "name": "EFAVIRENZ",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG030910",
+    "quantity": 708,
+    "name": "EFAVIRENZ",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG030910",
+    "quantity": 572,
+    "name": "EFAVIRENZ",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF050510",
+    "quantity": 307,
+    "name": "LAMIVUDINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF050510",
+    "quantity": 589,
+    "name": "LAMIVUDINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF050510",
+    "quantity": 784,
+    "name": "LAMIVUDINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF050510",
+    "quantity": 600,
+    "name": "LAMIVUDINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF050510",
+    "quantity": 573,
+    "name": "LAMIVUDINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF050510",
+    "quantity": 422,
+    "name": "LAMIVUDINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF050510",
+    "quantity": 348,
+    "name": "LAMIVUDINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG012610",
+    "quantity": 702,
+    "name": "NEVIRAPINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG012610",
+    "quantity": 443,
+    "name": "NEVIRAPINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG012610",
+    "quantity": 353,
+    "name": "NEVIRAPINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG012610",
+    "quantity": 549,
+    "name": "NEVIRAPINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG012610",
+    "quantity": 142,
+    "name": "NEVIRAPINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG012610",
+    "quantity": 793,
+    "name": "NEVIRAPINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG012610",
+    "quantity": 109,
+    "name": "NEVIRAPINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF010910",
+    "quantity": 397,
+    "name": "ZIDOVUDINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF010910",
+    "quantity": 380,
+    "name": "ZIDOVUDINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF010910",
+    "quantity": 109,
+    "name": "ZIDOVUDINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF010910",
+    "quantity": 628,
+    "name": "ZIDOVUDINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF010910",
+    "quantity": 343,
+    "name": "ZIDOVUDINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF010910",
+    "quantity": 407,
+    "name": "ZIDOVUDINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF010910",
+    "quantity": 428,
+    "name": "ZIDOVUDINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF010510",
+    "quantity": 332,
+    "name": "ZIDOVUDINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF010510",
+    "quantity": 214,
+    "name": "ZIDOVUDINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF010510",
+    "quantity": 781,
+    "name": "ZIDOVUDINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF010510",
+    "quantity": 738,
+    "name": "ZIDOVUDINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF010510",
+    "quantity": 573,
+    "name": "ZIDOVUDINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF010510",
+    "quantity": 322,
+    "name": "ZIDOVUDINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF010510",
+    "quantity": 767,
+    "name": "ZIDOVUDINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF060510",
+    "quantity": 807,
+    "name": "ABACAVIR",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF060510",
+    "quantity": 408,
+    "name": "ABACAVIR",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF060510",
+    "quantity": 492,
+    "name": "ABACAVIR",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF060510",
+    "quantity": 810,
+    "name": "ABACAVIR",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF060510",
+    "quantity": 683,
+    "name": "ABACAVIR",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF060510",
+    "quantity": 832,
+    "name": "ABACAVIR",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF060510",
+    "quantity": 748,
+    "name": "ABACAVIR",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N03AF010110",
+    "quantity": 841,
+    "name": "CARBAMAZEPINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N03AF010110",
+    "quantity": 476,
+    "name": "CARBAMAZEPINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N03AF010110",
+    "quantity": 141,
+    "name": "CARBAMAZEPINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N03AF010110",
+    "quantity": 738,
+    "name": "CARBAMAZEPINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N03AF010110",
+    "quantity": 777,
+    "name": "CARBAMAZEPINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N03AF010110",
+    "quantity": 461,
+    "name": "CARBAMAZEPINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N03AF010110",
+    "quantity": 772,
+    "name": "CARBAMAZEPINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N03AF010610",
+    "quantity": 611,
+    "name": "CARBAMAZEPINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N03AF010610",
+    "quantity": 110,
+    "name": "CARBAMAZEPINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N03AF010610",
+    "quantity": 327,
+    "name": "CARBAMAZEPINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N03AF010610",
+    "quantity": 733,
+    "name": "CARBAMAZEPINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N03AF010610",
+    "quantity": 425,
+    "name": "CARBAMAZEPINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N03AF010610",
+    "quantity": 616,
+    "name": "CARBAMAZEPINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N03AF010610",
+    "quantity": 551,
+    "name": "CARBAMAZEPINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N04BA020120",
+    "quantity": 321,
+    "name": "LEVODOPA + CARBIDOPA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N04BA020120",
+    "quantity": 338,
+    "name": "LEVODOPA + CARBIDOPA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N04BA020120",
+    "quantity": 612,
+    "name": "LEVODOPA + CARBIDOPA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N04BA020120",
+    "quantity": 809,
+    "name": "LEVODOPA + CARBIDOPA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N04BA020120",
+    "quantity": 380,
+    "name": "LEVODOPA + CARBIDOPA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N04BA020120",
+    "quantity": 833,
+    "name": "LEVODOPA + CARBIDOPA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N04BA020120",
+    "quantity": 647,
+    "name": "LEVODOPA + CARBIDOPA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX110510",
+    "quantity": 115,
+    "name": "MIRTAZAPINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX110510",
+    "quantity": 145,
+    "name": "MIRTAZAPINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX110510",
+    "quantity": 285,
+    "name": "MIRTAZAPINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX110510",
+    "quantity": 783,
+    "name": "MIRTAZAPINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX110510",
+    "quantity": 846,
+    "name": "MIRTAZAPINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX110510",
+    "quantity": 391,
+    "name": "MIRTAZAPINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX110510",
+    "quantity": 136,
+    "name": "MIRTAZAPINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX110520",
+    "quantity": 473,
+    "name": "MIRTAZAPINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX110520",
+    "quantity": 147,
+    "name": "MIRTAZAPINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX110520",
+    "quantity": 604,
+    "name": "MIRTAZAPINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX110520",
+    "quantity": 354,
+    "name": "MIRTAZAPINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX110520",
+    "quantity": 356,
+    "name": "MIRTAZAPINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX110520",
+    "quantity": 338,
+    "name": "MIRTAZAPINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX110520",
+    "quantity": 346,
+    "name": "MIRTAZAPINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080510",
+    "quantity": 500,
+    "name": "RISPERIDONA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080510",
+    "quantity": 500,
+    "name": "RISPERIDONA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080510",
+    "quantity": 692,
+    "name": "RISPERIDONA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080510",
+    "quantity": 698,
+    "name": "RISPERIDONA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080510",
+    "quantity": 383,
+    "name": "RISPERIDONA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080510",
+    "quantity": 383,
+    "name": "RISPERIDONA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080510",
+    "quantity": 618,
+    "name": "RISPERIDONA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080520",
+    "quantity": 777,
+    "name": "RISPERIDONA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080520",
+    "quantity": 547,
+    "name": "RISPERIDONA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080520",
+    "quantity": 233,
+    "name": "RISPERIDONA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080520",
+    "quantity": 809,
+    "name": "RISPERIDONA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080520",
+    "quantity": 330,
+    "name": "RISPERIDONA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080520",
+    "quantity": 571,
+    "name": "RISPERIDONA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080520",
+    "quantity": 281,
+    "name": "RISPERIDONA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080530",
+    "quantity": 365,
+    "name": "RISPERIDONA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080530",
+    "quantity": 540,
+    "name": "RISPERIDONA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080530",
+    "quantity": 321,
+    "name": "RISPERIDONA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080530",
+    "quantity": 262,
+    "name": "RISPERIDONA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080530",
+    "quantity": 573,
+    "name": "RISPERIDONA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080530",
+    "quantity": 704,
+    "name": "RISPERIDONA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N05AX080530",
+    "quantity": 689,
+    "name": "RISPERIDONA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AB060510",
+    "quantity": 128,
+    "name": "SERTRALINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AB060510",
+    "quantity": 784,
+    "name": "SERTRALINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AB060510",
+    "quantity": 356,
+    "name": "SERTRALINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AB060510",
+    "quantity": 139,
+    "name": "SERTRALINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AB060510",
+    "quantity": 179,
+    "name": "SERTRALINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AB060510",
+    "quantity": 576,
+    "name": "SERTRALINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AB060510",
+    "quantity": 573,
+    "name": "SERTRALINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AB060520",
+    "quantity": 237,
+    "name": "SERTRALINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AB060520",
+    "quantity": 150,
+    "name": "SERTRALINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AB060520",
+    "quantity": 295,
+    "name": "SERTRALINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AB060520",
+    "quantity": 665,
+    "name": "SERTRALINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AB060520",
+    "quantity": 663,
+    "name": "SERTRALINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AB060520",
+    "quantity": 393,
+    "name": "SERTRALINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AB060520",
+    "quantity": 120,
+    "name": "SERTRALINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161010",
+    "quantity": 171,
+    "name": "VENLAFAXINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161010",
+    "quantity": 327,
+    "name": "VENLAFAXINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161010",
+    "quantity": 255,
+    "name": "VENLAFAXINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161010",
+    "quantity": 795,
+    "name": "VENLAFAXINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161010",
+    "quantity": 291,
+    "name": "VENLAFAXINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161010",
+    "quantity": 445,
+    "name": "VENLAFAXINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161010",
+    "quantity": 328,
+    "name": "VENLAFAXINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161020",
+    "quantity": 282,
+    "name": "VENLAFAXINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161020",
+    "quantity": 704,
+    "name": "VENLAFAXINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161020",
+    "quantity": 829,
+    "name": "VENLAFAXINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161020",
+    "quantity": 687,
+    "name": "VENLAFAXINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161020",
+    "quantity": 185,
+    "name": "VENLAFAXINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161020",
+    "quantity": 748,
+    "name": "VENLAFAXINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161020",
+    "quantity": 622,
+    "name": "VENLAFAXINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161030",
+    "quantity": 839,
+    "name": "VENLAFAXINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161030",
+    "quantity": 619,
+    "name": "VENLAFAXINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161030",
+    "quantity": 333,
+    "name": "VENLAFAXINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161030",
+    "quantity": 527,
+    "name": "VENLAFAXINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161030",
+    "quantity": 645,
+    "name": "VENLAFAXINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161030",
+    "quantity": 115,
+    "name": "VENLAFAXINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N06AX161030",
+    "quantity": 258,
+    "name": "VENLAFAXINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG030510",
+    "quantity": 529,
+    "name": "EFAVIRENZ",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG030510",
+    "quantity": 290,
+    "name": "EFAVIRENZ",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG030510",
+    "quantity": 167,
+    "name": "EFAVIRENZ",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG030510",
+    "quantity": 654,
+    "name": "EFAVIRENZ",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG030510",
+    "quantity": 589,
+    "name": "EFAVIRENZ",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG030510",
+    "quantity": 203,
+    "name": "EFAVIRENZ",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG030510",
+    "quantity": 468,
+    "name": "EFAVIRENZ",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR070110",
+    "quantity": 439,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR070110",
+    "quantity": 849,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR070110",
+    "quantity": 222,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR070110",
+    "quantity": 545,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR070110",
+    "quantity": 172,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR070110",
+    "quantity": 132,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR070110",
+    "quantity": 390,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR070120",
+    "quantity": 623,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR070120",
+    "quantity": 295,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR070120",
+    "quantity": 243,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR070120",
+    "quantity": 843,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR070120",
+    "quantity": 734,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR070120",
+    "quantity": 691,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR070120",
+    "quantity": 558,
+    "name": "ESTAVUDINA + LAMIVUDINA + NEVIRAPINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "L01XE010910",
+    "quantity": 472,
+    "name": "IMATINIB",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "L01XE010910",
+    "quantity": 214,
+    "name": "IMATINIB",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "L01XE010910",
+    "quantity": 303,
+    "name": "IMATINIB",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "L01XE010910",
+    "quantity": 294,
+    "name": "IMATINIB",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "L01XE010910",
+    "quantity": 370,
+    "name": "IMATINIB",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "L01XE010910",
+    "quantity": 393,
+    "name": "IMATINIB",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "L01XE010910",
+    "quantity": 370,
+    "name": "IMATINIB",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF053010",
+    "quantity": 253,
+    "name": "LAMIVUDINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF053010",
+    "quantity": 248,
+    "name": "LAMIVUDINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF053010",
+    "quantity": 532,
+    "name": "LAMIVUDINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF053010",
+    "quantity": 121,
+    "name": "LAMIVUDINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF053010",
+    "quantity": 587,
+    "name": "LAMIVUDINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF053010",
+    "quantity": 566,
+    "name": "LAMIVUDINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF053010",
+    "quantity": 452,
+    "name": "LAMIVUDINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AC030510",
+    "quantity": 410,
+    "name": "LEVONORGESTREL",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AC030510",
+    "quantity": 701,
+    "name": "LEVONORGESTREL",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AC030510",
+    "quantity": 105,
+    "name": "LEVONORGESTREL",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AC030510",
+    "quantity": 543,
+    "name": "LEVONORGESTREL",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AC030510",
+    "quantity": 459,
+    "name": "LEVONORGESTREL",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AC030510",
+    "quantity": 187,
+    "name": "LEVONORGESTREL",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AC030510",
+    "quantity": 760,
+    "name": "LEVONORGESTREL",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AA070510",
+    "quantity": 233,
+    "name": "LEVONORGESTREL + ETINILESTRADIOL",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AA070510",
+    "quantity": 682,
+    "name": "LEVONORGESTREL + ETINILESTRADIOL",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AA070510",
+    "quantity": 554,
+    "name": "LEVONORGESTREL + ETINILESTRADIOL",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AA070510",
+    "quantity": 427,
+    "name": "LEVONORGESTREL + ETINILESTRADIOL",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AA070510",
+    "quantity": 432,
+    "name": "LEVONORGESTREL + ETINILESTRADIOL",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AA070510",
+    "quantity": 274,
+    "name": "LEVONORGESTREL + ETINILESTRADIOL",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G03AA070510",
+    "quantity": 113,
+    "name": "LEVONORGESTREL + ETINILESTRADIOL",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG010110",
+    "quantity": 143,
+    "name": "NEVIRAPINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG010110",
+    "quantity": 188,
+    "name": "NEVIRAPINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG010110",
+    "quantity": 849,
+    "name": "NEVIRAPINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG010110",
+    "quantity": 325,
+    "name": "NEVIRAPINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG010110",
+    "quantity": 304,
+    "name": "NEVIRAPINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG010110",
+    "quantity": 769,
+    "name": "NEVIRAPINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AG010110",
+    "quantity": 536,
+    "name": "NEVIRAPINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR060510",
+    "quantity": 836,
+    "name": "TENOFOVIR + EMTRICITABINA + EFAVIRENZ",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR060510",
+    "quantity": 311,
+    "name": "TENOFOVIR + EMTRICITABINA + EFAVIRENZ",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR060510",
+    "quantity": 585,
+    "name": "TENOFOVIR + EMTRICITABINA + EFAVIRENZ",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR060510",
+    "quantity": 414,
+    "name": "TENOFOVIR + EMTRICITABINA + EFAVIRENZ",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR060510",
+    "quantity": 663,
+    "name": "TENOFOVIR + EMTRICITABINA + EFAVIRENZ",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR060510",
+    "quantity": 701,
+    "name": "TENOFOVIR + EMTRICITABINA + EFAVIRENZ",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR060510",
+    "quantity": 160,
+    "name": "TENOFOVIR + EMTRICITABINA + EFAVIRENZ",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF070510",
+    "quantity": 644,
+    "name": "TENOFOVIR DISOPROXILO",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF070510",
+    "quantity": 370,
+    "name": "TENOFOVIR DISOPROXILO",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF070510",
+    "quantity": 801,
+    "name": "TENOFOVIR DISOPROXILO",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF070510",
+    "quantity": 600,
+    "name": "TENOFOVIR DISOPROXILO",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF070510",
+    "quantity": 301,
+    "name": "TENOFOVIR DISOPROXILO",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF070510",
+    "quantity": 188,
+    "name": "TENOFOVIR DISOPROXILO",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF070510",
+    "quantity": 651,
+    "name": "TENOFOVIR DISOPROXILO",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR030510",
+    "quantity": 513,
+    "name": "TENOFOVIR + EMTRICITABINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR030510",
+    "quantity": 770,
+    "name": "TENOFOVIR + EMTRICITABINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR030510",
+    "quantity": 119,
+    "name": "TENOFOVIR + EMTRICITABINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR030510",
+    "quantity": 293,
+    "name": "TENOFOVIR + EMTRICITABINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR030510",
+    "quantity": 701,
+    "name": "TENOFOVIR + EMTRICITABINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR030510",
+    "quantity": 239,
+    "name": "TENOFOVIR + EMTRICITABINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR030510",
+    "quantity": 609,
+    "name": "TENOFOVIR + EMTRICITABINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF013010",
+    "quantity": 531,
+    "name": "ZIDOVUDINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF013010",
+    "quantity": 610,
+    "name": "ZIDOVUDINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF013010",
+    "quantity": 604,
+    "name": "ZIDOVUDINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF013010",
+    "quantity": 619,
+    "name": "ZIDOVUDINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF013010",
+    "quantity": 118,
+    "name": "ZIDOVUDINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF013010",
+    "quantity": 516,
+    "name": "ZIDOVUDINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AF013010",
+    "quantity": 759,
+    "name": "ZIDOVUDINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR010510",
+    "quantity": 702,
+    "name": "ZIDOVUDINA + LAMIVUDINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR010510",
+    "quantity": 569,
+    "name": "ZIDOVUDINA + LAMIVUDINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR010510",
+    "quantity": 829,
+    "name": "ZIDOVUDINA + LAMIVUDINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR010510",
+    "quantity": 676,
+    "name": "ZIDOVUDINA + LAMIVUDINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR010510",
+    "quantity": 167,
+    "name": "ZIDOVUDINA + LAMIVUDINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR010510",
+    "quantity": 370,
+    "name": "ZIDOVUDINA + LAMIVUDINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AR010510",
+    "quantity": 845,
+    "name": "ZIDOVUDINA + LAMIVUDINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AB010130",
+    "quantity": 409,
+    "name": "ACICLOVIR",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AB010130",
+    "quantity": 449,
+    "name": "ACICLOVIR",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AB010130",
+    "quantity": 744,
+    "name": "ACICLOVIR",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AB010130",
+    "quantity": 818,
+    "name": "ACICLOVIR",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AB010130",
+    "quantity": 181,
+    "name": "ACICLOVIR",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AB010130",
+    "quantity": 560,
+    "name": "ACICLOVIR",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J05AB010130",
+    "quantity": 741,
+    "name": "ACICLOVIR",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA032611",
+    "quantity": 143,
+    "name": "ALBENDAZOL",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA032611",
+    "quantity": 333,
+    "name": "ALBENDAZOL",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA032611",
+    "quantity": 418,
+    "name": "ALBENDAZOL",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA032611",
+    "quantity": 331,
+    "name": "ALBENDAZOL",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA032611",
+    "quantity": 228,
+    "name": "ALBENDAZOL",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA032611",
+    "quantity": 523,
+    "name": "ALBENDAZOL",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA032611",
+    "quantity": 254,
+    "name": "ALBENDAZOL",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA030110",
+    "quantity": 167,
+    "name": "ALBENDAZOL",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA030110",
+    "quantity": 229,
+    "name": "ALBENDAZOL",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA030110",
+    "quantity": 129,
+    "name": "ALBENDAZOL",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA030110",
+    "quantity": 165,
+    "name": "ALBENDAZOL",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA030110",
+    "quantity": 503,
+    "name": "ALBENDAZOL",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA030110",
+    "quantity": 505,
+    "name": "ALBENDAZOL",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA030110",
+    "quantity": 466,
+    "name": "ALBENDAZOL",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010110",
+    "quantity": 819,
+    "name": "CLOTRIMOXAZOL (SULFAMETOXASOL + TRIMETOPRIMA)",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010110",
+    "quantity": 639,
+    "name": "CLOTRIMOXAZOL (SULFAMETOXASOL + TRIMETOPRIMA)",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010110",
+    "quantity": 253,
+    "name": "CLOTRIMOXAZOL (SULFAMETOXASOL + TRIMETOPRIMA)",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010110",
+    "quantity": 606,
+    "name": "CLOTRIMOXAZOL (SULFAMETOXASOL + TRIMETOPRIMA)",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010110",
+    "quantity": 352,
+    "name": "CLOTRIMOXAZOL (SULFAMETOXASOL + TRIMETOPRIMA)",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010110",
+    "quantity": 327,
+    "name": "CLOTRIMOXAZOL (SULFAMETOXASOL + TRIMETOPRIMA)",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010110",
+    "quantity": 758,
+    "name": "CLOTRIMOXAZOL (SULFAMETOXASOL + TRIMETOPRIMA)",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C08CA010110",
+    "quantity": 238,
+    "name": "AMLODIPINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C08CA010110",
+    "quantity": 170,
+    "name": "AMLODIPINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C08CA010110",
+    "quantity": 700,
+    "name": "AMLODIPINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C08CA010110",
+    "quantity": 711,
+    "name": "AMLODIPINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C08CA010110",
+    "quantity": 189,
+    "name": "AMLODIPINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C08CA010110",
+    "quantity": 256,
+    "name": "AMLODIPINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C08CA010110",
+    "quantity": 475,
+    "name": "AMLODIPINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB014111",
+    "quantity": 679,
+    "name": "BETAMETASONA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB014111",
+    "quantity": 125,
+    "name": "BETAMETASONA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB014111",
+    "quantity": 294,
+    "name": "BETAMETASONA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB014111",
+    "quantity": 127,
+    "name": "BETAMETASONA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB014111",
+    "quantity": 502,
+    "name": "BETAMETASONA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB014111",
+    "quantity": 577,
+    "name": "BETAMETASONA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB014111",
+    "quantity": 806,
+    "name": "BETAMETASONA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01FA090510",
+    "quantity": 312,
+    "name": "CLARITROMICINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01FA090510",
+    "quantity": 480,
+    "name": "CLARITROMICINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01FA090510",
+    "quantity": 745,
+    "name": "CLARITROMICINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01FA090510",
+    "quantity": 156,
+    "name": "CLARITROMICINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01FA090510",
+    "quantity": 610,
+    "name": "CLARITROMICINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01FA090510",
+    "quantity": 799,
+    "name": "CLARITROMICINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01FA090510",
+    "quantity": 651,
+    "name": "CLARITROMICINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB024111",
+    "quantity": 307,
+    "name": "DEXAMETASONA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB024111",
+    "quantity": 203,
+    "name": "DEXAMETASONA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB024111",
+    "quantity": 502,
+    "name": "DEXAMETASONA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB024111",
+    "quantity": 343,
+    "name": "DEXAMETASONA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB024111",
+    "quantity": 599,
+    "name": "DEXAMETASONA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB024111",
+    "quantity": 771,
+    "name": "DEXAMETASONA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB024111",
+    "quantity": 540,
+    "name": "DEXAMETASONA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB024112",
+    "quantity": 293,
+    "name": "DEXAMETASONA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB024112",
+    "quantity": 711,
+    "name": "DEXAMETASONA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB024112",
+    "quantity": 592,
+    "name": "DEXAMETASONA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB024112",
+    "quantity": 480,
+    "name": "DEXAMETASONA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB024112",
+    "quantity": 495,
+    "name": "DEXAMETASONA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB024112",
+    "quantity": 368,
+    "name": "DEXAMETASONA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "H02AB024112",
+    "quantity": 431,
+    "name": "DEXAMETASONA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB054111",
+    "quantity": 680,
+    "name": "DICLOFENACO",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB054111",
+    "quantity": 153,
+    "name": "DICLOFENACO",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB054111",
+    "quantity": 740,
+    "name": "DICLOFENACO",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB054111",
+    "quantity": 615,
+    "name": "DICLOFENACO",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB054111",
+    "quantity": 138,
+    "name": "DICLOFENACO",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB054111",
+    "quantity": 267,
+    "name": "DICLOFENACO",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB054111",
+    "quantity": 338,
+    "name": "DICLOFENACO",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J02AC010920",
+    "quantity": 847,
+    "name": "FLUCONAZOL",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J02AC010920",
+    "quantity": 405,
+    "name": "FLUCONAZOL",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J02AC010920",
+    "quantity": 587,
+    "name": "FLUCONAZOL",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J02AC010920",
+    "quantity": 444,
+    "name": "FLUCONAZOL",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J02AC010920",
+    "quantity": 230,
+    "name": "FLUCONAZOL",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J02AC010920",
+    "quantity": 707,
+    "name": "FLUCONAZOL",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J02AC010920",
+    "quantity": 662,
+    "name": "FLUCONAZOL",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C03CA014111",
+    "quantity": 551,
+    "name": "FUROSEMIDA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C03CA014111",
+    "quantity": 215,
+    "name": "FUROSEMIDA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C03CA014111",
+    "quantity": 684,
+    "name": "FUROSEMIDA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C03CA014111",
+    "quantity": 633,
+    "name": "FUROSEMIDA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C03CA014111",
+    "quantity": 190,
+    "name": "FUROSEMIDA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C03CA014111",
+    "quantity": 622,
+    "name": "FUROSEMIDA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C03CA014111",
+    "quantity": 622,
+    "name": "FUROSEMIDA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C03CA010110",
+    "quantity": 587,
+    "name": "FUROSEMIDA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C03CA010110",
+    "quantity": 706,
+    "name": "FUROSEMIDA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C03CA010110",
+    "quantity": 696,
+    "name": "FUROSEMIDA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C03CA010110",
+    "quantity": 454,
+    "name": "FUROSEMIDA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C03CA010110",
+    "quantity": 103,
+    "name": "FUROSEMIDA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C03CA010110",
+    "quantity": 240,
+    "name": "FUROSEMIDA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C03CA010110",
+    "quantity": 721,
+    "name": "FUROSEMIDA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB154111",
+    "quantity": 327,
+    "name": "KETOROLACO",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB154111",
+    "quantity": 322,
+    "name": "KETOROLACO",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB154111",
+    "quantity": 538,
+    "name": "KETOROLACO",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB154111",
+    "quantity": 165,
+    "name": "KETOROLACO",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB154111",
+    "quantity": 261,
+    "name": "KETOROLACO",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB154111",
+    "quantity": 816,
+    "name": "KETOROLACO",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB154111",
+    "quantity": 826,
+    "name": "KETOROLACO",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "R06AX132510",
+    "quantity": 564,
+    "name": "LORATADINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "R06AX132510",
+    "quantity": 715,
+    "name": "LORATADINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "R06AX132510",
+    "quantity": 379,
+    "name": "LORATADINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "R06AX132510",
+    "quantity": 223,
+    "name": "LORATADINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "R06AX132510",
+    "quantity": 813,
+    "name": "LORATADINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "R06AX132510",
+    "quantity": 391,
+    "name": "LORATADINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "R06AX132510",
+    "quantity": 453,
+    "name": "LORATADINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G02CX020910",
+    "quantity": 695,
+    "name": "NIFEDIPINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G02CX020910",
+    "quantity": 231,
+    "name": "NIFEDIPINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G02CX020910",
+    "quantity": 637,
+    "name": "NIFEDIPINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G02CX020910",
+    "quantity": 598,
+    "name": "NIFEDIPINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G02CX020910",
+    "quantity": 354,
+    "name": "NIFEDIPINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G02CX020910",
+    "quantity": 364,
+    "name": "NIFEDIPINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G02CX020910",
+    "quantity": 588,
+    "name": "NIFEDIPINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C07AA050120",
+    "quantity": 442,
+    "name": "PROPRANOLOL",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C07AA050120",
+    "quantity": 778,
+    "name": "PROPRANOLOL",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C07AA050120",
+    "quantity": 585,
+    "name": "PROPRANOLOL",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C07AA050120",
+    "quantity": 629,
+    "name": "PROPRANOLOL",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C07AA050120",
+    "quantity": 541,
+    "name": "PROPRANOLOL",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C07AA050120",
+    "quantity": 174,
+    "name": "PROPRANOLOL",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C07AA050120",
+    "quantity": 102,
+    "name": "PROPRANOLOL",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C07AA050130",
+    "quantity": 363,
+    "name": "PROPRANOLOL",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C07AA050130",
+    "quantity": 404,
+    "name": "PROPRANOLOL",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C07AA050130",
+    "quantity": 338,
+    "name": "PROPRANOLOL",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C07AA050130",
+    "quantity": 767,
+    "name": "PROPRANOLOL",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C07AA050130",
+    "quantity": 565,
+    "name": "PROPRANOLOL",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C07AA050130",
+    "quantity": 271,
+    "name": "PROPRANOLOL",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C07AA050130",
+    "quantity": 527,
+    "name": "PROPRANOLOL",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A02BA024110",
+    "quantity": 204,
+    "name": "RANITIDINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A02BA024110",
+    "quantity": 370,
+    "name": "RANITIDINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A02BA024110",
+    "quantity": 104,
+    "name": "RANITIDINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A02BA024110",
+    "quantity": 588,
+    "name": "RANITIDINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A02BA024110",
+    "quantity": 238,
+    "name": "RANITIDINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A02BA024110",
+    "quantity": 424,
+    "name": "RANITIDINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A02BA024110",
+    "quantity": 714,
+    "name": "RANITIDINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "D01BA020110",
+    "quantity": 259,
+    "name": "TERBINAFINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "D01BA020110",
+    "quantity": 412,
+    "name": "TERBINAFINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "D01BA020110",
+    "quantity": 506,
+    "name": "TERBINAFINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "D01BA020110",
+    "quantity": 273,
+    "name": "TERBINAFINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "D01BA020110",
+    "quantity": 632,
+    "name": "TERBINAFINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "D01BA020110",
+    "quantity": 646,
+    "name": "TERBINAFINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "D01BA020110",
+    "quantity": 743,
+    "name": "TERBINAFINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N02AX024111",
+    "quantity": 618,
+    "name": "TRAMADOL",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N02AX024111",
+    "quantity": 118,
+    "name": "TRAMADOL",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N02AX024111",
+    "quantity": 185,
+    "name": "TRAMADOL",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N02AX024111",
+    "quantity": 100,
+    "name": "TRAMADOL",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N02AX024111",
+    "quantity": 487,
+    "name": "TRAMADOL",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N02AX024111",
+    "quantity": 309,
+    "name": "TRAMADOL",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N02AX024111",
+    "quantity": 161,
+    "name": "TRAMADOL",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N02BE010110",
+    "quantity": 162,
+    "name": "PARACETAMOL",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N02BE010110",
+    "quantity": 415,
+    "name": "PARACETAMOL",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N02BE010110",
+    "quantity": 606,
+    "name": "PARACETAMOL",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N02BE010110",
+    "quantity": 686,
+    "name": "PARACETAMOL",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N02BE010110",
+    "quantity": 520,
+    "name": "PARACETAMOL",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N02BE010110",
+    "quantity": 104,
+    "name": "PARACETAMOL",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "N02BE010110",
+    "quantity": 367,
+    "name": "PARACETAMOL",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "V07AB004103",
+    "quantity": 466,
+    "name": "AGUA PARA INYECCI�N",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "V07AB004103",
+    "quantity": 512,
+    "name": "AGUA PARA INYECCI�N",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "V07AB004103",
+    "quantity": 281,
+    "name": "AGUA PARA INYECCI�N",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "V07AB004103",
+    "quantity": 136,
+    "name": "AGUA PARA INYECCI�N",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "V07AB004103",
+    "quantity": 288,
+    "name": "AGUA PARA INYECCI�N",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "V07AB004103",
+    "quantity": 671,
+    "name": "AGUA PARA INYECCI�N",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "V07AB004103",
+    "quantity": 396,
+    "name": "AGUA PARA INYECCI�N",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA032611",
+    "quantity": 108,
+    "name": "ALBENDAZOL",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA032611",
+    "quantity": 796,
+    "name": "ALBENDAZOL",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA032611",
+    "quantity": 640,
+    "name": "ALBENDAZOL",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA032611",
+    "quantity": 242,
+    "name": "ALBENDAZOL",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA032611",
+    "quantity": 740,
+    "name": "ALBENDAZOL",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA032611",
+    "quantity": 449,
+    "name": "ALBENDAZOL",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "P02CA032611",
+    "quantity": 838,
+    "name": "ALBENDAZOL",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA041211",
+    "quantity": 757,
+    "name": "AMOXICILINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA041211",
+    "quantity": 517,
+    "name": "AMOXICILINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA041211",
+    "quantity": 197,
+    "name": "AMOXICILINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA041211",
+    "quantity": 183,
+    "name": "AMOXICILINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA041211",
+    "quantity": 505,
+    "name": "AMOXICILINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA041211",
+    "quantity": 591,
+    "name": "AMOXICILINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA041211",
+    "quantity": 221,
+    "name": "AMOXICILINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA040910",
+    "quantity": 167,
+    "name": "AMOXICILINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA040910",
+    "quantity": 479,
+    "name": "AMOXICILINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA040910",
+    "quantity": 331,
+    "name": "AMOXICILINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA040910",
+    "quantity": 668,
+    "name": "AMOXICILINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA040910",
+    "quantity": 677,
+    "name": "AMOXICILINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA040910",
+    "quantity": 798,
+    "name": "AMOXICILINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA040910",
+    "quantity": 695,
+    "name": "AMOXICILINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA04123",
+    "quantity": 356,
+    "name": "AMOXICILINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA04123",
+    "quantity": 483,
+    "name": "AMOXICILINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA04123",
+    "quantity": 187,
+    "name": "AMOXICILINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA04123",
+    "quantity": 192,
+    "name": "AMOXICILINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA04123",
+    "quantity": 107,
+    "name": "AMOXICILINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA04123",
+    "quantity": 105,
+    "name": "AMOXICILINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA04123",
+    "quantity": 305,
+    "name": "AMOXICILINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CR021223",
+    "quantity": 340,
+    "name": "AMOXICILINA + �CIDO CLAVUL�NICO",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CR021223",
+    "quantity": 674,
+    "name": "AMOXICILINA + �CIDO CLAVUL�NICO",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CR021223",
+    "quantity": 362,
+    "name": "AMOXICILINA + �CIDO CLAVUL�NICO",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CR021223",
+    "quantity": 824,
+    "name": "AMOXICILINA + �CIDO CLAVUL�NICO",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CR021223",
+    "quantity": 139,
+    "name": "AMOXICILINA + �CIDO CLAVUL�NICO",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CR021223",
+    "quantity": 388,
+    "name": "AMOXICILINA + �CIDO CLAVUL�NICO",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CR021223",
+    "quantity": 815,
+    "name": "AMOXICILINA + �CIDO CLAVUL�NICO",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE014510",
+    "quantity": 618,
+    "name": "AMPICILINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE014510",
+    "quantity": 217,
+    "name": "AMPICILINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE014510",
+    "quantity": 360,
+    "name": "AMPICILINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE014510",
+    "quantity": 625,
+    "name": "AMPICILINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE014510",
+    "quantity": 326,
+    "name": "AMPICILINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE014510",
+    "quantity": 183,
+    "name": "AMPICILINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE014510",
+    "quantity": 777,
+    "name": "AMPICILINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA014520",
+    "quantity": 536,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA014520",
+    "quantity": 144,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA014520",
+    "quantity": 590,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA014520",
+    "quantity": 595,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA014520",
+    "quantity": 522,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA014520",
+    "quantity": 269,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CA014520",
+    "quantity": 717,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084510",
+    "quantity": 847,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084510",
+    "quantity": 436,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084510",
+    "quantity": 360,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084510",
+    "quantity": 678,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084510",
+    "quantity": 384,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084510",
+    "quantity": 647,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084510",
+    "quantity": 331,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084520",
+    "quantity": 655,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084520",
+    "quantity": 528,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084520",
+    "quantity": 359,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084520",
+    "quantity": 635,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084520",
+    "quantity": 198,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084520",
+    "quantity": 836,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084520",
+    "quantity": 516,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084530",
+    "quantity": 202,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084530",
+    "quantity": 432,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084530",
+    "quantity": 386,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084530",
+    "quantity": 678,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084530",
+    "quantity": 712,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084530",
+    "quantity": 398,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CE084530",
+    "quantity": 103,
+    "name": "BENCILPENICILINA (PENICILINA G CRISTALINA)",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01DD024520",
+    "quantity": 226,
+    "name": "CEFTAZIDIMA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01DD024520",
+    "quantity": 233,
+    "name": "CEFTAZIDIMA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01DD024520",
+    "quantity": 280,
+    "name": "CEFTAZIDIMA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01DD024520",
+    "quantity": 742,
+    "name": "CEFTAZIDIMA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01DD024520",
+    "quantity": 150,
+    "name": "CEFTAZIDIMA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01DD024520",
+    "quantity": 392,
+    "name": "CEFTAZIDIMA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01DD024520",
+    "quantity": 479,
+    "name": "CEFTAZIDIMA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01MA02051",
+    "quantity": 373,
+    "name": "CIPROFLOXACINO",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01MA02051",
+    "quantity": 192,
+    "name": "CIPROFLOXACINO",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01MA02051",
+    "quantity": 191,
+    "name": "CIPROFLOXACINO",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01MA02051",
+    "quantity": 295,
+    "name": "CIPROFLOXACINO",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01MA02051",
+    "quantity": 458,
+    "name": "CIPROFLOXACINO",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01MA02051",
+    "quantity": 395,
+    "name": "CIPROFLOXACINO",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01MA02051",
+    "quantity": 749,
+    "name": "CIPROFLOXACINO",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G01AF020730",
+    "quantity": 684,
+    "name": "CLOTRIMAZOL",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G01AF020730",
+    "quantity": 717,
+    "name": "CLOTRIMAZOL",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G01AF020730",
+    "quantity": 405,
+    "name": "CLOTRIMAZOL",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G01AF020730",
+    "quantity": 512,
+    "name": "CLOTRIMAZOL",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G01AF020730",
+    "quantity": 524,
+    "name": "CLOTRIMAZOL",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G01AF020730",
+    "quantity": 341,
+    "name": "CLOTRIMAZOL",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "G01AF020730",
+    "quantity": 730,
+    "name": "CLOTRIMAZOL",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A11DB004102",
+    "quantity": 110,
+    "name": "COMPLEJO B (VITAMINAS B1, B6, B12)",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A11DB004102",
+    "quantity": 363,
+    "name": "COMPLEJO B (VITAMINAS B1, B6, B12)",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A11DB004102",
+    "quantity": 333,
+    "name": "COMPLEJO B (VITAMINAS B1, B6, B12)",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A11DB004102",
+    "quantity": 579,
+    "name": "COMPLEJO B (VITAMINAS B1, B6, B12)",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A11DB004102",
+    "quantity": 245,
+    "name": "COMPLEJO B (VITAMINAS B1, B6, B12)",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A11DB004102",
+    "quantity": 831,
+    "name": "COMPLEJO B (VITAMINAS B1, B6, B12)",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A11DB004102",
+    "quantity": 747,
+    "name": "COMPLEJO B (VITAMINAS B1, B6, B12)",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A11DB004101",
+    "quantity": 428,
+    "name": "COMPLEJO B (VITAMINAS B1, B6, B12)",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A11DB004101",
+    "quantity": 569,
+    "name": "COMPLEJO B (VITAMINAS B1, B6, B12)",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A11DB004101",
+    "quantity": 535,
+    "name": "COMPLEJO B (VITAMINAS B1, B6, B12)",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A11DB004101",
+    "quantity": 437,
+    "name": "COMPLEJO B (VITAMINAS B1, B6, B12)",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A11DB004101",
+    "quantity": 600,
+    "name": "COMPLEJO B (VITAMINAS B1, B6, B12)",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A11DB004101",
+    "quantity": 288,
+    "name": "COMPLEJO B (VITAMINAS B1, B6, B12)",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "A11DB004101",
+    "quantity": 387,
+    "name": "COMPLEJO B (VITAMINAS B1, B6, B12)",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE012612",
+    "quantity": 608,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE012612",
+    "quantity": 440,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE012612",
+    "quantity": 717,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE012612",
+    "quantity": 788,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE012612",
+    "quantity": 314,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE012612",
+    "quantity": 461,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE012612",
+    "quantity": 321,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010110",
+    "quantity": 438,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010110",
+    "quantity": 104,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010110",
+    "quantity": 667,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010110",
+    "quantity": 587,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010110",
+    "quantity": 444,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010110",
+    "quantity": 714,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010110",
+    "quantity": 426,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010120",
+    "quantity": 208,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010120",
+    "quantity": 414,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010120",
+    "quantity": 230,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010120",
+    "quantity": 342,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010120",
+    "quantity": 663,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010120",
+    "quantity": 754,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01EE010120",
+    "quantity": 555,
+    "name": "COTRIMOXAZOL (SULFAMETOXAZOL + TRIMETOPRIMA)",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB054111",
+    "quantity": 624,
+    "name": "DICLOFENACO",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB054111",
+    "quantity": 229,
+    "name": "DICLOFENACO",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB054111",
+    "quantity": 438,
+    "name": "DICLOFENACO",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB054111",
+    "quantity": 797,
+    "name": "DICLOFENACO",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB054111",
+    "quantity": 228,
+    "name": "DICLOFENACO",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB054111",
+    "quantity": 577,
+    "name": "DICLOFENACO",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB054111",
+    "quantity": 104,
+    "name": "DICLOFENACO",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB050520",
+    "quantity": 256,
+    "name": "DICLOFENACO (S�DICO)",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB050520",
+    "quantity": 307,
+    "name": "DICLOFENACO (S�DICO)",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB050520",
+    "quantity": 155,
+    "name": "DICLOFENACO (S�DICO)",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB050520",
+    "quantity": 153,
+    "name": "DICLOFENACO (S�DICO)",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB050520",
+    "quantity": 503,
+    "name": "DICLOFENACO (S�DICO)",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB050520",
+    "quantity": 524,
+    "name": "DICLOFENACO (S�DICO)",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AB050520",
+    "quantity": 592,
+    "name": "DICLOFENACO (S�DICO)",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CF010910",
+    "quantity": 501,
+    "name": "DICLOXACILINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CF010910",
+    "quantity": 515,
+    "name": "DICLOXACILINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CF010910",
+    "quantity": 816,
+    "name": "DICLOXACILINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CF010910",
+    "quantity": 509,
+    "name": "DICLOXACILINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CF010910",
+    "quantity": 213,
+    "name": "DICLOXACILINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CF010910",
+    "quantity": 358,
+    "name": "DICLOXACILINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01CF010910",
+    "quantity": 577,
+    "name": "DICLOXACILINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C09AA02052",
+    "quantity": 563,
+    "name": "ENALAPRIL",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C09AA02052",
+    "quantity": 468,
+    "name": "ENALAPRIL",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C09AA02052",
+    "quantity": 344,
+    "name": "ENALAPRIL",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C09AA02052",
+    "quantity": 373,
+    "name": "ENALAPRIL",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C09AA02052",
+    "quantity": 783,
+    "name": "ENALAPRIL",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C09AA02052",
+    "quantity": 715,
+    "name": "ENALAPRIL",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C09AA02052",
+    "quantity": 555,
+    "name": "ENALAPRIL",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C09AA02053",
+    "quantity": 141,
+    "name": "ENALAPRIL",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C09AA02053",
+    "quantity": 598,
+    "name": "ENALAPRIL",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C09AA02053",
+    "quantity": 460,
+    "name": "ENALAPRIL",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C09AA02053",
+    "quantity": 293,
+    "name": "ENALAPRIL",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C09AA02053",
+    "quantity": 663,
+    "name": "ENALAPRIL",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C09AA02053",
+    "quantity": 717,
+    "name": "ENALAPRIL",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "C09AA02053",
+    "quantity": 490,
+    "name": "ENALAPRIL",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01GA014510",
+    "quantity": 694,
+    "name": "ESTREPTOMICINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01GA014510",
+    "quantity": 736,
+    "name": "ESTREPTOMICINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01GA014510",
+    "quantity": 594,
+    "name": "ESTREPTOMICINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01GA014510",
+    "quantity": 329,
+    "name": "ESTREPTOMICINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01GA014510",
+    "quantity": 109,
+    "name": "ESTREPTOMICINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01GA014510",
+    "quantity": 215,
+    "name": "ESTREPTOMICINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01GA014510",
+    "quantity": 106,
+    "name": "ESTREPTOMICINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01GB034131",
+    "quantity": 353,
+    "name": "GENTAMICINA",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01GB034131",
+    "quantity": 476,
+    "name": "GENTAMICINA",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01GB034131",
+    "quantity": 461,
+    "name": "GENTAMICINA",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01GB034131",
+    "quantity": 574,
+    "name": "GENTAMICINA",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01GB034131",
+    "quantity": 823,
+    "name": "GENTAMICINA",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01GB034131",
+    "quantity": 646,
+    "name": "GENTAMICINA",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "J01GB034131",
+    "quantity": 784,
+    "name": "GENTAMICINA",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "B03BA034111",
+    "quantity": 176,
+    "name": "HIDROXICOBALAMINA (VITAMINA B12)",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "B03BA034111",
+    "quantity": 457,
+    "name": "HIDROXICOBALAMINA (VITAMINA B12)",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "B03BA034111",
+    "quantity": 186,
+    "name": "HIDROXICOBALAMINA (VITAMINA B12)",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "B03BA034111",
+    "quantity": 407,
+    "name": "HIDROXICOBALAMINA (VITAMINA B12)",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "B03BA034111",
+    "quantity": 585,
+    "name": "HIDROXICOBALAMINA (VITAMINA B12)",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "B03BA034111",
+    "quantity": 164,
+    "name": "HIDROXICOBALAMINA (VITAMINA B12)",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "B03BA034111",
+    "quantity": 626,
+    "name": "HIDROXICOBALAMINA (VITAMINA B12)",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE010110",
+    "quantity": 610,
+    "name": "IBUPROFENO",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE010110",
+    "quantity": 232,
+    "name": "IBUPROFENO",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE010110",
+    "quantity": 606,
+    "name": "IBUPROFENO",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE010110",
+    "quantity": 645,
+    "name": "IBUPROFENO",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE010110",
+    "quantity": 506,
+    "name": "IBUPROFENO",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE010110",
+    "quantity": 653,
+    "name": "IBUPROFENO",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE010110",
+    "quantity": 373,
+    "name": "IBUPROFENO",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE010120",
+    "quantity": 507,
+    "name": "IBUPROFENO",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE010120",
+    "quantity": 800,
+    "name": "IBUPROFENO",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE010120",
+    "quantity": 176,
+    "name": "IBUPROFENO",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE010120",
+    "quantity": 755,
+    "name": "IBUPROFENO",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE010120",
+    "quantity": 133,
+    "name": "IBUPROFENO",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE010120",
+    "quantity": 576,
+    "name": "IBUPROFENO",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE010120",
+    "quantity": 701,
+    "name": "IBUPROFENO",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE01053",
+    "quantity": 517,
+    "name": "IBUPROFENO",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE01053",
+    "quantity": 389,
+    "name": "IBUPROFENO",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE01053",
+    "quantity": 768,
+    "name": "IBUPROFENO",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE01053",
+    "quantity": 813,
+    "name": "IBUPROFENO",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE01053",
+    "quantity": 312,
+    "name": "IBUPROFENO",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE01053",
+    "quantity": 711,
+    "name": "IBUPROFENO",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE01053",
+    "quantity": 165,
+    "name": "IBUPROFENO",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE01054",
+    "quantity": 723,
+    "name": "IBUPROFENO",
+    "site": "HQUITO1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE01054",
+    "quantity": 155,
+    "name": "IBUPROFENO",
+    "site": "HQUITO2",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE01054",
+    "quantity": 486,
+    "name": "IBUPROFENO",
+    "site": "HLOJA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE01054",
+    "quantity": 475,
+    "name": "IBUPROFENO",
+    "site": "HCUENCA1",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE01054",
+    "quantity": 257,
+    "name": "IBUPROFENO",
+    "site": "HGUAYAQUILL",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE01054",
+    "quantity": 378,
+    "name": "IBUPROFENO",
+    "site": "HRIOBAMBA",
+    "type": "Medicines"
+  },
+  {
+    "period": "2022",
+    "code": "M01AE01054",
+    "quantity": 263,
+    "name": "IBUPROFENO",
+    "site": "HAMBATO",
+    "type": "Medicines"
+  }
+]
